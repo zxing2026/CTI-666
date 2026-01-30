@@ -4,12 +4,12 @@
 importantInfo = true
 #Weight value for empty chunk
 #Range: > 1
-generationChance = 5000
+generationChance = 5
 #Finite vein base amount
 #Range: > 1
 finiteAmountBase = 8000
 #Veins infinite by default
-defaultInfinite = false
+defaultInfinite = true
 #Max number of extractor per ore vein, Set to 0 for infinite
 #Range: 0 ~ 64
 maxExtractorsPerVein = 0

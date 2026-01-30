@@ -27,5 +27,18 @@
 - Raw's Visual Keybinder
 - Yeetus Experimentus
 
+# 1.1
 
+修改了配置文件：
+- 机械动力矿石挖掘，矿脉变多，默认无限。
+- 戈伯矿产出三种戈伯球。
 
+添加了模组：
+- 精致存储Refined Storage
+- 精致存储：请求者Refined Storage: Requestify
+- 更多存储ExtraStorage
+- Refined Polymorphism
+
+添加了模组：
+- 更好的进度Better Advancements
+- （作弊）高级透视

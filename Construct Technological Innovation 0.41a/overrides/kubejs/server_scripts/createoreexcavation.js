@@ -116,7 +116,11 @@ event.recipes.createoreexcavation.drilling([Item.of('minecraft:raw_iron'), Item.
 
 
 //戈伯矿
-event.recipes.createoreexcavation.drilling([Item.of('gobber2:gobber2_globette'),Item.of('gobber2:gobber2_foo').withChance(0.5),Item.of('gobber2:gobber2_foo_nether').withChance(0.3),Item.of('gobber2:gobber2_foo_end').withChance(0.2)], '{"text": "戈伯煤矿"}', 60, 80)
+event.recipes.createoreexcavation.drilling([
+Item.of('gobber2:gobber2_globette').withChance(0.2),
+Item.of('gobber2:gobber2_globette_nether').withChance(0.2),
+Item.of('gobber2:gobber2_globette_end').withChance(0.2)
+], '{"text": "戈伯矿"}', 60, 80)
 .drill('#createoreexcavation:second_createore_drill')
 .fluid('minecraft:lava')
 .biomeWhitelist('minecraft:is_overworld')
