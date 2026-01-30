@@ -1,0 +1,14 @@
+{
+	id: "12D0C353035B6A6E"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{ count: 12, item: "tinkerscalibration:titanium_ingot" }
+		{ count: 6, item: "tinkers_reforged:titanium_ingot" }
+		{ count: 6, item: "kubejs:compressed_hardlead" }
+		{ count: 64, item: "minecraft:emerald" }
+		{ count: 12, item: "pneumaticcraft:plastic" }
+		{ count: 4, item: "kubejs:pressurized_casing" }
+	]
+	title: "PnC奖励（三阶）"
+}

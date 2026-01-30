@@ -1,0 +1,6909 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mainchapter2"
+	group: "7741820127317059"
+	icon: "etshtinker:activated_chroma_plate"
+	id: "7C5DE4051307EDEC"
+	images: [
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 2.5d
+			hover: [ ]
+			image: "ftbquests:block/barrier_open"
+			rotation: 0.0d
+			width: 2.5d
+			x: -50.0d
+			y: -22.5d
+		}
+		{
+			alpha: 100
+			click: ""
+			corner: false
+			dev: false
+			height: 10.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			order: -10
+			rotation: 0.0d
+			width: 9.0d
+			x: -39.5d
+			y: -32.0d
+		}
+		{
+			alpha: 100
+			click: ""
+			color: 16764023
+			corner: false
+			dev: false
+			height: 10.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			order: -10
+			rotation: 0.0d
+			width: 28.0d
+			x: -31.34d
+			y: -22.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 2.0d
+			hover: [ ]
+			image: "ftblibrary:icons/right"
+			rotation: 0.0d
+			width: 2.0d
+			x: -52.0d
+			y: -22.5d
+		}
+		{
+			alpha: 100
+			click: ""
+			corner: false
+			dev: false
+			height: 8.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			order: -10
+			rotation: 0.0d
+			width: 18.0d
+			x: -35.62d
+			y: -14.0d
+		}
+		{
+			alpha: 100
+			click: ""
+			color: 11206570
+			corner: false
+			dev: false
+			height: 10.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			order: -10
+			rotation: 0.0d
+			width: 3.0d
+			x: 3.0d
+			y: -22.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 2.5d
+			hover: [ ]
+			image: "ftbquests:block/barrier_open"
+			rotation: 0.0d
+			width: 2.5d
+			x: 3.0d
+			y: -22.5d
+		}
+		{
+			alpha: 100
+			click: ""
+			corner: false
+			dev: false
+			height: 10.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			order: -10
+			rotation: 0.0d
+			width: 11.0d
+			x: -30.5d
+			y: -32.0d
+		}
+		{
+			alpha: 100
+			click: ""
+			corner: false
+			dev: false
+			height: 10.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			order: -10
+			rotation: 0.0d
+			width: 11.0d
+			x: -20.5d
+			y: -32.0d
+		}
+		{
+			alpha: 100
+			click: ""
+			corner: false
+			dev: false
+			height: 10.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			order: -10
+			rotation: 0.0d
+			width: 12.0d
+			x: -10.0d
+			y: -32.0d
+		}
+		{
+			alpha: 100
+			click: ""
+			corner: false
+			dev: false
+			height: 10.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			order: -10
+			rotation: 0.0d
+			width: 10.0d
+			x: 0.0d
+			y: -32.0d
+		}
+		{
+			alpha: 100
+			click: ""
+			corner: false
+			dev: false
+			height: 8.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			order: -10
+			rotation: 0.0d
+			width: 18.0d
+			x: -19.5d
+			y: -14.0d
+		}
+		{
+			alpha: 100
+			click: ""
+			corner: false
+			dev: false
+			height: 8.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			order: -10
+			rotation: 0.0d
+			width: 18.0d
+			x: -3.42d
+			y: -14.0d
+		}
+		{
+			alpha: 100
+			click: ""
+			color: 16764023
+			corner: false
+			dev: false
+			height: 10.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			order: -10
+			rotation: 0.0d
+			width: 22.0d
+			x: -9.0d
+			y: -22.5d
+		}
+		{
+			alpha: 100
+			click: ""
+			color: 11206570
+			corner: false
+			dev: false
+			height: 30.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			order: -10
+			rotation: 0.0d
+			width: 4.0d
+			x: -46.0d
+			y: -23.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.25d
+			hover: [ ]
+			image: "ftbquests:tasks/input_only"
+			rotation: 0.0d
+			width: 1.25d
+			x: 1.5d
+			y: -30.5d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["6E48801C65AFF1D6"]
+			description: ["      可以通过用TNT炸掉落物状态的铁锭/块来获取你的第一块压缩铁。此方法存在损耗，所以建议做出压力室后再大批量生产压缩铁。"]
+			id: "1AD31A50C77AA192"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "35D604D068C753E3"
+					table_id: 814957091515608461L
+					type: "choice"
+				}
+				{
+					id: "4E0F9D7867731FE6"
+					item: "pneumaticcraft:compressed_iron_block"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "57B8F761D31E0E4F"
+				item: "pneumaticcraft:ingot_iron_compressed"
+				type: "item"
+			}]
+			x: -22.5d
+			y: -32.5d
+		}
+		{
+			dependencies: ["6E48801C65AFF1D6"]
+			description: ["      强化石是气动工艺中大部分机器的原材料，包括接下来要做的压力室。"]
+			id: "477FAD6258F9D37F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "79636C01EFAF6894"
+				table_id: 814957091515608461L
+				type: "choice"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "2FCC186A1959E51A"
+				item: "pneumaticcraft:reinforced_stone"
+				type: "item"
+			}]
+			x: -22.5d
+			y: -33.5d
+		}
+		{
+			dependencies: [
+				"57B8F761D31E0E4F"
+				"1AD31A50C77AA192"
+			]
+			description: [
+				"      PnC的压力系统是整个模组的核心玩法。"
+				"      压缩空气是PnC的主要能源，而压力管道则是传输压缩空气的方法。"
+				" &a     如果你只是需要把压缩空气从压缩机运输到机器，你只需要用压缩空气管道将压缩机和机器连接即可。&e在一个压缩空气管线系统中，压缩空气会自动从压力高的容器流向压力低的容器。"
+				"{image:kubejs:textures/ftbq_images/i13.png width:172 height:162 align:1}"
+				"&6PnC中的部分机器有管道连接的面限制，&e管道只能与带有接口纹理的面相连："
+				"{image:kubejs:textures/ftbq_images/i14.png width:150 height:67 align:1}"
+				" &6     另一部分机器则没有这一限制："
+				"{image:kubejs:textures/ftbq_images/i15.png width:176 height:77 align:1}"
+				"      但是，如果你想要进一步定量地了解压缩气体的运算机制，请往下翻。"
+				"{@pagebreak}"
+				"      打开一个存有压缩空气的机器，在右上角的选项卡里可以看到与压缩空气相关的信息。现在我们仔细观察压力、压缩空气体积和基础容量这3个数值。"
+				"{image:kubejs:textures/ftbq_images/i17.png width:88 height:48 align:1}"
+				" &6     我们不难发现在数值上，压力总是等于压缩空气的体积除以容器的基础容量。&r对于PnC而言，这个等式在任何温度下都成立。"
+				" &d     即 P = V/C"
+				" &b     P -  压力/bar；V - 压缩空气体积/L；C - 基础容积/L"
+				"      这是PnC中压强的基本定义。&c当一个压缩空气容器的压力超出耐压值时，该容器会发生爆炸，&e所以一个压缩空气容器的实际容积就等于&6耐压值*基础容量。"
+				"      PnC中存在类似于IC2电压的等级系统，&e1级管道/机器耐压5bar，1.5级10bar，2级20bar。"
+				" &b     PnC中的许多设备需要达到特定的压力才能运行，&a所以你的压缩机、管线系统的耐压值直接决定了这套系统能用于处理什么合成，并且会受制于木桶效应。"
+				"{@pagebreak}"
+				"      知道了压强的概念，接下来就来了解和压缩空气的运输相关的知识。"
+				"      在PnC的压力管道是传导压缩空气的主要手段。压力管道本质上也是一种压力容器，不同管道有不同的基础容量和耐压值，&b实验结果表明，压力管道和强化压力管道的基础容量是100mL，高级压力管道则是4000mL。"
+				"      压力管道在两端具有&e压力差&r时开始传导压缩空气。管道自身具有气阻，对于两端有固定压力差的单路长管线而言，管道上的压力逐节呈等差数列，同时每节管道内的空气流速相同。"
+				"{image:kubejs:textures/ftbq_images/i21.png width:200 height:107 align:1}"
+				" &6     此时，每节管道两侧的压力差和管道内空气流速的比值为一个定值，我们暂且将它叫做气阻。"
+				" &d     即R = P/I"
+				" &b     R-气阻，P-压力差(bar)，I-空气流速(L/t)&r。&e普通压力管道和强化压力管道的气阻均为1，高级压力管道则为0.25，大部分机器和压缩机也都有0.1~0.3的内阻&r。&a对于单路长管线而言，管路的总气阻大致等于其全部管道气阻的总和。"
+				"      至于有多支路的复杂管线，气阻的计算就不那么简单了，这里暂且不谈。但是总体而言，&e越长的管线通常意味着越大的气阻，所以尽可能缩短管线的长度是有必要的。"
+				" &b     另外，增加管线的支线数量也可以减少气阻。"
+				""
+				"{image:kubejs:textures/ftbq_images/i20.png width:168 height:122 align:1}"
+				" &e     图中这三条线两端的压力差均为5，流速从上到下分别是&6830、1368、4175mL/t，&e意味着气阻分别为&66.024、3.655、1.198"
+			]
+			id: "30FD231040565F28"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1836F28DD35A8D87"
+				table_id: 814957091515608461L
+				type: "choice"
+			}]
+			subtitle: "这个任务简单介绍了PnC的压强系统，请耐心看完"
+			tasks: [{
+				id: "7701E1195E4B76AF"
+				item: "pneumaticcraft:pressure_tube"
+				type: "item"
+			}]
+			x: -21.5d
+			y: -32.5d
+		}
+		{
+			description: [
+				"     这一章可以说是本包的核心章节，你将会一次性接触4个体量不小的科技模组，其中还有气动工艺这种具有独立能量体系的长流程模组。&6而且流程上与你玩过的其它整合包可能存在很大区别。&r这也是为什么本章的任务将各个模组各自的发展路线与主线拆分开了。"
+				""
+				" &e    本章的科技流程难度很高，如果你在哪里卡住了不妨先去干点别的（比如冒险）"
+				""
+				"     当在主线看到一个不熟悉的合成方式时，请前往教程章查看该合成方式对应的教程任务。"
+				""
+				"     另外如果想流畅地游玩本章，这个任务中的两个材料是必不可少的。"
+			]
+			id: "762B937EFF8ECC88"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1577F13E59491375"
+				table_id: 1534297405530813301L
+				type: "random"
+			}]
+			shape: "hexagon"
+			size: 2.0d
+			subtitle: "从这章开始就是中高度魔改的内容了"
+			tasks: [
+				{
+					consume_items: false
+					id: "64AF55284A683989"
+					item: "etshtinker:hardlead_plate"
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "4C43CC5CE5710A02"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "forge:ingots/steel"
+						}
+					}
+					title: "钢锭"
+					type: "item"
+				}
+			]
+			title: "本章须知"
+			x: -50.0d
+			y: -22.5d
+		}
+		{
+			dependencies: ["3697B37E48CDEE1B"]
+			description: [
+				"      气动工艺是一个很有意思的模组，加入了以压缩空气为主题的一套自动化系统！"
+				""
+				"{image:kubejs:textures/ftbq_images/i5.png width:90 height:66 align:1}"
+				"      &7PnC的独特的温度-压力系统"
+				""
+				" &e     在本包中气动在中期起到了中流砥柱的作用。&r如果你有提前查看气动的配方，你会知道本包的中期最大虚空产矿手段——&6熔岩筛矿&r就在气动的流程中。"
+				""
+				"      除此之外，压缩硬铅、压缩活化彩钢等材料依赖于气动生产。塑料、石油分馏可以被气动的小型多方快简化。中后期前往天王星和木星也少不了气动的参与。"
+				""
+				" &e     PnC的部分设备能在天镜找到。&6如果你没探索天镜那就等主线推到&r塑料&6再发展气动吧。"
+			]
+			hide_dependent_lines: true
+			icon: "pneumaticcraft:pressure_gauge"
+			id: "4A1A52ED171F3456"
+			rewards: [
+				{
+					count: 32
+					id: "5B502124E5982ADF"
+					item: "pneumaticcraft:module_expansion_card"
+					type: "item"
+				}
+				{
+					id: "5404EA01D6CC781F"
+					item: "pneumaticcraft:pneumatic_wrench"
+					title: "注：气动扳手要充气后才能使用"
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "熔岩筛矿需求的模组"
+			tasks: [{
+				id: "5B09580206AB6898"
+				item: "etshtinker:chroma_plate"
+				type: "item"
+			}]
+			title: "气动工艺 [PnC] —— 流程详解"
+			x: -24.0d
+			y: -35.0d
+		}
+		{
+			dependencies: ["4A1A52ED171F3456"]
+			description: [
+				"      PnC的大部分机器在压力超过一定值时会发生剧烈爆炸（图中红色区域，不同机器的实际爆炸压力不太一致，有些机器压力达到红色区域就会爆炸，也有机器压力满了才爆炸。不破坏方块，但是会损失机器）。"
+				"{image:kubejs:textures/ftbq_images/i3.png width:100 height:100 align:1}"
+				"      &7图：PnC机器的耐压值"
+				"{@pagebreak}"
+				"     加装安全升级可以让机器在压力到达最大值时排出过量压缩空气防止机器爆炸（这里我送你一个）。"
+				"{image:kubejs:textures/ftbq_images/i1.png width:130 height:70 align:1}"
+				"&7图：系统的压力大于左侧机器的安全压力，左侧的机器正在泄压（冒出白色粒子）"
+				"{@pagebreak}"
+				"     注意：由于过量的空气直接被排出了，整个管道系统的气压会被拉低，所以合理的产线设计依然是必要的。"
+				"{image:kubejs:textures/ftbq_images/i2.png width:100 height:81 align:1}"
+				"{image:kubejs:textures/ftbq_images/i5.png width:100 height:74 align:1}"
+				"      &7图：上一页系统的两个机器，可以看到由于整体管道系统的气压被拉低了，右侧机器的压强被限制在了8bar左右"
+				"{@pagebreak}"
+				"      PnC的机器/管道被划分为&d1级、1.5级和2级&r。1级耐压5bar，1.5级耐压10bar，2级耐压20bar，类似于IC2中电压系统的设计。&d你可以通过调节器管道模块来进行降压，来使高压管线的压缩空气进入低压的机器里，&b这在&aPnc——细节与小贴士&r&b的管道模块的任务里会有所提及。"
+			]
+			icon: "pneumaticcraft:security_upgrade"
+			id: "6E48801C65AFF1D6"
+			rewards: [{
+				count: 8
+				id: "0A9D7C2943BFCC76"
+				item: "pneumaticcraft:security_upgrade"
+				type: "item"
+			}]
+			shape: "diamond"
+			subtitle: "咦，我的机器怎么炸了？？？"
+			tasks: [{
+				id: "470202DF2717133F"
+				type: "checkmark"
+			}]
+			title: "安全第一！"
+			x: -24.0d
+			y: -33.0d
+		}
+		{
+			dependencies: ["3697B37E48CDEE1B"]
+			description: [
+				"      经典科技mod，玩过的人都知道它有多强力：各种高效的机器、强大的倍矿产线、发电量高到离谱的多方快发电机等等等等......"
+				""
+				"      在本包中，mek被赋予了掌管中后期流程的使命：在中期的后半段你需要用mek的化工设备合成中子素，在第三章你需要通过mek的裂变获取反物质从而抵达科技线的终点。"
+				""
+				"      正因如此，在本包中mek也逃不了被魔改的命运，&e请不要按玩其它包的经验游玩本包的mek部分。"
+				""
+				" &6     现在对mek的发展时期给出说明："
+				"      "
+				"      第一部分：热力->大部分工厂设备"
+				""
+				"      第二部分：沉浸工艺-> 化工设备"
+				""
+				"      第三部分：气动工艺-> Ad Astra 木星-> 锇压缩机、数采和核电"
+				"   &b（注：第三章前请用焦黑铸件台制备强化荧石/强化黑曜石锭）"
+				""
+				"       *mek的部分设备能在天镜找到。"
+			]
+			hide_dependent_lines: true
+			icon: {
+				Count: 1b
+				id: "mekanism:energy_tablet"
+				tag: {
+					mekData: {
+						EnergyContainers: [{
+							Container: 0b
+							stored: "1000000"
+						}]
+					}
+				}
+			}
+			id: "25FE4D8080589D7A"
+			rewards: [{
+				id: "7657BB85F6353CDD"
+				item: "mekanism:configurator"
+				type: "item"
+			}]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "不用玩都知道mek被魔改了"
+			tasks: [{
+				id: "5874C24F61F70EA1"
+				type: "checkmark"
+			}]
+			title: "通用机械 [Mek]"
+			x: -3.0d
+			y: -35.0d
+		}
+		{
+			dependencies: ["3697B37E48CDEE1B"]
+			description: [
+				"      热力是经典的老牌科技模组，有着不错的美工。里面有许多轻量化的单方块机器和一些实用物品。"
+				""
+				"      为什么最推荐优先发展热力呢？"
+				""
+				"      首先，&e热力是最简单，最通俗易懂的科技模组。&r同时热力也保有许多其它模组也在用的固有概念（比如输入/输出标识的蓝进橙出）。学会使用热力设备，你就能更好理解其它模组设备的自动化；"
+				""
+				"      其次，&e你需要热力的感应炉来量产钢以制作沉浸和mek的设备；"
+				""
+				"      再次，&e热力的机器在本包中使用率极高，从中期一直用到后期，&6做热力设备总没错。"
+				""
+				""
+				"      *热力的部分设备能在天镜找到"
+			]
+			hide_dependent_lines: true
+			icon: "thermal:energy_cell_frame"
+			id: "00A6DEB8A3AEA4C7"
+			rewards: [{
+				id: "65386E6457708F5B"
+				item: {
+					Count: 1b
+					id: "thermal:wrench"
+					tag: { }
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "你应当发展的第一个科技模组"
+			tasks: [{
+				id: "01898E9DF6E35825"
+				type: "checkmark"
+			}]
+			title: "热力系列"
+			x: -34.0d
+			y: -35.0d
+		}
+		{
+			dependencies: ["00A6DEB8A3AEA4C7"]
+			description: ["大部分热力机器的核心，有了它你就能合成更多机器。"]
+			id: "0E59BE3DDD0A75C9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1847F01EA1A0101E"
+				table_id: 9158922771852269074L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "0883322608EACBE7"
+				item: "thermal:machine_frame"
+				type: "item"
+			}]
+			x: -34.0d
+			y: -33.0d
+		}
+		{
+			description: ["      不过它的最大用处是高效压制AE2的电路板，从此告别恼人的压印器吧！"]
+			id: "24708A7E2EB25E28"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4112A3604036ED65"
+					table_id: 9158922771852269074L
+					type: "random"
+				}
+				{
+					count: 8
+					id: "34CAFF41AB05D308"
+					item: "ae2:silicon"
+					type: "item"
+				}
+				{
+					count: 8
+					id: "67CBA74A83F42037"
+					item: "minecraft:gold_ingot"
+					type: "item"
+				}
+				{
+					count: 8
+					id: "6786F4E62479514B"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					count: 8
+					id: "1834C829B31551E8"
+					item: "ae2:certus_quartz_crystal"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5B6308D8D38B8068"
+					table_id: 2171644119722362148L
+					type: "choice"
+				}
+			]
+			shape: "gear"
+			subtitle: "更省材料的齿轮合成方法"
+			tasks: [{
+				id: "533559F48C103F93"
+				item: "thermal:machine_press"
+				type: "item"
+			}]
+			x: -32.0d
+			y: -28.5d
+		}
+		{
+			dependencies: ["0E59BE3DDD0A75C9"]
+			description: [
+				"      感应炉可以用于高效自动化合成信素、流明、末影这三大基础合金。"
+				"      它也是合成彩钢、活化彩钢的必备机器。"
+				"      它还是你的第一个高效产钢设备（忘掉慢死人的高炉吧）"
+				"      "
+				" &b     本任务的下一页将会介绍热力机器的GUI（GUI就是你右键机器打开的东西）&r，&e如果你是科技模组新手，了解机器的GUI非常重要！"
+				"{@pagebreak}"
+				"      热力的GUI构造是一个非常经典的结构（我称之为“资料卡式设计”），后面你在PnC、Mek中也会看到类似的设计。"
+				"{image:kubejs:textures/ftbq_images/thermal_gui/34ab727e2af591fe83b722ed54ade8ea.png width:135 height:108 align:1}"
+				"      热力机器的GUI可以被分为四个部分，现在用不同颜色在图中标出。"
+				" &c     ①部分是你的物品栏，没什么好说的。"
+				""
+				" &6     ②部分是机器的能量槽，下面的物品格子可以放入能存储能量的物品，如mek的能量立方和热力自己的通量电容。"
+				""
+				"&a      ③部分是“资料卡”，将鼠标悬停在各个资料卡上时会显示部分信息，点击资料卡则能够打开资料卡，对机器进行配置或查看信息。"
+				""
+				"&b      ④部分是工作区，这里是处理配方的地方，你可以手动放入物品。"
+				""
+				"      资料卡部分我们主要介绍面配置，就是下图这个。其余资料卡的作用请自行点开试验。"
+				"{image:kubejs:textures/ftbq_images/thermal_gui/e5770c2951bd7ee29ee18d831b596670.png width:167 height:136 align:1}"
+				"      在这个资料卡中，你会看到两个按钮和机器的侧面展开图。"
+				"      点击展开图中的侧面，你就可以设置侧面的交互模式。如图所示，热力机器一共有五种链接模式：&e无（空白）、输入（蓝）、输出（橙）、输入/输出（蓝+橙）、通用（黑）。"
+				"      当选择了对应模式时，热力机器GUI中的槽位会变色，指示了对应面连接的槽位。"
+				"      特殊地，从处于 &e输入/输出&r 状态的面无法抽取输入槽内的物品，而 &e输入 或 通用&r 状态的面可以，这是 通用 模式和 输入/输出 模式的唯一区别。"
+				"      左侧的两个按钮则是自动输入和自动输出功能，打开后机器会主动从相邻物品存储抽取/弹出物品。"
+			]
+			id: "247D0332EDFCB7EE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5A8112C985B4FB47"
+					table_id: 9158922771852269074L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "28C9775F04D6DA3B"
+					table_id: 9158922771852269074L
+					type: "choice"
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "6823E1076FAA6D97"
+				item: "thermal:machine_smelter"
+				type: "item"
+			}]
+			x: -31.0d
+			y: -33.0d
+		}
+		{
+			dependencies: ["247D0332EDFCB7EE"]
+			id: "5E9C0A525EDCE935"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "365F40D26D9D0E42"
+				table_id: 8608731797032356187L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1213D99DE7ABA692"
+				item: "thermal:signalum_ingot"
+				type: "item"
+			}]
+			x: -29.5d
+			y: -33.0d
+		}
+		{
+			dependencies: ["247D0332EDFCB7EE"]
+			id: "0A06C2DFF1C7324F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "49E8837FD8E9123F"
+				table_id: 8608731797032356187L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6C889392AA00852B"
+				item: "thermal:lumium_ingot"
+				type: "item"
+			}]
+			x: -28.5d
+			y: -33.0d
+		}
+		{
+			dependencies: ["247D0332EDFCB7EE"]
+			id: "0C0F85D3DCF71BB2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3DD47C5D818C2A8D"
+				table_id: 8608731797032356187L
+				type: "random"
+			}]
+			tasks: [{
+				id: "456F5AE7EAC66223"
+				item: "thermal:enderium_ingot"
+				type: "item"
+			}]
+			x: -27.5d
+			y: -33.0d
+		}
+		{
+			dependencies: ["247D0332EDFCB7EE"]
+			description: [
+				"      暴雪人在各种雪原中会刷新。"
+				""
+				"      暴雪末影可以在悚陵的箱子里少量出现。"
+			]
+			hide_dependency_lines: true
+			id: "4EEAF89AEEAF0875"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "55F35526AC4435F1"
+				table_id: 4945335302112457345L
+				type: "random"
+			}]
+			tasks: [{
+				id: "43D6CE97287E00CA"
+				item: "etshtinker:blizz_enderium"
+				type: "item"
+			}]
+			x: -27.5d
+			y: -34.5d
+		}
+		{
+			dependencies: ["247D0332EDFCB7EE"]
+			description: [
+				"      狂风人在沙滩和热群系（沙漠、恶地等）均有出现。"
+				""
+				"      震荡流明沙漠神殿的箱子少量出现。"
+			]
+			hide_dependency_lines: true
+			id: "4CE18CF6A9B8ABE5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "66EF40361FE72590"
+				table_id: 4945335302112457345L
+				type: "random"
+			}]
+			tasks: [{
+				id: "444189188F466390"
+				item: "etshtinker:blitz_lumium"
+				type: "item"
+			}]
+			x: -28.5d
+			y: -34.5d
+		}
+		{
+			dependencies: ["247D0332EDFCB7EE"]
+			description: [
+				"      岩石人能在地下（稀少）或玄武岩三角洲（大量）被发现。"
+				""
+				"      地岩信素在下界要塞的箱子里少量出现。"
+			]
+			id: "7246E26F1E73CD72"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5CFDEFA20CE7007F"
+				table_id: 4945335302112457345L
+				type: "random"
+			}]
+			tasks: [{
+				id: "246146EBAC0E9B1C"
+				item: "etshtinker:basalz_signalum"
+				type: "item"
+			}]
+			x: -29.5d
+			y: -34.5d
+		}
+		{
+			dependencies: [
+				"7246E26F1E73CD72"
+				"4EEAF89AEEAF0875"
+				"4CE18CF6A9B8ABE5"
+			]
+			id: "6EEF72019466F208"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "72020E0E35FC07AB"
+					table_id: 4945335302112457345L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2A2C5AC25D97B188"
+					table_id: 2171644119722362148L
+					type: "choice"
+				}
+			]
+			subtitle: "强力的材料，无论是近进攻还是防御属性都很全面"
+			tasks: [{
+				id: "183A6AFF4C7FB57F"
+				item: "etshtinker:activated_chroma_plate"
+				type: "item"
+			}]
+			x: -26.5d
+			y: -34.5d
+		}
+		{
+			description: ["强大的流体精炼设备，&m能把高能的中子拆成质子和电子"]
+			id: "715BFFAD930FEC7B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0E980305EE8E2680"
+					table_id: 9158922771852269074L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "310D3205454F339E"
+					table_id: 2171644119722362148L
+					type: "choice"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "1E6787CCB2C0D96F"
+				item: "thermal:machine_refinery"
+				type: "item"
+			}]
+			x: -30.0d
+			y: -29.5d
+		}
+		{
+			description: ["      此外，如果你探索了外星维度，还可以用来获取热力的三种元素粉，进而更简单地获取活化彩钢。"]
+			id: "0C78DFDD892A97E6"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6CFF7A69A0F87A8F"
+					table_id: 9158922771852269074L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4CD67DCF3144A4F1"
+					table_id: 4945335302112457345L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "60BE316D58DA129A"
+					table_id: 1534297405530813301L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2633AD01AF671813"
+					table_id: 2171644119722362148L
+					type: "choice"
+				}
+			]
+			shape: "gear"
+			subtitle: "主要用于量产磷灰石和硝石，它也是矿渣处理的必要机器之一"
+			tasks: [{
+				id: "28135BDE08C3CACB"
+				item: "thermal:machine_pulverizer"
+				type: "item"
+			}]
+			x: -33.0d
+			y: -29.5d
+		}
+		{
+			description: ["      很好用的单方块种植机，还可以用各种催熟剂加速。而且在现版本热力中，有机灌注机不再只能在白天工作（好耶！）。"]
+			id: "7707F0A8EA208FA5"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "336295BAFA830550"
+					table_id: 9158922771852269074L
+					type: "random"
+				}
+				{
+					count: 16
+					id: "3483703E22BE17D8"
+					item: "thermal:phytogro"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4A83831C87AC4E7D"
+					table_id: 2171644119722362148L
+					type: "choice"
+				}
+			]
+			shape: "gear"
+			subtitle: "瓜聚变的小帮手"
+			tasks: [{
+				id: "0173CDF7A42A9D30"
+				item: "thermal:machine_insolator"
+				type: "item"
+			}]
+			x: -34.0d
+			y: -29.5d
+		}
+		{
+			id: "4E2F42AF3DF47E68"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2AEEC3C9DC1DC544"
+					table_id: 9158922771852269074L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2E8DABABEDCE2310"
+					table_id: 2171644119722362148L
+					type: "choice"
+				}
+			]
+			shape: "gear"
+			subtitle: "如其名，分离物品用的。也可以用来处理热力农业的作物以获取荧石、红石、粘液球等资源"
+			tasks: [{
+				id: "20BEBAFD8B7C0592"
+				item: "thermal:machine_centrifuge"
+				type: "item"
+			}]
+			x: -30.0d
+			y: -28.5d
+		}
+		{
+			id: "236ADEF17F9A1E7D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0340DC7CDB6DE0CE"
+					table_id: 9158922771852269074L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "727A9BEBE709E7BE"
+					table_id: 2171644119722362148L
+					type: "choice"
+				}
+			]
+			shape: "gear"
+			subtitle: "用于制备熔岩、不稳定红石等熔融物"
+			tasks: [{
+				id: "6B84FA99C38F8667"
+				item: "thermal:machine_crucible"
+				type: "item"
+			}]
+			x: -29.0d
+			y: -28.5d
+		}
+		{
+			id: "79DC690A0258D67D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2343F7C913835BA6"
+					table_id: 9158922771852269074L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4A2E5373971085F9"
+					table_id: 2171644119722362148L
+					type: "choice"
+				}
+			]
+			shape: "gear"
+			subtitle: "可以用于合成焦炭、杂酚油等，同时也是矿渣处理的重要机器"
+			tasks: [{
+				id: "3B29459E35D403D8"
+				item: "thermal:machine_pyrolyzer"
+				type: "item"
+			}]
+			x: -32.0d
+			y: -29.5d
+		}
+		{
+			id: "6F7268AC42E538FD"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5A70EE97008681F3"
+					table_id: 9158922771852269074L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "67BB0E933F99965F"
+					table_id: 2171644119722362148L
+					type: "choice"
+				}
+			]
+			shape: "gear"
+			subtitle: "灌装流体，与机械动力有联动（兼容部分注液器的配方）"
+			tasks: [{
+				id: "4B48921148505B77"
+				item: "thermal:machine_bottler"
+				type: "item"
+			}]
+			x: -29.0d
+			y: -29.5d
+		}
+		{
+			dependencies: ["00A6DEB8A3AEA4C7"]
+			description: ["      前期小神器，便宜大碗的催熟道具"]
+			id: "70C263359C93FA01"
+			rewards: [
+				{
+					count: 8
+					id: "6D1D2A0290D6E0C6"
+					item: "thermal:phytogro"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "297600B9AF5C1509"
+					table_id: 9158922771852269074L
+					type: "choice"
+				}
+			]
+			subtitle: "可以用多次的骨粉！"
+			tasks: [{
+				id: "301DFD01E448B6F2"
+				item: "thermal:phytogro"
+				type: "item"
+			}]
+			x: -28.0d
+			y: -29.5d
+		}
+		{
+			dependencies: ["70C263359C93FA01"]
+			description: ["      热力高版本的妙妙小炸弹，拥有强大的范围催熟效果，如果你能把这个量产了就根本不用考虑一般作物的生长问题了。"]
+			id: "327B23F9D25AACA2"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4D056489D9A559C7"
+					table_id: 4945335302112457345L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "27351223E88E6B1E"
+					table_id: 8608731797032356187L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "11C4F12F5EC34FB3"
+					table_id: 8608731797032356187L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6655F31042D8A3D8"
+					table_id: 1534297405530813301L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "354C9C9152289FA4"
+					table_id: 1534297405530813301L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1BD37CD0922D074A"
+					table_id: 1534297405530813301L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1C850221883D481B"
+					table_id: 2171644119722362148L
+					type: "choice"
+				}
+			]
+			shape: "gear"
+			subtitle: "PNT被办了，别问我为什么（）"
+			tasks: [{
+				count: 64L
+				id: "7C5F8F028191E34E"
+				item: "thermal:phyto_grenade"
+				type: "item"
+			}]
+			title: "[自动化挑战] 植育一号催熟爆弹"
+			x: -27.0d
+			y: -29.5d
+		}
+		{
+			description: [
+				"      也可以用来冷却部分匠魂的流体"
+				""
+				" &7     ps：如果你还有其它匠魂流体希望让冷冻机冷却，请告诉cti制作组哦~"
+			]
+			id: "6DCC9FA7D2484F6C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1B57C61C1CF458D4"
+					table_id: 9158922771852269074L
+					type: "random"
+				}
+				{
+					count: 16
+					id: "6BD849FDB8C6D446"
+					item: "minecraft:blue_ice"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "344F09D95763186E"
+					table_id: 2171644119722362148L
+					type: "choice"
+				}
+			]
+			shape: "gear"
+			subtitle: "不错的制冰方案"
+			tasks: [{
+				id: "7B70C5E98A3059A5"
+				item: "thermal:machine_chiller"
+				type: "item"
+			}]
+			x: -31.0d
+			y: -28.5d
+		}
+		{
+			dependencies: ["247D0332EDFCB7EE"]
+			description: ["       橡胶/植物胶乳的获取方式有很多，可以用工作台合成、树汁提取器提取、多驱冲压机制作。哪个简单就用哪个吧！"]
+			id: "7846705881E63359"
+			rewards: [
+				{
+					count: 12
+					id: "2BA4246BEB6787A5"
+					item: "thermal:sulfur"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "66AE859937D532A0"
+					table_id: 9158922771852269074L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2C7ACDBA2480D0FF"
+					table_id: 8608731797032356187L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "27922C2B2340E63B"
+					table_id: 2171644119722362148L
+					type: "choice"
+				}
+			]
+			subtitle: "是硫，我加了硫！"
+			tasks: [{
+				id: "01691658F6C59400"
+				item: "thermal:cured_rubber"
+				type: "item"
+			}]
+			x: -31.0d
+			y: -34.5d
+		}
+		{
+			dependencies: ["00A6DEB8A3AEA4C7"]
+			id: "401F3A17BD013DBC"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "31124283EB5C26C9"
+					table_id: 9158922771852269074L
+					type: "choice"
+				}
+				{
+					id: "5EB19893F52860BE"
+					item: "minecraft:honey_bottle"
+					type: "item"
+				}
+				{
+					id: "657A8C23B823417F"
+					item: "minecraft:honeycomb"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "49755C34C138A7A0"
+					table_id: 2171644119722362148L
+					type: "choice"
+				}
+			]
+			shape: "rsquare"
+			subtitle: "自动化蜂巢的好帮手，放在蜂巢/蜂箱底部就能自动收集蜂蜜"
+			tasks: [{
+				id: "765E00DD509EDC42"
+				item: "thermal:device_hive_extractor"
+				type: "item"
+			}]
+			x: -34.0d
+			y: -30.5d
+		}
+		{
+			dependencies: ["00A6DEB8A3AEA4C7"]
+			description: [
+				" &e经过代码和测试数据逆推，推测出的算法如下："
+				"      捕捞器有固定的工作间隔 [默认间隔是4800ticks（240秒，4分钟），最小间隔是240ticks（12秒）] 和初始工作范围（没测出来，推测初始范围应该在捕捞器为中心4*4*4左右）。"
+				" &b--在捕捞器的工作范围内每有一格水，工作间隔-20ticks；"
+				" &b--然后根据环境减少工作间隔（海洋群系下工作间隔/3，河流群系下间隔/2）；"
+				" &b--然后根据是否下雨减少工作间隔（下雨时工作间隔/2） "
+				" &b--然后根据有无输入物品（诱饵，垃圾捕捞器这些）增加工作间隔（无输入物品时工作间隔*2）"
+				" &b--最后将工作间隔限制在4800ticks和240ticks之间。"
+				""
+				"&a**虽然在水体足够大的情况下插入一个范围升级就能达到满速，但是由于诱饵会增加单次捕捉量所以依然推荐放入诱饵。"
+				""
+				"&a**整合组件不影响工作间隔，但是相应会增加单次捕捉量。"
+			]
+			id: "20718C58DEA024CE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "74EB7CD0913AC04E"
+					table_id: 9158922771852269074L
+					type: "choice"
+				}
+				{
+					count: 12
+					id: "1E865194AB9A6A99"
+					item: "thermal:aquachow"
+					type: "item"
+				}
+				{
+					count: 12
+					id: "0B16F6D02E860880"
+					item: "thermal:deep_aquachow"
+					type: "item"
+				}
+				{
+					id: "25300008798F610C"
+					item: "thermal:junk_net"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3CA7E1744FBBAE98"
+					table_id: 2171644119722362148L
+					type: "choice"
+				}
+			]
+			shape: "rsquare"
+			subtitle: "放入水中就能开始摸鱼，在插有知识浓缩器升级的情况下还能生产经验！"
+			tasks: [{
+				id: "53B60B6D22FDCD9E"
+				item: "thermal:device_fisher"
+				type: "item"
+			}]
+			x: -33.0d
+			y: -30.5d
+		}
+		{
+			dependencies: ["00A6DEB8A3AEA4C7"]
+			description: ["      具体的判定标准见百科"]
+			id: "1818617982F614E2"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "42CE5323869069C3"
+					table_id: 9158922771852269074L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2A721C8E376C449C"
+					table_id: 2171644119722362148L
+					type: "choice"
+				}
+			]
+			shape: "rsquare"
+			subtitle: "从树上提取树汁，可以在JEI上看提取的流体"
+			tasks: [{
+				id: "408E0D03C75A4182"
+				item: "thermal:device_tree_extractor"
+				type: "item"
+			}]
+			x: -32.0d
+			y: -30.5d
+		}
+		{
+			dependencies: ["00A6DEB8A3AEA4C7"]
+			id: "7A58ACBBE8A1EA5A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "105878F11FF6A319"
+					table_id: 9158922771852269074L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6B4F67FB57B3D2B2"
+					table_id: 2171644119722362148L
+					type: "choice"
+				}
+			]
+			shape: "rsquare"
+			subtitle: "可以从一定范围的区域吸取物品"
+			tasks: [{
+				id: "0400D45D171E1E19"
+				item: "thermal:device_collector"
+				type: "item"
+			}]
+			x: -31.0d
+			y: -30.5d
+		}
+		{
+			dependencies: ["00A6DEB8A3AEA4C7"]
+			description: [
+				"       传输效率高达2.14G/t，但是热力管道的主动抽取需要通过伺服器完成，而伺服器的效率很低。"
+				""
+				"       鉴于大部分发电机都有主动输出功能，所以中期很推荐能量管道（便宜大碗），流体则视情况使用。"
+				""
+				"       在后期面对大量的高功耗机器，热力管道可能存在调度问题导致传输量不足 ，此时热力能量管道不适用。"
+			]
+			id: "23E38FBBD8D361A7"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2D9F5DCAFE79D8EF"
+					table_id: 9158922771852269074L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6798E9ED00CDC7FA"
+					table_id: 2171644119722362148L
+					type: "choice"
+				}
+			]
+			shape: "rsquare"
+			subtitle: "传输效率极高，无缓存，但是主动抽取的效率很低"
+			tasks: [
+				{
+					id: "519B2F11DDB1559B"
+					item: "thermal:energy_duct"
+					type: "item"
+				}
+				{
+					id: "1478F24C5F55140E"
+					item: "thermal:fluid_duct"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "7B82834D742D219B"
+					item: "thermal:fluid_duct_windowed"
+					optional_task: true
+					type: "item"
+				}
+			]
+			title: "热力系列的两种管道"
+			x: -30.0d
+			y: -30.5d
+		}
+		{
+			dependencies: ["247D0332EDFCB7EE"]
+			id: "7DD53FF061290707"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2D1210E67C75693D"
+				table_id: 9158922771852269074L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "479729643D0253D0"
+				item: "thermal:upgrade_augment_1"
+				type: "item"
+			}]
+			x: -29.5d
+			y: -31.5d
+		}
+		{
+			dependencies: ["7DD53FF061290707"]
+			id: "595143506931F6AA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4EAD59A6A8DEEBD4"
+				table_id: 8608731797032356187L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "0ECC5FB6D0319D94"
+				item: "thermal:upgrade_augment_2"
+				type: "item"
+			}]
+			x: -28.5d
+			y: -31.5d
+		}
+		{
+			dependencies: ["595143506931F6AA"]
+			id: "3BEB4C091023FF09"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "43E32C858B8ECFE1"
+					table_id: 8608731797032356187L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "24BB523ED19F0993"
+					table_id: 9158922771852269074L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				id: "1F066DD81154DF0F"
+				item: "thermal:upgrade_augment_3"
+				type: "item"
+			}]
+			x: -27.5d
+			y: -31.5d
+		}
+		{
+			description: [
+				"      这些是本包添加的一系列插件，它极大增加了热力机器的效率，当然造价也相对昂贵。"
+				""
+				"      下面对热力膨胀设备及其插件计算原理做出阐述："
+				""
+				"以处理类配方为例：配方的&e电量消耗是固定的&r，以&b链接放大组件&r为例，运速 &4+&r 100%意味着&e配方耗能速度增加100%&r（多个&4加算&r，即两个增加200%而不是翻两次倍）这样处理时间应该减半，但是它同时将&e配方耗能总量提升为 1.1 &cx&r（多个&c乘算&r，即两个1.1*1.1=1.21x而非1.2x），也就是说&e总共要消耗1.1*原消耗电量&r，所以最终耗时为1/2*1.1=0.55倍原时间"
+			]
+			id: "60DE870CC160C459"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7FF70D38B899B39F"
+					table_id: 4945335302112457345L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "485825A81B847E72"
+					table_id: 4945335302112457345L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5EBEE8CB3012AB99"
+					table_id: 4945335302112457345L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "361058DCA3CBC65C"
+					table_id: 1355798249144543854L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "575DF214C18DF56F"
+					table_id: 1355798249144543854L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4F0951791002F469"
+					table_id: 1355798249144543854L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0432B2505F5CAEAA"
+					table_id: 2171644119722362148L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "33ABB23768BB0045"
+					table_id: 2171644119722362148L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "298CCA660EC3B3B4"
+					table_id: 2171644119722362148L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "774DAB167C4B80F7"
+					table_id: 8350761140120052524L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3D676E137CA26ECA"
+					table_id: 8350761140120052524L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "78DF4E46BCBA5382"
+					table_id: 8350761140120052524L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			subtitle: "热力有很多升级插件，具体请看JEI"
+			tasks: [
+				{
+					id: "0A461AB9DA9D4309"
+					item: "cti:advanced_catalyst_augment"
+					type: "item"
+				}
+				{
+					id: "2800E98AF8468F5F"
+					item: "cti:advanced_dyano_augment"
+					type: "item"
+				}
+				{
+					id: "4F682CF0BCE15F86"
+					item: "cti:advanced_range_augment"
+					type: "item"
+				}
+				{
+					id: "0D57DC02C3CC8FDC"
+					item: "cti:advanced_output_augment"
+					type: "item"
+				}
+				{
+					id: "31AB6AC7C94640BD"
+					item: "cti:advanced_speed_augment"
+					type: "item"
+				}
+				{
+					id: "388EC8EEB10B07F8"
+					item: "cti:upgrade_augment_4"
+					type: "item"
+				}
+				{
+					id: "58DFFCE38CC51D29"
+					item: "cti:upgrade_augment_5"
+					type: "item"
+				}
+				{
+					id: "7D2FD1903568261C"
+					item: "cti:upgrade_augment_6"
+					type: "item"
+				}
+			]
+			title: "妙妙小升级"
+			x: -29.0d
+			y: -30.5d
+		}
+		{
+			dependencies: [
+				"30FD231040565F28"
+				"477FAD6258F9D37F"
+			]
+			description: [
+				"压力室由压力室外壁（压力室墙壁或压力室玻璃）、压力室接口、压力室气阀组成。"
+				"&6压力室是中空的正方体，棱长可以是3、4、5，尺寸影响空气容量和能放置的接口数目。"
+				"&b--压力室墙壁/压力室玻璃组成了压力室的边角和棱，这两种方块也可以放在压力室的面上。"
+				"&b--压力室气阀只能放在压力室的面上（不能组成边角和棱），用于输入/输出压缩空气。"
+				""
+				"&a以上两种方块在一个压力室结构中是必须的"
+				""
+				"&b--压力室接口只能放在压力室的面上，用于输入/输出物品，每个压力室接口在一次合成中只能输入一种物品（相当于接口数量决定了自动化合成时的最大输入数量）。"
+				"{@pagebreak}"
+				"&e**虽然压力室接口不是必须的，但是没有压力室接口的压力室&c**必须**&e通过&6把结构挖开-手动丢入物品-把结构摆好-开始合成-把结构挖开-取出物品&e来合成，所以建议加上。&9在摆放压力室接口的时候要注意朝向问题，因为接口朝向决定了这个接口是输入口还是输出口。"
+				"&6**压力室结构中只有压力室气阀会过压爆炸，所以不用担心压力室整个炸掉（安全升级也是塞气阀里）。"
+				"不同尺寸的压力室"
+				"{image:kubejs:textures/ftbq_images/i6.png width:172 height:64 align:1}"
+				"{@pagebreak}"
+				"      作为一种多输入且从多个方块的位置输入的合成方式，推荐用子网合成进行自动化。"
+				"{image:kubejs:textures/ftbq_images/b6dfa6121caf44d5d17f68a2b9a1b5bf.png width:166 height:120 align:1}"
+				"      请前往AE章节以了解什么是子网合成。"
+			]
+			id: "38F90431CEFE965D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4487837BF9919F14"
+					table_id: 814957091515608461L
+					type: "choice"
+				}
+				{
+					count: 8
+					id: "1E562B2BCA7C0AFD"
+					item: "pneumaticcraft:ingot_iron_compressed"
+					type: "item"
+				}
+			]
+			shape: "gear"
+			subtitle: "PnC的一大核心机器"
+			tasks: [
+				{
+					id: "0113E17FD6502C81"
+					item: "pneumaticcraft:pressure_chamber_interface"
+					type: "item"
+				}
+				{
+					id: "6A8A7453A6FEA8C3"
+					item: "pneumaticcraft:pressure_chamber_valve"
+					type: "item"
+				}
+				{
+					id: "67B0F92D833E749E"
+					item: "pneumaticcraft:pressure_chamber_glass"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "75D483E673B1E8D0"
+					item: "pneumaticcraft:pressure_chamber_wall"
+					optional_task: true
+					type: "item"
+				}
+			]
+			title: "压力室"
+			x: -21.5d
+			y: -33.5d
+		}
+		{
+			dependencies: ["75F7DF5655FB02C6"]
+			description: [
+				"      相比于基础款的压缩机，液体压缩机的产气速率会随液体的倍率增加而增加，这使得它的产气效率是初期最高的。"
+				""
+				" &a     倍率1.5的精炼油或液态氢是性价比较高的燃料，因为它们只需要用热力的精炼机精炼原油就能获取。"
+				""
+				"      同时相比于高级压缩机，它不需要控温，使用相当无脑。"
+			]
+			id: "37B6EC208EAC551A"
+			rewards: [
+				{
+					count: 4
+					id: "7DD6A3520EC1CEF1"
+					item: "mekanism:hydrogen_bucket"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0C2F9E8778DB9C3F"
+					table_id: 814957091515608461L
+					type: "choice"
+				}
+			]
+			subtitle: "推荐理由：初期最高产气速度"
+			tasks: [{
+				id: "1B6B2B9F37D0A03C"
+				item: "pneumaticcraft:liquid_compressor"
+				optional_task: true
+				type: "item"
+			}]
+			x: -23.0d
+			y: -30.5d
+		}
+		{
+			dependencies: ["38F90431CEFE965D"]
+			description: ["      PnC的阶段性材料，后面你还会需要很多"]
+			id: "34BF7851DF1B09A7"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "19EAF997BD3D931C"
+					table_id: 6253538946852004205L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "01D8FC7088155C0A"
+					table_id: 814957091515608461L
+					type: "choice"
+				}
+				{
+					count: 16
+					id: "32AA97BFFEC42CBE"
+					item: "etshtinker:hardlead_plate"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5EDE05C2DA265D63"
+					item: "etshtinker:chroma_plate"
+					type: "item"
+				}
+			]
+			shape: "gear"
+			subtitle: "被冷焊到一起了的硬铅"
+			tasks: [{
+				id: "275DDB7050C5875E"
+				item: "kubejs:compressed_hardlead"
+				type: "item"
+			}]
+			x: -20.5d
+			y: -33.0d
+		}
+		{
+			dependencies: ["0411A7217F4BFFC5"]
+			id: "57331E9421E0C223"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "29F81045EB7A66B8"
+				table_id: 6253538946852004205L
+				type: "choice"
+			}]
+			tasks: [
+				{
+					id: "445EC4182890A046"
+					item: "pneumaticcraft:fluid_mixer"
+					type: "item"
+				}
+				{
+					id: "20FD8C527F63885E"
+					item: "pneumaticcraft:thermopneumatic_processing_plant"
+					type: "item"
+				}
+			]
+			title: "高级设备"
+			x: -18.5d
+			y: -33.0d
+		}
+		{
+			dependencies: ["57331E9421E0C223"]
+			description: [
+				"&6      熔岩产矿是本包中期最强大的矿物产出方式之一，不仅提供了取之不尽用之不竭的矿物，还能产出大量的铀从而与裂变产线对接，也能产出锆、钨这种稀有资源。"
+				""
+				"      详细做法请看本章节上方的说明和JEI"
+				""
+				" &d     热力的机器：现在想起我来了吧"
+			]
+			icon: "kubejs:volatile_lava_bucket"
+			id: "58821DAE34D625C5"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "52BD406646F79124"
+					table_id: 6253538946852004205L
+					type: "choice"
+				}
+				{
+					id: "360C83E31474FCF4"
+					item: "create:hose_pulley"
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			subtitle: "什么？你矿物不够用？"
+			tasks: [{
+				id: "2FEAC8BA9E301D41"
+				type: "checkmark"
+			}]
+			title: "挥发性熔岩"
+			x: -17.5d
+			y: -34.0d
+		}
+		{
+			dependencies: ["75F7DF5655FB02C6"]
+			description: [
+				"      如果你的电力充足，可以一侧用电阻加热器加热到高温，另一侧用散热片+空气栅冷却，有相对可观的产气量！"
+				""
+				"      如果你解锁了天镜，无限制冷的冰石会是个不错的冷源（尽管散热效率依然有限）。"
+			]
+			icon: "pneumaticcraft:thermal_compressor"
+			id: "636560ABC5E871C6"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5F96A8344471673A"
+					table_id: 6253538946852004205L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0ABF2E2BC63171E0"
+					table_id: 814957091515608461L
+					type: "choice"
+				}
+			]
+			subtitle: "不如其它压缩机那么无脑，但是它能产生10bar的高压"
+			tasks: [
+				{
+					id: "71263C41B0413259"
+					item: "pneumaticcraft:thermal_compressor"
+					type: "item"
+				}
+				{
+					id: "6234C1D1978C0646"
+					item: "aether:icestone"
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -23.0d
+			y: -29.5d
+		}
+		{
+			dependencies: ["0411A7217F4BFFC5"]
+			description: [
+				"最简单的多方快结构，只需要在精炼厂控制器上方放2~4个精炼厂输出端就行了。"
+				"{image:kubejs:textures/ftbq_images/i7.png width:108 height:77 align:1}"
+				" 由于整合包魔改了原本的配方，所以现在无脑1+4就可以了"
+				"{@pagebreak}"
+				"只需输入热量就能工作，精炼厂结构的每个面都能参与热交换"
+			]
+			id: "4A05D629702AED32"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3551A016AE88062A"
+					table_id: 814957091515608461L
+					type: "choice"
+				}
+				{
+					count: 8
+					id: "1F675616F1E728AF"
+					item: "immersivepetroleum:crudeoil_bucket"
+					type: "item"
+				}
+			]
+			subtitle: "用于分馏石油"
+			tasks: [
+				{
+					id: "7B29303EC0F03C63"
+					item: "pneumaticcraft:refinery"
+					type: "item"
+				}
+				{
+					id: "2A0DD64EB7CEF4F7"
+					item: "pneumaticcraft:refinery_output"
+					type: "item"
+				}
+			]
+			title: "精炼厂"
+			x: -19.5d
+			y: -32.0d
+		}
+		{
+			dependencies: ["4B981566F66F9C3F"]
+			description: [
+				"既好用又好玩的工具，让你在MC体验网购。"
+				"      绑定完容器后向容器里加入足够的交易物就能愉快地开始下单。"
+				"      你的货物会通过无人机运送到绑定的容器里（很可爱不是吗awa）"
+				"也是制造电路板的必经之路"
+			]
+			id: "78DF493EEA88960F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "37ABEF876E7C2416"
+					table_id: 1534297405530813301L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "17F5B481F05B2376"
+					table_id: 814957091515608461L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "67FDDB00982687C0"
+					table_id: 6253538946852004205L
+					type: "choice"
+				}
+				{
+					count: 8
+					id: "6AE84BCA3BF89496"
+					item: "minecraft:emerald_block"
+					type: "item"
+				}
+			]
+			subtitle: "Amazon：勿cue"
+			tasks: [{
+				id: "2D7DE54935A9290A"
+				item: "pneumaticcraft:amadron_tablet"
+				type: "item"
+			}]
+			x: -19.5d
+			y: -30.5d
+		}
+		{
+			dependencies: ["78DF493EEA88960F"]
+			id: "1ED49DF01DBACB93"
+			rewards: [
+				{
+					count: 4
+					id: "36D783FEE410032B"
+					item: "minecraft:emerald_block"
+					type: "item"
+				}
+				{
+					id: "2DEE9089500FC90B"
+					item: {
+						Count: 1b
+						id: "pneumaticcraft:empty_pcb"
+						tag: {
+							"pneumaticcraft:uv_exposure": 50
+						}
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "23DAF389EBD80E77"
+					table_id: 1355798249144543854L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				id: "7C79F5690DC37C10"
+				item: "pneumaticcraft:pcb_blueprint"
+				type: "item"
+			}]
+			x: -19.5d
+			y: -29.5d
+		}
+		{
+			dependencies: ["38F90431CEFE965D"]
+			hide_dependency_lines: true
+			id: "2AB0149BA47B862E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "446833196F84CAD0"
+					table_id: 6253538946852004205L
+					type: "choice"
+				}
+				{
+					id: "76F2B22235A81A69"
+					item: {
+						Count: 1b
+						id: "pneumaticcraft:empty_pcb"
+						tag: {
+							"pneumaticcraft:uv_exposure": 5
+						}
+					}
+					title: "要来试试运气吗？"
+					type: "item"
+				}
+				{
+					id: "360CCA4FD2F1609C"
+					item: "pneumaticcraft:etching_acid_bucket"
+					type: "item"
+				}
+			]
+			subtitle: "均使用压力室合成"
+			tasks: [
+				{
+					id: "7CBCBA08585EF3DD"
+					item: "pneumaticcraft:empty_pcb"
+					type: "item"
+				}
+				{
+					id: "730BB8C650106EFB"
+					item: "pneumaticcraft:transistor"
+					type: "item"
+				}
+				{
+					id: "2D5EBC7DFE53B123"
+					item: "pneumaticcraft:capacitor"
+					type: "item"
+				}
+				{
+					id: "3711A7064AC6B575"
+					item: "pneumaticcraft:etching_acid_bucket"
+					type: "item"
+				}
+			]
+			title: "电子元器件"
+			x: -17.5d
+			y: -29.5d
+		}
+		{
+			dependencies: ["1ED49DF01DBACB93"]
+			description: ["      稍稍思索你就会发现紫外线灯箱的阈值调到100是最高效的。图快不吃香（）"]
+			id: "4451C7E7E0BEA8FA"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "65C68C03731E62FE"
+					table_id: 1355798249144543854L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7BD78EE990DD2950"
+					table_id: 6253538946852004205L
+					type: "choice"
+				}
+			]
+			subtitle: "真实的电路板制造工艺（确信）"
+			tasks: [
+				{
+					id: "35633DCED1D26D7E"
+					item: "pneumaticcraft:uv_light_box"
+					type: "item"
+				}
+				{
+					id: "670D1F68560CEC01"
+					item: "pneumaticcraft:etching_tank"
+					type: "item"
+				}
+			]
+			title: "紫外线灯箱和电路板蚀刻器"
+			x: -18.5d
+			y: -30.5d
+		}
+		{
+			dependencies: [
+				"4451C7E7E0BEA8FA"
+				"2AB0149BA47B862E"
+			]
+			id: "0C84DDFD1EABFF6A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "60CC9D8A5DF8CBC7"
+					table_id: 1355798249144543854L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7FF6CD8486A9277E"
+					table_id: 6253538946852004205L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "41FA11336C1D1940"
+					table_id: 814957091515608461L
+					type: "choice"
+				}
+				{
+					count: 4
+					id: "75C7340D2A87D427"
+					item: "pneumaticcraft:printed_circuit_board"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				id: "19B9B89BB9B92DE5"
+				item: "pneumaticcraft:printed_circuit_board"
+				type: "item"
+			}]
+			title: "完成的电路板"
+			x: -18.5d
+			y: -29.5d
+		}
+		{
+			dependencies: ["57331E9421E0C223"]
+			description: ["      也是一种不错的中期匠魂材料！      "]
+			id: "3843E47EEC23E6C8"
+			rewards: [
+				{
+					count: 4
+					id: "4359D1CE63891632"
+					item: "kubejs:zirconium_alloy"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "159A3BD2BB48BAE3"
+					table_id: 6253538946852004205L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6A5F3205E9303A57"
+					table_id: 6253538946852004205L
+					type: "choice"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "需要9bar才能合成，是PnC线的另一个关键材料"
+			tasks: [{
+				id: "5F6275391226158A"
+				item: "kubejs:zirconium_alloy"
+				type: "item"
+			}]
+			x: -17.5d
+			y: -33.0d
+		}
+		{
+			dependencies: ["0C84DDFD1EABFF6A"]
+			description: [
+				"具体设备需求在装配程序tooltip上有表明。"
+				"具体摆法是中间放装配平台，然后在装配平台周围8格中摆上IO、激光、钻头和控制器。在装配IO设备旁边放任意容器作为输入端或输出端。"
+				"注意事项："
+				"1、每种机器只能放一个；"
+				"2、机器必须与多方快结构直接相连才会被算入结构中；"
+				"3、装配激光和装配钻头必须与装配平台相连；"
+				"4、装配IO的识别范围为以它为中心的3*3区域，换言之它能识别到对角位置的容器/装配平台。"
+				"5、装配程序（钻头+激光）同时兼容需要钻头和激光的合成，最好做这个。"
+				"{@pagebreak}"
+				"一个简单的AE自动化装配线（方便演示所以用的创造物品）"
+				"{image:kubejs:textures/ftbq_images/i10.png width:211 height:147 align:1}"
+				"图中的箱子可以替换成其它容器。装配平台的下方是输入IO，右侧为输出IO，箱子内的物品会被输入，合成完的产物会直接返回AE。"
+			]
+			id: "32C4C65E43956BC0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "59797B062993E9C2"
+					table_id: 1355798249144543854L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6C8361B88110B9AE"
+					table_id: 1355798249144543854L
+					type: "choice"
+				}
+				{
+					count: 16
+					id: "18B2D00BE6034541"
+					item: "pneumaticcraft:compressed_iron_block"
+					type: "item"
+				}
+			]
+			subtitle: "同样也是很简单的多方快结构"
+			tasks: [
+				{
+					id: "2DB242D81B9DA421"
+					item: "pneumaticcraft:assembly_platform"
+					type: "item"
+				}
+				{
+					id: "6E523135E41FD623"
+					item: "pneumaticcraft:assembly_io_unit_import"
+					type: "item"
+				}
+				{
+					id: "697AA63621B55323"
+					item: "pneumaticcraft:assembly_io_unit_export"
+					type: "item"
+				}
+				{
+					id: "476BF42554B2AEF6"
+					item: "pneumaticcraft:assembly_drill"
+					type: "item"
+				}
+				{
+					id: "6250433A15AE96BB"
+					item: "pneumaticcraft:assembly_laser"
+					type: "item"
+				}
+				{
+					id: "5C007E890349688D"
+					item: "pneumaticcraft:assembly_controller"
+					type: "item"
+				}
+				{
+					id: "3D19247B2C918E0D"
+					item: {
+						Count: 1b
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "pneumaticcraft:assembly_program_laser"
+								}
+								{
+									Count: 1b
+									id: "pneumaticcraft:assembly_program_drill_laser"
+								}
+								{
+									Count: 1b
+									id: "pneumaticcraft:assembly_program_drill"
+								}
+							]
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "装配流水线"
+			x: -17.5d
+			y: -30.5d
+		}
+		{
+			dependencies: ["1086824576A9D409"]
+			description: ["      用气动扳手shift-右键来拆除"]
+			id: "78E9E928FCA52F6A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7CAE93CBABF78213"
+				table_id: 6253538946852004205L
+				type: "choice"
+			}]
+			shape: "gear"
+			subtitle: "也许可以用来自动化烈焰血"
+			tasks: [{
+				id: "16E9128E6A8E1EE2"
+				item: "pneumaticcraft:spawner_agitator"
+				type: "item"
+			}]
+			x: -9.0d
+			y: -31.5d
+		}
+		{
+			dependencies: ["1086824576A9D409"]
+			description: [
+				"      PnC一大神器，它能做到和玩家物品栏交互，安装了发射器升级后还能存取玩家经验、自动喂食，兼容多个模组的流体经验。可以通过机器的侧面配置来设置物品交互的栏位。"
+				" &e     当与玩家绑定后，它能够读取玩家的物品栏，通过对侧面进行配置就能设置对应面访问的是玩家的哪个栏位。"
+				" &d     相应的，用充气模块连接时，它能为对应栏位中可充气的物品充气。"
+				"{image:kubejs:textures/ftbq_images/a6bc6faacc8f3bacf1bb9d0ff2c42c41.png width:100 height:100 align:1}"
+				"{@pagebreak}"
+				"&c      bug警示：当用存储总线（AE2）、存储整合器（TSS）连接，并且对应面是玩家物品栏时，若尝试在对应终端中&4shift-左键&c向其中转移物品，被转移的物品有很大概率会丢失。&r（&m不过应该不会有人这样做吧&r）"
+			]
+			id: "11D8658566711245"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5E08672BF340B1F9"
+					table_id: 6253538946852004205L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "073847BE361E40FC"
+					table_id: 1355798249144543854L
+					type: "choice"
+				}
+			]
+			shape: "gear"
+			subtitle: "很多人可能看名字就把它忽略了（）"
+			tasks: [{
+				id: "4FB8876A759710AA"
+				item: "pneumaticcraft:aerial_interface"
+				type: "item"
+			}]
+			x: -7.0d
+			y: -31.5d
+		}
+		{
+			dependencies: ["1086824576A9D409"]
+			description: [
+				"      将真空陷阱放在地上，向里面加入记忆源质、刷怪笼核心并通入负压，然后shift-右键打开，它就会开始把周围的生物捕捉进刷怪笼核心"
+				""
+				"      虽然装满一个核心需要不少怪，但是只要你完成了就会获得一个效率离谱的刷怪机！&a满升级、压缩空气供应充足的情况下刷怪效率高达3ticks一只，此时压缩空气消耗速度仅仅有550mL/t。"
+				""
+				"      特性1：当不装入记忆源质时，真空陷阱也能捕捉生物，但是此时每个生物只产生1%的源质。装入记忆源质会使生物源质的产量升高到2%~4%。"
+				""
+				"      特性2：刷怪笼核心右键方块可以消耗1%的源质放出一个生物，但是真空陷阱捕捉一个怪物时产生的源质在2%~4%，&b可以用这种左脚踩右脚的方法无限刷一些稀有的怪物。"
+			]
+			id: "55068CE8227DF049"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "771F747338142BB1"
+					table_id: 1355798249144543854L
+					type: "choice"
+				}
+				{
+					id: "5D4C4352EF03EFF9"
+					item: "pneumaticcraft:spawner_core"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "08E05C52841DA965"
+					item: "minecraft:zombie_spawn_egg"
+					type: "item"
+				}
+			]
+			shape: "gear"
+			subtitle: "很好用的刷怪笼，可以通过调整核心生物的比例刷出多种生物"
+			tasks: [
+				{
+					id: "1D516F5D5949CEB0"
+					item: "pneumaticcraft:pressurized_spawner"
+					type: "item"
+				}
+				{
+					id: "77617822A4BBCBFE"
+					item: "pneumaticcraft:spawner_core"
+					type: "item"
+				}
+				{
+					id: "2F40BDEFB63DD547"
+					item: "pneumaticcraft:spawner_extractor"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "46CE46CD5346F64F"
+					item: "pneumaticcraft:vacuum_trap"
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -8.0d
+			y: -31.5d
+		}
+		{
+			dependencies: ["32C4C65E43956BC0"]
+			id: "6115104A833578B3"
+			rewards: [
+				{
+					count: 16
+					id: "03CF62A3834AA01C"
+					item: "pneumaticcraft:advanced_pressure_tube"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3D8B25B961258EB7"
+					table_id: 1355798249144543854L
+					type: "choice"
+				}
+			]
+			subtitle: "耐压王"
+			tasks: [{
+				id: "26B5B5A5FD0D6FDE"
+				item: "pneumaticcraft:advanced_pressure_tube"
+				type: "item"
+			}]
+			x: -16.5d
+			y: -30.5d
+		}
+		{
+			dependencies: ["57331E9421E0C223"]
+			description: ["      1.5级压力管道，耐10bar压强"]
+			id: "0C7589C6B04DD16C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6AE7249CB1891629"
+				table_id: 6253538946852004205L
+				type: "choice"
+			}]
+			subtitle: "更耐压的压力管道"
+			tasks: [{
+				id: "56C9B4FB374F849A"
+				item: "pneumaticcraft:reinforced_pressure_tube"
+				type: "item"
+			}]
+			x: -17.5d
+			y: -32.0d
+		}
+		{
+			dependencies: ["1086824576A9D409"]
+			description: [
+				"      也是一种制冷的手段，&e压力超过7.2bar时工作效率达到最高。"
+				""
+				"      工作时消耗压缩空气&e将热量从冷面搬运到热面&r，极限制冷可以达到-273℃。"
+				""
+				"      冷面和热面的温差越大，热转移速度越慢。&6若想提高制冷效率则需给热面散热！"
+				""
+				"      由于涡流管本身需要消耗压缩空气，所以不建议用来给压缩机散热，收益没有气冷散热片高。"
+			]
+			id: "1ED30830DB5C1EAA"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5B2DCD490BAEE484"
+					table_id: 814957091515608461L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "61FA8BE24D21159A"
+					table_id: 814957091515608461L
+					type: "choice"
+				}
+			]
+			shape: "rsquare"
+			subtitle: "用压缩空气制造温差"
+			tasks: [{
+				id: "03E839C685CDA157"
+				item: "pneumaticcraft:vortex_tube"
+				type: "item"
+			}]
+			x: -10.0d
+			y: -32.5d
+		}
+		{
+			dependencies: ["1086824576A9D409"]
+			description: ["      向标有+号的一侧加压，另一侧就会开始抽气并产生低压。"]
+			id: "7356EEF92C581616"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "663FFF19ABBA72CF"
+					table_id: 814957091515608461L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1FEAD8802A2C351B"
+					table_id: 814957091515608461L
+					type: "choice"
+				}
+			]
+			shape: "rsquare"
+			subtitle: "用高压制造低压"
+			tasks: [{
+				id: "4B4CD6660BA9F2D0"
+				item: "pneumaticcraft:vacuum_pump"
+				type: "item"
+			}]
+			x: -9.0d
+			y: -32.5d
+		}
+		{
+			dependencies: ["1086824576A9D409"]
+			description: [
+				"      虽然JEI中各种低温方块的温度看起来都很诱人，但是仔细观察你会发现它们都有很高的热阻。实际上比较有效的散热方式依然是被动散热，详细教程移步百科。"
+				"      使用空气栅的压缩机散热摆法（取自百科）："
+				"{image:kubejs:textures/ftbq_images/i9.png width:136 height:75 align:1}"
+				"      当然你也能跑到一些&1能冷死人的地方&r，散热压力会小一点。"
+				""
+				"      压缩铁、热管则是用于传导热量，它们有着较低的热阻。"
+			]
+			id: "0B2761339B3E376F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6381D4E11B739ECD"
+					table_id: 814957091515608461L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "70A06EE657B80C47"
+					table_id: 814957091515608461L
+					type: "choice"
+				}
+			]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "53096718BB1A7ACF"
+					item: "pneumaticcraft:heat_pipe"
+					type: "item"
+				}
+				{
+					id: "11D9B0E505584169"
+					item: "pneumaticcraft:compressed_iron_block"
+					type: "item"
+				}
+				{
+					id: "1A6CA2731F2F7F78"
+					item: "pneumaticcraft:heat_sink"
+					type: "item"
+				}
+				{
+					id: "5CC62704772B3BCF"
+					item: "pneumaticcraft:air_grate_module"
+					type: "item"
+				}
+			]
+			title: "被动散热4件套"
+			x: -11.0d
+			y: -32.5d
+		}
+		{
+			dependencies: ["1086824576A9D409"]
+			description: ["      可以通过编程使它实现各种复杂功能。具体的话......还是看百科教程吧"]
+			id: "5F37538E409D434A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "650C4F4B392578A3"
+					table_id: 1355798249144543854L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "693DBBBD64956605"
+					table_id: 6253538946852004205L
+					type: "choice"
+				}
+			]
+			shape: "rsquare"
+			subtitle: "玩这个会使人头秃"
+			tasks: [
+				{
+					id: "0206DFAF296783F6"
+					item: "pneumaticcraft:drone"
+					type: "item"
+				}
+				{
+					id: "13D79D82B4CA0B3E"
+					item: "pneumaticcraft:logistics_drone"
+					type: "item"
+				}
+				{
+					id: "7F484885537F9038"
+					item: "pneumaticcraft:guard_drone"
+					type: "item"
+				}
+				{
+					id: "1A739408270C3968"
+					item: "pneumaticcraft:collector_drone"
+					type: "item"
+				}
+			]
+			x: -12.0d
+			y: -32.5d
+		}
+		{
+			dependencies: ["1086824576A9D409"]
+			description: [
+				"      是的，PnC兼容mek的热量（但是奇怪的是PnC的热量并不能反向转化为mek的热量）"
+				""
+				"      右键打开电阻加热器GUI，在输入框中输入数字即可调节加热速率"
+			]
+			id: "635DBF2010F69039"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3AF2CD275367ABDF"
+				table_id: 814957091515608461L
+				type: "choice"
+			}]
+			subtitle: "猜猜为什么我在这里"
+			tasks: [{
+				id: "32656FE01B1CB82C"
+				item: "mekanism:resistive_heater"
+				type: "item"
+			}]
+			x: -12.0d
+			y: -31.5d
+		}
+		{
+			dependencies: ["54F52C7BE9CAF99E"]
+			id: "0EAE7D4E68A764D3"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "28D37A05B3B03870"
+					table_id: 1015335001374513013L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "30B5293F042CFCFB"
+					table_id: 995320823191003503L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			subtitle: "本包综合素质最高的熔炼机器"
+			tasks: [{
+				id: "563F5789CB84E016"
+				item: "mekanism:ultimate_smelting_factory"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -30.5d
+		}
+		{
+			dependencies: ["54F52C7BE9CAF99E"]
+			description: ["      自身可以用于进行二倍矿，同时也是其它倍矿产线的组成部分"]
+			id: "2F0804FFA71C710B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "113F7F195A187947"
+					table_id: 1015335001374513013L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "77046E2F93D7DE71"
+					table_id: 995320823191003503L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			subtitle: "用于合成富集红石等灌注原料，增大利用率"
+			tasks: [{
+				id: "4D408811AB55A262"
+				item: "mekanism:ultimate_enriching_factory"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -29.5d
+		}
+		{
+			dependencies: ["77E8E024842CBF2C"]
+			description: [
+				"      注：电阻加热器的功率可调，在GUI中的框里输入数字就能调整功率（最高能消耗10MFE/t，所以在某些场合也用来消耗过多的能量）。"
+				""
+				"      PnC做了热能的单向兼容，mek生产的热能能供PnC机器使用（但是反过来不行）"
+			]
+			id: "3539A344B11473C0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3A7CC99950C59B62"
+				table_id: 1015335001374513013L
+				type: "choice"
+			}]
+			subtitle: "常用的加热设备"
+			tasks: [
+				{
+					id: "2EF0E42DFBA32B69"
+					item: "mekanism:resistive_heater"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "49E3F0DAD60466B2"
+					item: "mekanism:fuelwood_heater"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "5E905D8A2A9C87BD"
+					type: "checkmark"
+				}
+			]
+			title: "常用加热器"
+			x: 2.5d
+			y: -32.5d
+		}
+		{
+			dependencies: ["77E8E024842CBF2C"]
+			description: ["根据内部的合成公式进行自动合成的自动合成台/打包机"]
+			icon: "mekanism:formulaic_assemblicator"
+			id: "330E2992A77E6EB3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "442C43259B60C6F4"
+				table_id: 1015335001374513013L
+				type: "choice"
+			}]
+			subtitle: "真是公公又式式啊"
+			tasks: [
+				{
+					id: "2B433F50D2576485"
+					item: "mekanism:formulaic_assemblicator"
+					type: "item"
+				}
+				{
+					id: "0AD5DBDF5DD2ED4F"
+					item: "mekanism:crafting_formula"
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -31.5d
+		}
+		{
+			dependencies: ["25FE4D8080589D7A"]
+			description: [
+				"      不同于低版本，高版本mek新增的类型被称作“化学品”而不是“气体”，气体现在属于化学品的一种。"
+				"      化学品分为&e气体（比如氢气、乙烯）、&6灌注类型（冶金灌注机里的那些东西）、&e浆料（比如五倍矿产线中的铁浆液）、&6染料&r，它们都能用&b加压管道&r运输、化学品储罐存储。&c放射性化学品（钚、钋这些）&r属于一类特殊的气体，性质与其它化学品略有不同&e（比如不能用滴管运输，可以从机器的输入槽直接抽出等）。"
+				""
+				"      本包的加压管道的缓存被大大增加了，一遍情况下用基础加压管道就足够，终极加压管道缓存就太大了。"
+			]
+			icon: "mekanism:basic_pressurized_tube"
+			id: "14DBF3DE2CF0D5B1"
+			rewards: [{
+				count: 32
+				id: "379925ABB616B6A5"
+				item: "mekanism:ultimate_pressurized_tube"
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "3E9E5389AAD0BCFA"
+				title: "我知道了"
+				type: "checkmark"
+			}]
+			title: "有关化学品"
+			x: -3.0d
+			y: -29.5d
+		}
+		{
+			dependencies: ["77E8E024842CBF2C"]
+			description: [
+				"      对着机器&bshift-右键&r即可安装插件（出于某些特殊原因，在GUI里安装插件的功能被禁用了）"
+				""
+				"      你可能注意到了，Mek的升级现在能&b64&r堆叠，这只是为了方便你放置升级所以特意改的，正常情况下机器里依然&e只能放8个升级&r。"
+				""
+				"      肿么，依然嫌安装升级麻烦？为何不试试本包特色之一 —— &b无限升级安装器&r。正如其名，无限升级安装器能&a无限次使用&r，对着机器shift-右键可以直接向机器安装8个升级插件。"
+				"      &6速度升级、能量升级和气体升级&r这三种升级具有对应的无限插件"
+				""
+				"     另外这里我提醒一下：&e气体升级对化学溶解机、化学压射室等气体-物品处理机器有很高的加成，可以极大减少气体消耗，基本必装。"
+				"     &m为什么的中子素不够.jpg"
+			]
+			id: "0BB507481186E52D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7BDC183676E0D507"
+					table_id: 1015335001374513013L
+					type: "choice"
+				}
+				{
+					count: 64
+					id: "61BF2018728D3C78"
+					item: "mekanism:alloy_infused"
+					type: "item"
+				}
+			]
+			shape: "gear"
+			subtitle: "mek也有很多升级"
+			tasks: [
+				{
+					id: "14C584A1349D82D0"
+					item: "cti:upgrade_speed_kit"
+					type: "item"
+				}
+				{
+					id: "5D49E10694F222C5"
+					item: "cti:upgrade_energy_kit"
+					type: "item"
+				}
+				{
+					id: "0161DAFB40D35B17"
+					item: "cti:upgrade_gas_kit"
+					type: "item"
+				}
+				{
+					id: "270D37005AFA1ADF"
+					item: "cti:upgrade_double_kit"
+					type: "item"
+				}
+			]
+			title: "有关升级"
+			x: 1.5d
+			y: -31.5d
+		}
+		{
+			dependencies: ["77E8E024842CBF2C"]
+			description: ["      只需保持区块加载，就能无视距离、无视维度高效传输各类物质，插入锚升级后还自带区块加载功能。"]
+			id: "6D7F6516A8198570"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3356DB8978785ED0"
+					table_id: 1015335001374513013L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "639FB01FE5535DA5"
+					table_id: 995320823191003503L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			subtitle: "mek另一大神器，设置完频道后可以无线传输大部分物质"
+			tasks: [{
+				id: "421551C2114FA135"
+				item: "mekanism:quantum_entangloporter"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -32.5d
+		}
+		{
+			dependencies: ["25FE4D8080589D7A"]
+			description: [
+				"      &6mek的&c物流管道&6既吃渲染又吃逻辑运算，每节管道都在默默增加你的mspt，所以强烈不建议用（当然考虑到有人可能有些特殊需求，本包没ban它）。"
+				"      &e传物品更好的替代物有很多：pipez、循环、AE2、SFM等，它们或是更省性能/运力更高抑或是易用性更强。"
+			]
+			icon: "botania:cosmetic_questgiver_mark"
+			id: "7D00AD12838C4A1B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5EE9EBF7BE8B67C0"
+				table_id: 1015335001374513013L
+				type: "choice"
+			}]
+			shape: "diamond"
+			size: 1.5d
+			subtitle: "当然，mek的化学品、机械管道依然是本包最推荐的管道"
+			tasks: [{
+				id: "4E59A5ED4B0705AF"
+				title: "我知道了"
+				type: "checkmark"
+			}]
+			title: "别用mek的物流管道！"
+			x: -3.0d
+			y: -32.5d
+		}
+		{
+			dependencies: ["1086824576A9D409"]
+			id: "2CA12FE30A0CAC1B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1476771B450EEFEC"
+				table_id: 814957091515608461L
+				type: "choice"
+			}]
+			shape: "gear"
+			subtitle: "用于给工具充气/插升级"
+			tasks: [{
+				id: "0A9758F52AE5742C"
+				item: "pneumaticcraft:charging_station"
+				type: "item"
+			}]
+			x: -10.0d
+			y: -31.5d
+		}
+		{
+			dependencies: ["25FE4D8080589D7A"]
+			description: ["      你需要用热力的结晶机和机动的工作盆（以及用于合成酚醛树脂的各种设备）来制作第一批mek合金。此后便能用终极灌注工厂更简单地合成合金。"]
+			id: "7E4D97095CB7C37D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5CF90A32568977CC"
+					table_id: 995320823191003503L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7015A92AE879FCCA"
+					table_id: 1015335001374513013L
+					type: "choice"
+				}
+			]
+			subtitle: "你把冶金灌注机配方改了，那我合金哪里来？？！"
+			tasks: [
+				{
+					id: "2A24C0590465EA73"
+					item: "mekanism:alloy_infused"
+					type: "item"
+				}
+				{
+					id: "2A85080BE30EF682"
+					item: "mekanism:alloy_reinforced"
+					type: "item"
+				}
+				{
+					id: "081CDF81E3963378"
+					item: "mekanism:alloy_atomic"
+					type: "item"
+				}
+			]
+			title: "基础合金"
+			x: -1.5d
+			y: -32.0d
+		}
+		{
+			dependencies: ["7E4D97095CB7C37D"]
+			id: "22FED06B6065DECE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "64A4FE68CAA71840"
+					table_id: 7096874023676802204L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1B13CEC917C92847"
+					table_id: 1015335001374513013L
+					type: "choice"
+				}
+			]
+			subtitle: "基础电路板"
+			tasks: [
+				{
+					id: "193EFF0FE3E8805E"
+					item: "mekanism:basic_control_circuit"
+					type: "item"
+				}
+				{
+					id: "2E27829E1116A7E6"
+					item: "mekanism:advanced_control_circuit"
+					type: "item"
+				}
+				{
+					id: "1C4EDC01002EB1AC"
+					item: "mekanism:elite_control_circuit"
+					type: "item"
+				}
+				{
+					id: "6610F5339F6E3680"
+					item: "mekanism:ultimate_control_circuit"
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: -30.0d
+		}
+		{
+			dependencies: ["6EEF72019466F208"]
+			id: "7F7FFA9564BB44AD"
+			invisible: true
+			rewards: [
+				{
+					count: 16
+					id: "4B3C2BCDFAA28A3F"
+					item: "etshtinker:activated_chroma_plate"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2FEF22CC3B361A22"
+					table_id: 8608731797032356187L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5623C9ADDB32676D"
+					table_id: 8608731797032356187L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "55BBC1EC867CFE0C"
+					table_id: 8608731797032356187L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7D4B2491394C44E5"
+					table_id: 2171644119722362148L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2C6DBC2FEE83F631"
+					table_id: 4945335302112457345L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "07B5941C2B4896EA"
+					table_id: 4945335302112457345L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "02894A828CC79085"
+					table_id: 4945335302112457345L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "762CEBEB86FE3CE6"
+					table_id: 8350761140120052524L
+					type: "random"
+				}
+			]
+			subtitle: "恭喜你发现隐藏材料"
+			tasks: [{
+				id: "721088D4ABD154B6"
+				item: "etshtinker:nights_alloy"
+				type: "item"
+			}]
+			x: -26.5d
+			y: -35.5d
+		}
+		{
+			description: ["      &6但是每个东西都有它的闪光点，说不定哪天这些能源炉也会有用呢！"]
+			id: "1B000EFB2C60BABE"
+			rewards: [
+				{
+					id: "4D3F567F72E95B72"
+					item: "cti:advanced_dyano_augment"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0C58F1C0FD060E87"
+					table_id: 2171644119722362148L
+					type: "choice"
+				}
+			]
+			subtitle: "热力模组的发电设备，基础发电量都很低，前期更推荐别的"
+			tasks: [
+				{
+					id: "4494E0EAC7F435F4"
+					item: "thermal:dynamo_stirling"
+					type: "item"
+				}
+				{
+					id: "6A2B30B844B452FF"
+					item: "thermal:dynamo_compression"
+					type: "item"
+				}
+				{
+					id: "14E4356F6BACD37E"
+					item: "thermal:dynamo_magmatic"
+					type: "item"
+				}
+				{
+					id: "45D32AC821F4CB56"
+					item: "thermal:dynamo_numismatic"
+					type: "item"
+				}
+				{
+					id: "0E7D5616ECB53073"
+					item: "thermal:dynamo_lapidary"
+					type: "item"
+				}
+				{
+					id: "5D4673670CEC5BB0"
+					item: "thermal:dynamo_disenchantment"
+					type: "item"
+				}
+				{
+					id: "35646ECAFB421027"
+					item: "thermal:dynamo_gourmand"
+					type: "item"
+				}
+			]
+			title: "能源炉"
+			x: -34.0d
+			y: -28.5d
+		}
+		{
+			id: "5FC88AC3DAEAD283"
+			shape: "gear"
+			subtitle: "赛特斯石英，福鲁伊克斯水晶，氟石还有星体天尘的大量倍增"
+			tasks: [{
+				id: "74569573523A3CDC"
+				item: "thermal:machine_crystallizer"
+				type: "item"
+			}]
+			x: -31.0d
+			y: -29.5d
+		}
+		{
+			dependencies: ["3722D622F4D196DE"]
+			description: [
+				"      我们知道不同机器的耐压值不同，不同配方的压力需求不同，不同压缩机产气速度不同，我们往往需要限制管道向机器输送的气压。利用管道模块便可以完成这一点！"
+				"      管道模块是一类为管道赋予特殊功能的物品，它可以通过&b右键压力管道&r来安装，&bshift-右键&r安装到对侧，并且通过&e手持气动扳手&bshift-右键&r拆除，接下来的页面中会有常用管道模块的用途详细介绍。"
+				""
+				"     目录："
+				"1.空气栅管道模块 | 2.调节器管道模块 | 3.安全管道模块"
+				"4.充气模块 | 5.真空泵管道模块 | 6.压力表管道模块和流速管道模块"
+				" &d     小技巧：装有管道模块的那一节管道不会漏气，可以用作管道的堵头。       "
+				"{@pagebreak}"
+				"1.空气栅管道模块"
+				"       空气栅的主要用途是加速散热片与环境的热交换。空气栅模块会让其&b前方3*3*3范围&r的&e散热片&r与环境换热的效率翻四倍，故也用于给压缩机等设备散热。此时&b压力对效果和作用范围均无影响"
+				"{image:kubejs:textures/ftbq_images/a50854100484ea7d4d614f6c713f4602.png width:129 height:107 align:1}"
+				"空气栅散热范围一览（右侧因为散热片没被加速所以亮红灯）"
+				" &c     空气栅推动实体的功能在本包被删除了&r，因为此功能性能消耗极高，导致大量使用空气栅容易让游戏卡死，所以也不用往空气栅上安装模块拓展卡了。"
+				"{@pagebreak}"
+				"2.调节器管道模块"
+				"        当压缩空气从&b大口进，小口出时&r，限制输出的气压。默认是&b4.9bar&r，&a安装模块拓展卡后可以自由设定&r（特别是获得高级压缩机后，可以用作变压器限制输入各个机器的气压）。"
+				"{image:kubejs:textures/ftbq_images/adjuster.png width:238 height:114 align:1}"
+				"         通入不同的红石信号时，允许通过的气压随之改变。默认下输入最大红石信号时输出气压限制为0，但是此时仍然允许压缩空气反方向流动，故可以用作单向阀。安装模块拓展卡后可以在高级设置里面设置红石强度和通过压力的线性关系。"
+				"{@pagebreak}"
+				"3.安全管道模块"
+				"      当管道压力大于一定值时泄压以保护管道。默认值是4.9，当安装了模块拓展卡时可以自由设定阈值。"
+				"{@pagebreak}"
+				"4.充气模块"
+				"      允许管道与其该模块连接的物品存储内的空气罐进行气体交换，传输方向由压强高低决定，装有模块拓展卡后交换速度更快。"
+				"      与空气接口连接时能为玩家物品栏内的物品充气。"
+				"{@pagebreak}"
+				"5.真空泵管道模块"
+				"       从绿色端输入压缩空气时，在另一端产生负压，同真空泵。安装模块拓展卡后运行得更快。"
+				""
+				"{image:kubejs:textures/ftbq_images/864a694de83bf41496732e0185406084.png width:209 height:81 align:1}"
+				"{@pagebreak}"
+				"6.压力表管道模块和流速管道模块"
+				"         顾名思义，&b压力表管道模块&r安装后可以&b显示管道内的压力&r，同时根据不同气压释放红石信号。"
+				"      &6压力表管道模块可以用于根据其红石发信功能控制压缩机的启停，从而避免爆炸或者漏气。"
+				""
+				"{image:kubejs:textures/ftbq_images/pnc_gauge_module.png width:100 height:100 align:1}"
+				""
+				"         &e流速管道模块&r在安装完后当鼠标准星对准它的时候，屏幕上方的信息显示&e会标出管道内空气的流量。"
+			]
+			id: "76E8405D084D51A6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7C0715670292DE4C"
+				table_id: 814957091515608461L
+				type: "choice"
+			}]
+			subtitle: "安装在管道上的一些小设备"
+			tasks: [
+				{
+					id: "58E9549CE3A6131B"
+					item: "pneumaticcraft:regulator_tube_module"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "306DCB86997F7429"
+					item: "pneumaticcraft:air_grate_module"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "62A5F9FFBF4B4B3A"
+					item: "pneumaticcraft:flow_detector_module"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "62AE577A18C3859D"
+					item: "pneumaticcraft:pressure_gauge_module"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "7A33C947579B1D67"
+					item: "pneumaticcraft:safety_tube_module"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "0650FD17815C89CF"
+					item: "pneumaticcraft:vacuum_module"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "7E7AA96E1F6B5191"
+					item: "pneumaticcraft:thermostat_module"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "27BAEA9F0B1CFA54"
+					type: "checkmark"
+				}
+				{
+					id: "39BF957EC597E6DE"
+					item: "pneumaticcraft:redstone_module"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "4FBB9AD2BBA26D96"
+					item: "pneumaticcraft:charging_module"
+					optional_task: true
+					type: "item"
+				}
+			]
+			title: "管道模块"
+			x: -10.5d
+			y: -34.5d
+		}
+		{
+			dependencies: ["4A1A52ED171F3456"]
+			description: [
+				"      这个物品叫模块拓展卡，它是用于插在压力管道的模块上的。"
+				" &b     管道模块则是一系列能够右键放置在管道上的物品，它们为管道提供了一些功能，比如过压排气、检测流量、单向阀、降压等，便于你更好的设计管道系统。"
+				" &a     而模块拓展卡则是拓展管道模块的功能的。比如说调节器模块能将气压降至4.9bar，&e但是如果你装了模块拓展卡，就可以右键调节器模块然后在gui中设定压降值。"
+				""
+				"      关于管道模块的介绍，请看&e下一个任务"
+			]
+			hide_dependency_lines: true
+			id: "3722D622F4D196DE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6C838139E0BDCE0D"
+				table_id: 814957091515608461L
+				type: "choice"
+			}]
+			subtitle: "还记得我开头送给你的这玩意吗？"
+			tasks: [{
+				id: "5BD44A7A19CCBF71"
+				item: "pneumaticcraft:module_expansion_card"
+				type: "item"
+			}]
+			title: "模块拓展卡和管道模块"
+			x: -12.0d
+			y: -34.5d
+		}
+		{
+			dependencies: ["70C263359C93FA01"]
+			description: ["      用于有机灌注机时，比植育一号更加耐用"]
+			id: "10284277880FCF3B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "07D4830654BFAFD7"
+				table_id: 1534297405530813301L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3039B1AC6E9049CD"
+				item: "kubejs:phytogro_zero"
+				type: "item"
+			}]
+			x: -28.0d
+			y: -28.5d
+		}
+		{
+			dependencies: ["707128C87CA16A6F"]
+			description: ["      后续处理见JEI"]
+			id: "436E7F9592E9191E"
+			rewards: [
+				{
+					count: 192
+					id: "3A802A68C7D48E22"
+					item: "kubejs:tungsten_ingot"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "635D9575768F00B4"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+				{
+					id: "5C988B21A37F78F6"
+					item: "cti:advanced_speed_augment"
+					type: "item"
+				}
+				{
+					id: "7A76EE4DB872F877"
+					item: "tinkers_reforged:titanium_dust"
+					title: "送你一个锆粉，我也不知道是用来做什么的"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7772536B50EF59AC"
+					table_id: 6253538946852004205L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3FDDB89C051EE1BD"
+					table_id: 4945335302112457345L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "56D794DBE66DD83F"
+					table_id: 8608731797032356187L
+					type: "random"
+				}
+			]
+			subtitle: "帮你处理一下"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "4CA7A5C832243914"
+				item: "kubejs:stable_slag"
+				type: "item"
+			}]
+			title: "v我一组看看石力"
+			x: 1.5d
+			y: -15.0d
+		}
+		{
+			dependencies: ["5CA53B44C567755D"]
+			description: [
+				"     熔岩筛矿是CTI中期&6最重要的资源生产手段之一&r，整个产线的产物都很有用&8（富炉渣块还是丢了吧）"
+				""
+				"     需要气动工艺达成一定进度才能解锁，我相信你到这里了会用这些机器了。"
+				""
+				"     再后面的产矿手段就是位面矿机了，所以熔岩筛矿产线还会需要运行相当一段时间。"
+			]
+			hide_dependent_lines: true
+			icon: "pneumaticcraft:thermopneumatic_processing_plant"
+			id: "770F9F6317869FFC"
+			rewards: [{
+				id: "5373F4F808FC2B5F"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "真，真的轮椅吗？——by Alpha_Alps"
+			tasks: [{
+				id: "22800B003489A6A1"
+				item: "pneumaticcraft:fluid_mixer"
+				type: "item"
+			}]
+			title: "来看看本整合包轮椅之一《熔岩筛矿》"
+			x: -10.0d
+			y: -16.0d
+		}
+		{
+			dependencies: [
+				"2825CB213DDAA67F"
+				"2D7CABD6F68AF2FA"
+			]
+			dependency_requirement: "one_completed"
+			description: [
+				"焦炭塔底下才是排出石油焦的口，不要到时候：“我石油焦呢？”（好吧，我也这样过）"
+				"别带磁力戒指，因为这玩意是以物品形式直接被排出，所以接个漏斗"
+			]
+			icon: "immersivepetroleum:coker_unit"
+			id: "7FE6AA8F1EEB23D4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0966C218BBF16A9B"
+				table_id: 6253538946852004205L
+				type: "random"
+			}]
+			subtitle: "输入沥青和水即可生产石油焦(右击正面的中间的混凝土瓦成型)"
+			tasks: [{
+				advancement: "immersivepetroleum:main/mb_cokerunit"
+				criterion: ""
+				id: "4482069AA95F423B"
+				type: "advancement"
+			}]
+			title: "焦炭塔制取石油焦"
+			x: -4.0d
+			y: -15.0d
+		}
+		{
+			dependencies: ["77D10280C2E23E3F"]
+			description: [
+				"       是的，你也想知道无限的原油在哪里获取吧？使用你的&6探矿杖&r右击，然后慢慢寻找有富油的区块，然后使用你的&e流体钻井&r狠狠提取就好了"
+				"       至于怎么运输回来我已经教过你了"
+			]
+			icon: "createoreexcavation:extractor"
+			id: "76D23E05A262F85F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "51DC903135D0E417"
+				table_id: 6253538946852004205L
+				type: "random"
+			}]
+			subtitle: "America:Where?"
+			tasks: [{
+				id: "636D11831231AA66"
+				item: "createoreexcavation:extractor"
+				type: "item"
+			}]
+			title: "源源不断的原油"
+			x: -6.0d
+			y: -15.0d
+		}
+		{
+			dependencies: ["770F9F6317869FFC"]
+			description: [
+				"          机械动力的软管滑轮抽取岩浆有一个机制，在拥有一万格岩浆的地方抽取岩浆改为&c不消耗(软管滑轮下方必须是岩浆，不许有方块阻挡！)。&r欸，讲到这你应该想起来一个地方了吧？你先别急，看看下面的教程你就知道该怎么办了。"
+				"          &r当软管滑轮的管道末端浸入熔岩池底部后，软管滑轮就会变成一个储存了熔岩的容器，你只需要用&b管道&r从流体输出面抽取，就能获得无限的熔岩。&a大多数情况下，软管滑轮会被识别为一个储存了2B熔岩的容器，也就是说熔岩的最大抽取效率是2B/t。&6但是有个例外：&e使用pipez管道进行抽取时，pipez管道会无视这个限制，&d导致pipez在抽取软管滑轮的流体时效率远高于其它管道，故强烈推荐。"
+				"         给出口处接&b流体传输节点或量子传送器&r来接收岩浆即可。量子传送器较贵但是&d使用简单功能强大&r；流体传输节点需要搭配GPS数据卡使用：&e在主世界给一个容器用GPS数据卡标记一个容器,然后把定位好的GPS数据卡插入流体传输节点就可以跨维度传输。&r"
+			]
+			icon: "create:hose_pulley"
+			id: "77D10280C2E23E3F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4F34E57561CA51FF"
+				table_id: 6253538946852004205L
+				type: "choice"
+			}]
+			subtitle: "利用机械动力来无限且快速地获取岩浆吧"
+			tasks: [
+				{
+					id: "295C08EE9760C537"
+					item: {
+						Count: 1b
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "mekanism:quantum_entangloporter"
+								}
+								{
+									Count: 1b
+									id: "cyclic:wireless_fluid"
+								}
+							]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2A747ADEB77F7FD5"
+					item: "cyclic:location_data"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "66C2BE9631DAD644"
+					item: "create:hose_pulley"
+					type: "item"
+				}
+			]
+			title: "熔岩无限MAX！"
+			x: -7.5d
+			y: -14.0d
+		}
+		{
+			dependencies: ["77D10280C2E23E3F"]
+			icon: "thermal:machine_smelter"
+			id: "66F7C0C50046D121"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1C55F1E3F97DDEA2"
+				table_id: 6253538946852004205L
+				type: "random"
+			}]
+			subtitle: "烧沙砾吧，寒颤是寒颤了点，但能用"
+			tasks: [{
+				id: "17159B4195F20229"
+				item: "thermal:machine_smelter"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -13.0d
+		}
+		{
+			description: ["也可以用来制取炉渣捏"]
+			id: "4EC23DAF1E8E7336"
+			subtitle: "建议使用这玩意的圆石进入粉碎机两次制取沙子并放入匠魂炉获得熔融玻璃"
+			tasks: [{
+				id: "1A8D61C667415D79"
+				item: {
+					Count: 1b
+					id: "expatternprovider:infinity_cell"
+					tag: {
+						record: {
+							"#c": "ae2:i"
+							id: "minecraft:cobblestone"
+						}
+					}
+				}
+				type: "item"
+			}]
+			title: "制取原料"
+			x: -2.0d
+			y: -14.0d
+		}
+		{
+			dependencies: [
+				"684D0B28B5710527"
+				"4EDC98842274DF45"
+			]
+			dependency_requirement: "one_completed"
+			icon: "immersivepetroleum:petcoke_dust"
+			id: "0DF144F277ECC161"
+			min_required_dependencies: 1
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7EEBA35A1808EDE1"
+					table_id: 6253538946852004205L
+					type: "random"
+				}
+				{
+					count: 3
+					id: "5A0E2B1287DF2A93"
+					item: {
+						Count: 1b
+						id: "immersiveengineering:graphite_electrode"
+						tag: {
+							graphDmg: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "需要特殊手法制取"
+			tasks: [{
+				id: "76593641151BC35E"
+				item: "immersivepetroleum:petcoke_dust"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -15.0d
+		}
+		{
+			dependencies: ["66F7C0C50046D121"]
+			id: "774E9B39E932ECF3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "78A0313C0A18E85E"
+				table_id: 6253538946852004205L
+				type: "random"
+			}]
+			tasks: [{
+				id: "47AC89B2B45C64B0"
+				item: "thermal:slag"
+				type: "item"
+			}]
+			title: "别看了，拿来对称的"
+			x: -2.0d
+			y: -13.0d
+		}
+		{
+			dependencies: [
+				"774E9B39E932ECF3"
+				"0DF144F277ECC161"
+			]
+			dependency_requirement: "one_completed"
+			description: ["放入&c挥发性熔岩&r后再放入&e石油焦粉或炉渣&r即可运行并制取富集炉渣，再把&4高密度熔岩&r放入下一个热气动加工机再加入&e石油焦或炉渣&r即可制取致密炉渣"]
+			id: "21DE2531C404C6A6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "38BA1FF388C74072"
+				table_id: 6253538946852004205L
+				type: "choice"
+			}]
+			subtitle: "完成一条前置就好了"
+			tasks: [
+				{
+					id: "3FC3BED00D445BD9"
+					item: "pneumaticcraft:thermopneumatic_processing_plant"
+					type: "item"
+				}
+				{
+					id: "6A7BC012493877F1"
+					item: "pneumaticcraft:fluid_mixer"
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: -14.0d
+		}
+		{
+			dependencies: ["21DE2531C404C6A6"]
+			id: "707128C87CA16A6F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "43FB5447C7D891A4"
+				table_id: 6253538946852004205L
+				type: "random"
+			}]
+			subtitle: "用尽的熔岩导入到流体精炼机即可生产稳定炉渣和熔融钛"
+			tasks: [{
+				id: "63F24CCCCD10BB27"
+				item: "thermal:machine_refinery"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -15.0d
+		}
+		{
+			dependencies: ["76D23E05A262F85F"]
+			id: "2825CB213DDAA67F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "423D4B999AF88F89"
+				table_id: 6253538946852004205L
+				type: "random"
+			}]
+			subtitle: "处理原油产出沥青"
+			tasks: [{
+				id: "3182AACC91EA7EF0"
+				item: "thermal:machine_refinery"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -15.5d
+		}
+		{
+			dependencies: ["21DE2531C404C6A6"]
+			id: "0510C4E6D8E44E5D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "402B72E13C878F4B"
+					table_id: 6253538946852004205L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0E56FD66FF960FEF"
+					table_id: 8608731797032356187L
+					type: "random"
+				}
+			]
+			subtitle: "处理富集矿渣和致密矿渣生产出部分矿物"
+			tasks: [{
+				id: "20C08497C97040FC"
+				item: "thermal:machine_centrifuge"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -13.0d
+		}
+		{
+			dependencies: ["0510C4E6D8E44E5D"]
+			id: "1AE41A45175BA22A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "69D1916B0831173C"
+					table_id: 6253538946852004205L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "28372F83EB567016"
+					table_id: 8608731797032356187L
+					type: "random"
+				}
+			]
+			subtitle: "处理各种炉渣生产矿物"
+			tasks: [
+				{
+					id: "2F085D0388539078"
+					item: "thermal:machine_pulverizer"
+					type: "item"
+				}
+				{
+					id: "2FD6A2257F66ADF3"
+					item: "thermal:machine_centrifuge"
+					type: "item"
+				}
+			]
+			title: "磨粉机和离心机"
+			x: 1.5d
+			y: -13.0d
+		}
+		{
+			dependencies: ["46B61E6EF35C9522"]
+			description: [
+				"一个经典好用的通量压缩系统及其散热装置示例"
+				"切记速度升级不要放满"
+				"{image:kubejs:textures/ftbq_images/1/2.png width:180 height:150 align:1}"
+				"核心原理是通过让多个空气栅的冷却范围重叠，从而使散热效率叠加，进而高效散热。"
+			]
+			icon: "pneumaticcraft:flux_compressor"
+			id: "49610EFA0614F961"
+			rewards: [{
+				id: "7B203F5B6A25B5FE"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "23928C7476873E6C"
+				type: "checkmark"
+			}]
+			title: "推荐气压生产系统"
+			x: -8.0d
+			y: -29.5d
+		}
+		{
+			dependencies: ["46B61E6EF35C9522"]
+			description: [
+				"      我们都知道空气栅对散热片的加速是范围性的，当一个散热片同时位于两个空气栅的工作范围时，散热效率会大大提升。利用好这两点，下图便是一个紧凑型6联导热框架冷却装置。"
+				"      图中的6个散热片都位于这两个散热栅的共用工作范围内。只要维持压力大于7.2bar，令涡流管高速运行，下方的导热框架在工作时就能稳定维持在-260℃，足以在主世界全程最高效益冷却不稳定中子！"
+				"{image:kubejs:textures/ftbq_images/7e1eddb3465c40aa98fea047a9361bc6.png width:147 height:122 align:1}"
+			]
+			icon: "kubejs:overchargedultradense"
+			id: "1322E56091ADA914"
+			rewards: [{
+				id: "5003986511A2CFD4"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "03DB7D302D38EFD8"
+				type: "checkmark"
+			}]
+			title: "推荐容器冷却系统"
+			x: -6.0d
+			y: -29.5d
+		}
+		{
+			dependencies: ["46B61E6EF35C9522"]
+			description: [
+				"&b安全升级&r：防止机器气压过高导致的损毁，但是仅保护机器，管道气压过高还是会崩从而导致系统漏气且散热功能损毁无法正常工作"
+				"&b速度升级&r：增加机器的效率，可以通过少放一定数量升级以使得系统气压的平衡点降低，有效避免管道崩坏"
+				"&b容量升级&r：增加机器的总空气容量，简单来说就是使系统气压提升速度慢的同时降低速度也慢"
+				"{image:kubejs:textures/ftbq_images/1/4.png width:60 height:60 align:1}"
+			]
+			icon: "pneumaticcraft:security_upgrade"
+			id: "3D1AD42650D6916E"
+			rewards: [{
+				id: "0A227E3D42AB397E"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "1B8FA9511220B241"
+				type: "checkmark"
+			}]
+			title: "常用的气动插件"
+			x: -10.0d
+			y: -29.5d
+		}
+		{
+			description: [
+				"      在以&d合成核心&r为中心&a相同高度&r的&67*7&r范围内放下&e基座&r即可。&e基座&r的数量任意，但是由于在每次合成中&e基座&r上只能放置一个物品，&d所以你需要根据配方来决定基座数量。"
+				"      JEI中，&b外圈的物品&r是要放置在&e基座&r上的物品，&b中心的&r则要放置在&e合成核心&r上。"
+				"      给合成核心供电，手持物品右键（或者用管道）给合成核心和基座放上物品，即可开始合成。&e（你也可以用封包合成来自动化，详情请见AE2任务板块）"
+			]
+			id: "419729DCB12A6AF3"
+			shape: "diamond"
+			size: 1.5d
+			subtitle: "后面自动化部分特殊材料也要用到它"
+			tasks: [
+				{
+					id: "4D4292A376CD795E"
+					item: "extendedcrafting:crafting_core"
+					type: "item"
+				}
+				{
+					id: "2AD3968D8962AEC0"
+					item: "extendedcrafting:pedestal"
+					type: "item"
+				}
+			]
+			title: "组合合成"
+			x: -26.5d
+			y: -28.5d
+		}
+		{
+			dependencies: ["57331E9421E0C223"]
+			icon: "ae2:certus_quartz_crystal"
+			id: "7576FC2A6C114CC1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "185384DD36A5F5F7"
+				table_id: 8776799107351546644L
+				type: "random"
+			}]
+			subtitle: "赛特斯石英的高效生长方式的水晶液依赖热气动加工机和流体混合器"
+			tasks: [
+				{
+					id: "4BDFB2C6207F5292"
+					type: "checkmark"
+				}
+				{
+					id: "1ADEB2DED7B2969E"
+					item: "kubejs:crystal_growth_bucket"
+					optional_task: true
+					type: "item"
+				}
+			]
+			title: "缺赛特斯石英了？"
+			x: -18.5d
+			y: -32.0d
+		}
+		{
+			dependencies: ["46B61E6EF35C9522"]
+			description: [
+				"      PnC会选取群系的温度为环境温度的依据。显然，冷的群系具有较低的温度。"
+				"      本包添加的外星群系具有很极端的温度（原版Ad Astra的没有）。&6半熔融炼狱群系&r有着&6800℃&r的高温，&e木星核心&r则为&e1900℃&r，如果你想搞一些涉及高温的反应，这些地方或许能为你解决一定的能耗问题。&b天王星核心&r的温度为&b-90℃&r，&d电离冻土群系&r的温度更是低至&b-250℃&r，在这些地方冷却东西就是事半功倍。"
+				"{image:kubejs:textures/ftbq_images/9ddf12d3b8428f39bb75e3e0dc35f867.png width:168 height:100 align:1}"
+				"      &7别给机器冻感冒了.jpg"
+			]
+			icon: "cti:overdense_glacio_stone"
+			id: "6A0EDB7FDE49E3FD"
+			rewards: [{
+				id: "4F41D19304975732"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "产线的选址也很重要！"
+			tasks: [{
+				id: "0CBDF2CCF7922A21"
+				type: "checkmark"
+			}]
+			title: "群系温度简要说明"
+			x: -12.0d
+			y: -29.5d
+		}
+		{
+			dependencies: ["1086824576A9D409"]
+			description: [
+				"      使用方法在tooltip里描述的已经很清楚了"
+				""
+				"      与其它机器不同的是合金离心机既不会漏气也不会爆炸，可以被安全地使用。"
+				""
+				"     &m&8使用这个机器需要用到逆转思维！"
+			]
+			id: "2A15A8DB889CDEA6"
+			rewards: [
+				{
+					count: 9
+					id: "11645E585867F9BC"
+					item: "tconstruct:molten_rose_gold_bucket"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "52633EB842E4DA01"
+					table_id: 6253538946852004205L
+					type: "choice"
+				}
+			]
+			shape: "gear"
+			subtitle: "无意间合出大量合金的处理方法"
+			tasks: [{
+				id: "5BE36F03ABCCEBB5"
+				item: "cti:alloy_centrifuge"
+				type: "item"
+			}]
+			x: -11.0d
+			y: -31.5d
+		}
+		{
+			dependencies: ["25FE4D8080589D7A"]
+			description: [
+				"      和热力的红图类似，用于复制机器的配置。"
+				" &bshift-右键&r 机器复制机器配置，&b右键&r 机器粘贴配置"
+			]
+			id: "11461231D10B23B8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "37555CE485A89D07"
+					table_id: 7767539114598853755L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "738677F76D38C5FA"
+					table_id: 1015335001374513013L
+					type: "choice"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "52F25D5882A13951"
+				item: "mekanism:configuration_card"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -30.0d
+		}
+		{
+			dependencies: ["00A6DEB8A3AEA4C7"]
+			id: "53403AE5636F12A6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "25CFEE326BA6EA30"
+				table_id: 9158922771852269074L
+				type: "choice"
+			}]
+			shape: "gear"
+			size: 1.5d
+			subtitle: "热力中用于批量复制粘贴机器配置的物品"
+			tasks: [{
+				id: "30A05C71AFF68811"
+				item: "thermal:redprint"
+				type: "item"
+			}]
+			x: -32.5d
+			y: -31.75d
+		}
+		{
+			dependencies: ["00A6DEB8A3AEA4C7"]
+			description: [
+				"      将槽楔放置于机器多余的槽位中，可以阻止物品被输入到对应槽位，从而阻止串配方。"
+				"{image:kubejs:textures/ftbq_images/thermal_gui/2d091c24c865a90abe304d38d16c17cd.png width:177 height:57 align:1}"
+				"      解决感应炉串配方的最优解就是按照配方的特性（原料种类有多少，是否需要增产）用不同的感应炉进行自动化。"
+				""
+				"      比如三输入（流明、末影等）用一个感应炉，二输入不增产（青铜、殷钢等）用另一个感应炉，然后用槽楔填充不需要的输入格子。"
+			]
+			id: "75C3639F865CC2D0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "69F986BBDD9DBAF8"
+				table_id: 9158922771852269074L
+				type: "choice"
+			}]
+			shape: "gear"
+			size: 1.5d
+			subtitle: "我的感应炉怎么串配方了？？？"
+			tasks: [{
+				id: "1E03EA3EA6C1AE4D"
+				item: "thermal:slot_seal"
+				type: "item"
+			}]
+			x: -34.0d
+			y: -31.75d
+		}
+		{
+			dependencies: ["7FE6AA8F1EEB23D4"]
+			description: ["      通过加入合适的催化剂和插件，磨粉机能在速率更快的同时为石油焦增产从而获得更高的效益"]
+			id: "684D0B28B5710527"
+			subtitle: "较为推荐的石油焦粉碎方法"
+			tasks: [{
+				id: "7F244B7DA685F5E9"
+				item: "thermal:machine_pulverizer"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -15.5d
+		}
+		{
+			dependencies: ["7FE6AA8F1EEB23D4"]
+			id: "4EDC98842274DF45"
+			subtitle: "当然传统路子也不是不行"
+			tasks: [{
+				advancement: "immersiveengineering:multiblocks/mb_crusher"
+				criterion: ""
+				id: "0A2A2D8F3EC0AB09"
+				type: "advancement"
+			}]
+			title: "粉碎机"
+			x: -3.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["6E921F48F607195D"]
+			description: ["     锆需要 &9凯普/戈伯&r级的镐子才能挖掘，或者你也可以使用&d开拓者工具/原子合金工具&r无视挖掘等级挖掘。"]
+			id: "7A0480FD1C326C45"
+			rewards: [{
+				count: 4
+				id: "7078D71DE653589D"
+				item: "tinkers_reforged:raw_titanium"
+				random_bonus: 4
+				type: "item"
+			}]
+			subtitle: "与钛同族哦"
+			tasks: [{
+				id: "471D5DE22906A283"
+				item: {
+					Count: 1b
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "tinkers_reforged:titanium_ore"
+							}
+							{
+								Count: 1b
+								id: "tinkers_reforged:raw_titanium"
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			title: "锆矿"
+			x: -19.5d
+			y: -34.0d
+		}
+		{
+			description: [
+				"      为了获得锆这种金属，你必须前往末地。"
+				""
+				"      末地的基础等级为200，并且分布有大量末影人。如果没有&d弑末者强化&r的帮助你很可能会光速趋势。"
+				""
+				"      由于锆在主岛也有分布，击败末影龙是没有必要的（当然，你也可以挑战一下自己）"
+			]
+			id: "6E921F48F607195D"
+			subtitle: "或许更新下装备是更好的选择？"
+			tasks: [{
+				dimension: "minecraft:the_end"
+				id: "7CBF3C9365B54F91"
+				type: "dimension"
+			}]
+			title: "访问：末地"
+			x: -19.5d
+			y: -35.0d
+		}
+		{
+			dependencies: ["60DE870CC160C459"]
+			description: [
+				"      这三个插件是本包最强力的插件"
+				""
+				"      要获得它们，你除了要精通科技外还要精通冒险。"
+				""
+				"&6      再升级下装备？"
+			]
+			id: "304089B338E4E7E6"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5654090DDE95BA7D"
+					table_id: 8350761140120052524L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7957CDBD2BA7BAB5"
+					table_id: 8350761140120052524L
+					type: "choice"
+				}
+			]
+			shape: "gear"
+			subtitle: "我勒个数值"
+			tasks: [
+				{
+					id: "0316645A17CE4D44"
+					item: "cti:extereme_dyano_augment"
+					type: "item"
+				}
+				{
+					id: "5BBE7CC6740003E4"
+					item: "cti:extereme_speed_augment"
+					type: "item"
+				}
+				{
+					id: "7906CAAA0B1F7BB6"
+					item: "cti:extereme_output_augment"
+					type: "item"
+				}
+			]
+			title: "顶级插件？？！！"
+			x: -28.0d
+			y: -30.5d
+		}
+		{
+			dependencies: ["762B937EFF8ECC88"]
+			description: [
+				"      这一部分的内容是本章的教程部分，它的作用是让你熟悉本章将要涉及的几个模组，同时也对各个模组自己的发展路线进行简单介绍，并指出魔改内容带来的流程改变。"
+				""
+				"      每个任务的开头会指明对应模组的发展阶段。"
+				""
+				"      &c建议在发展主线前先看看"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: {
+				Count: 1b
+				id: "patchouli:guide_book"
+				tag: {
+					"patchouli:book": "thermal:guidebook"
+				}
+			}
+			id: "3697B37E48CDEE1B"
+			rewards: [{
+				id: "69C2B6ADDF17DD7B"
+				item: "culturaldelights:mutton_sandwich"
+				type: "item"
+			}]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "萌新和老手都要看！"
+			tasks: [{
+				id: "4F1C5B9D447DE0BF"
+				type: "checkmark"
+			}]
+			title: "教程章节"
+			x: -46.0d
+			y: -32.0d
+		}
+		{
+			dependencies: ["0C0F85D3DCF71BB2"]
+			description: ["      同时彩钢也是一种需要大量消耗的基础材料，做好大量合成的准备！"]
+			id: "6EE3F54D91DE3206"
+			subtitle: "如果合不出活化彩钢，彩钢也值得一看"
+			tasks: [{
+				id: "529BC8324E84818A"
+				item: "etshtinker:chroma_plate"
+				type: "item"
+			}]
+			x: -26.5d
+			y: -33.0d
+		}
+		{
+			dependencies: ["3843E47EEC23E6C8"]
+			id: "722F9A72898745BB"
+			rewards: [{
+				count: 16
+				id: "683862C16BA109EF"
+				item: "etshtinker:activated_chroma_plate"
+				random_bonus: 16
+				type: "item"
+			}]
+			subtitle: "中子素的原料，也用于合成活化彩钢整合组件"
+			tasks: [{
+				id: "45491575C8D3E155"
+				item: "kubejs:compressed_activated_chroma_plate"
+				type: "item"
+			}]
+			x: -16.5d
+			y: -33.0d
+		}
+		{
+			dependencies: [
+				"34BF7851DF1B09A7"
+				"7A0480FD1C326C45"
+			]
+			id: "0411A7217F4BFFC5"
+			rewards: [{
+				id: "6E59A48CAAD90819"
+				item: "kubejs:pressurized_casing"
+				random_bonus: 3
+				type: "item"
+			}]
+			tasks: [{
+				id: "4B1A821FBAFCCC87"
+				item: "kubejs:pressurized_casing"
+				type: "item"
+			}]
+			x: -19.5d
+			y: -33.0d
+		}
+		{
+			dependencies: ["75F7DF5655FB02C6"]
+			description: [
+				"      小小身板超大气量，无需消耗任何燃料即可2000+mL/t。CTI年度最佳压缩机，你值得拥有。"
+				""
+				"     &m手动压缩机得了MVP，木星是躺赢狗。"
+			]
+			icon: "pneumaticcraft:manual_compressor"
+			id: "586CBCD7C331937A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7EF10B9E846CC58E"
+					table_id: 6253538946852004205L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4E202AF62CDD1BC6"
+					table_id: 6253538946852004205L
+					type: "choice"
+				}
+			]
+			subtitle: "真 神 降 临"
+			tasks: [
+				{
+					id: "417E17ABD9CF7A62"
+					item: "pneumaticcraft:manual_compressor"
+					type: "item"
+				}
+				{
+					dimension: "ad_astra:jupiter"
+					id: "2242F6C4B5E630EB"
+					title: "访问：木星"
+					type: "dimension"
+				}
+			]
+			x: -22.0d
+			y: -30.5d
+		}
+		{
+			dependencies: ["75F7DF5655FB02C6"]
+			description: ["      10插件下有着2300+mL/t的产速，你甚至用不到这么多压缩空气。给气动刷怪笼供气的不二之选。"]
+			id: "6A141977FC81DEC9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "15DD5F968851D350"
+				table_id: 6253538946852004205L
+				type: "choice"
+			}]
+			subtitle: "FE转压缩空气，我不说你也明白什么意思"
+			tasks: [{
+				id: "29E3D5D0CEE68742"
+				item: "pneumaticcraft:flux_compressor"
+				type: "item"
+			}]
+			x: -22.0d
+			y: -29.5d
+		}
+		{
+			dependencies: ["4A1A52ED171F3456"]
+			id: "75F7DF5655FB02C6"
+			subtitle: "简要介绍了最推荐的几种压缩机，请根据时期选择"
+			tasks: [{
+				id: "50A614FE82DFB8EB"
+				type: "checkmark"
+			}]
+			title: "压缩机推荐"
+			x: -24.0d
+			y: -30.0d
+		}
+		{
+			dependencies: ["4A1A52ED171F3456"]
+			id: "4B981566F66F9C3F"
+			subtitle: "这里简要介绍了PnC的电路板及其下流产品的制造"
+			tasks: [{
+				id: "179D656845E2461A"
+				type: "checkmark"
+			}]
+			title: "电路板流程"
+			x: -20.5d
+			y: -30.0d
+		}
+		{
+			dependencies: ["6115104A833578B3"]
+			id: "2DEAF564DA592B99"
+			rewards: [{
+				count: 32
+				id: "11EEE59A7746AFB8"
+				item: "pneumaticcraft:advanced_pressure_tube"
+				type: "item"
+			}]
+			tasks: [{
+				id: "33CFE3990BCC0673"
+				item: "kubejs:pneumatic_shield"
+				type: "item"
+			}]
+			x: -16.5d
+			y: -29.5d
+		}
+		{
+			dependencies: ["3697B37E48CDEE1B"]
+			description: [
+				"        气动工艺的百科并不是很全，这也是为什么气动工艺要单独加入这样一个小节。"
+				""
+				" &e       接下来的内容或多或少对你的游玩流程会有些帮助，建议耐心查阅。"
+			]
+			hide_dependent_lines: true
+			icon: "pneumaticcraft:advanced_air_compressor"
+			id: "588A90CB696224C0"
+			shape: "gear"
+			size: 2.0d
+			subtitle: "尽管被整合包广泛利用，气动工艺依然是个小众模组"
+			tasks: [{
+				id: "2F46BD8C51B09986"
+				type: "checkmark"
+			}]
+			title: "气动工艺[PnC] —— 细节和小贴士"
+			x: -14.0d
+			y: -35.0d
+		}
+		{
+			dependencies: ["588A90CB696224C0"]
+			hide_dependent_lines: true
+			id: "1086824576A9D409"
+			subtitle: "列举出了一些气动阶段的实用设备"
+			tasks: [{
+				id: "0F5F20285B8DC47F"
+				type: "checkmark"
+			}]
+			title: "实用物品"
+			x: -14.0d
+			y: -32.0d
+		}
+		{
+			dependencies: ["588A90CB696224C0"]
+			hide_dependent_lines: true
+			id: "46B61E6EF35C9522"
+			tasks: [{
+				id: "0AE6B0AA4FFA9DD7"
+				type: "checkmark"
+			}]
+			title: "小贴士"
+			x: -14.0d
+			y: -29.5d
+		}
+		{
+			dependencies: ["762B937EFF8ECC88"]
+			description: [
+				"      此段为本章的主线流程部分。你可能以及注意到了，这一段任务的结构非常简单。"
+				""
+				" &c     主线任务段仅用于对主线流程进行指引，里面不会教你游玩/发展本章的任何模组&c，请先前往教程章节熟悉各个模组后再开推主线！"
+			]
+			icon: {
+				Count: 1b
+				id: "immersiveengineering:hammer"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "1C2213CEFC8B86D5"
+			rewards: [{
+				id: "37A22F2E39A6B948"
+				item: "thermal:pbj_sandwich"
+				type: "item"
+			}]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "从原始的化工材料变成一锭中子"
+			tasks: [{
+				id: "598287670EA4518F"
+				type: "checkmark"
+			}]
+			title: "主线章节"
+			x: -46.0d
+			y: -22.5d
+		}
+		{
+			dependencies: ["76D23E05A262F85F"]
+			id: "2D7CABD6F68AF2FA"
+			subtitle: "虽然是副产物，但是沥青产量也不错"
+			tasks: [{
+				advancement: "immersivepetroleum:main/mb_distillationtower"
+				criterion: ""
+				id: "6D4181EC50B8CDCE"
+				type: "advancement"
+			}]
+			title: "蒸馏塔"
+			x: -5.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["5CA53B44C567755D"]
+			description: [
+				"      我们都知道制造科技模组的机器需要消耗大量资源，那么这些资源怎么来呢？"
+				""
+				"      本小节简要介绍了中期资源的几种重要来源"
+			]
+			hide_dependent_lines: true
+			icon: "kubejs:stellar_stone_diamond_ore"
+			id: "72AE4DAEFF6C2290"
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "2DA2137BB5AC356C"
+				type: "checkmark"
+			}]
+			title: "资源生产方式推荐"
+			x: -26.0d
+			y: -16.0d
+		}
+		{
+			dependencies: [
+				"770F9F6317869FFC"
+				"240E67607F9434C3"
+			]
+			hide_dependency_lines: true
+			icon: "cti:atmosphere_extractor"
+			id: "14712A002368637C"
+			rewards: [{
+				id: "2A523D117D46E758"
+				item: "etshtinker:ultra_dense"
+				random_bonus: 3
+				type: "item"
+			}]
+			subtitle: "大气开采设备能一定程度简化熔岩筛矿，但是时期靠后"
+			tasks: [{
+				id: "55E40BC442079A69"
+				type: "checkmark"
+			}]
+			title: "大气开采"
+			x: 0.0d
+			y: -14.0d
+		}
+		{
+			dependencies: ["08D6AC08C3D4DC78"]
+			description: [
+				"       如果你既不想马上起熔岩筛矿，又不想做斗轮，但是正在为科技设备需要的红石犯愁，有机灌注机是个好选择。"
+				""
+				"       此外忘掉机动的树场吧，有机灌注机是种树的绝对最优解。"
+			]
+			icon: "thermal:machine_insolator"
+			id: "428CB8DCB6C2837A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7A066F326C52B2BD"
+				table_id: 2171644119722362148L
+				type: "random"
+			}]
+			subtitle: "种植作物的不二之选，也可以用来红石、荧石和粘液球"
+			tasks: [
+				{
+					id: "69540E10F0BDDD8F"
+					item: "thermal:machine_insolator"
+					type: "item"
+				}
+				{
+					id: "19EAC85878DBB14F"
+					item: "thermal:redstone_mushroom_spores"
+					optional_task: true
+					type: "item"
+				}
+			]
+			title: "植物的自动化"
+			x: -18.5d
+			y: -14.5d
+		}
+		{
+			dependencies: ["5DD80B836480D020"]
+			id: "1A53173E8D4FD472"
+			subtitle: "上一章的机器这一章依然能用"
+			tasks: [{
+				id: "3F70C7974E07D951"
+				item: "createoreexcavation:drilling_machine"
+				type: "item"
+			}]
+			x: -20.5d
+			y: -16.0d
+		}
+		{
+			dependencies: ["08D6AC08C3D4DC78"]
+			id: "1A2F152DEA2F4D88"
+			subtitle: "可以产蜂蜜、石油、粘液球甚至熔融的矿物"
+			tasks: [{
+				id: "689D17AE36F52841"
+				item: "createoreexcavation:extractor"
+				type: "item"
+			}]
+			x: -20.5d
+			y: -14.5d
+		}
+		{
+			dependencies: ["72AE4DAEFF6C2290"]
+			hide_dependent_lines: true
+			id: "5DD80B836480D020"
+			tasks: [{
+				id: "35096429E6F07AD3"
+				type: "checkmark"
+			}]
+			title: "采矿设备"
+			x: -23.0d
+			y: -16.0d
+		}
+		{
+			dependencies: ["72AE4DAEFF6C2290"]
+			id: "08D6AC08C3D4DC78"
+			tasks: [{
+				id: "5B5229F6262B5376"
+				title: "杂项"
+				type: "checkmark"
+			}]
+			x: -23.0d
+			y: -14.0d
+		}
+		{
+			dependencies: ["5DD80B836480D020"]
+			description: [
+				"      斗轮式挖掘机在JEI和工程师手册中被拆分成了&e斗轮&r和&6挖掘机&r两个部分，请注意甄别！"
+				"      机动蓝图的则是完整的斗轮式挖掘机。"
+				""
+				"      在本包中斗轮式挖掘机速度有所增强，每秒挖掘两次。矿物探测器的行为也有所优化，&e对任意方块长按右键就能直接指示出附近最近矿脉中心的xz坐标。"
+				""
+				"      斗轮的两种产物的占比由饱和度决定，饱和度越高附带产物占比就越低，开采位置越接近矿脉中心饱和度越接近100%。&e如果你的斗轮不停在挖掘石头等垃圾，请留意斗轮的位置是否在矿脉中心"
+				""
+				"      斗轮在判断饱和度时会选取斗轮结构附近的几个点位取平均值。&6令斗轮中心位于矿脉中心即可达到最高效益（不可能达到100%，在99%左右）"
+			]
+			icon: "immersiveengineering:excavator"
+			id: "4AC732A0B4136C50"
+			rewards: [{
+				id: "52F6F893F258C249"
+				item: "create:empty_schematic"
+				type: "item"
+			}]
+			subtitle: "与机动的产矿互补"
+			tasks: [
+				{
+					advancement: "immersiveengineering:multiblocks/mb_excavator"
+					criterion: ""
+					id: "749A4FCB6E725B1B"
+					optional_task: true
+					type: "advancement"
+				}
+				{
+					id: "7D094721BCC1C15B"
+					item: {
+						Count: 1b
+						id: "immersiveengineering:survey_tools"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "46B8AF59D95F4F2D"
+					type: "checkmark"
+				}
+			]
+			title: "斗轮式挖掘机"
+			x: -18.5d
+			y: -16.0d
+		}
+		{
+			dependencies: ["5DD80B836480D020"]
+			id: "0C90B657702F7E43"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7F7C7B94ED891D55"
+				table_id: 8776799107351546644L
+				type: "random"
+			}]
+			subtitle: "获取方式和使用方式请看 Ad Astra! 任务"
+			tasks: [{
+				id: "5D175D9C0518D56A"
+				item: "cti:meteorium_plane"
+				type: "item"
+			}]
+			x: -16.5d
+			y: -16.0d
+		}
+		{
+			dependencies: ["08D6AC08C3D4DC78"]
+			description: [
+				"      提供无限量的水和圆石，比任何刷水/刷石机都方便！"
+				""
+				"      注：这俩盘是相同物品不同NBT，这就是为什么JEI只显示无限水单元。"
+			]
+			id: "0C5C1566E89E9485"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7DF7C5D339340808"
+				table_id: 8776799107351546644L
+				type: "random"
+			}]
+			subtitle: "无限圆石单元的合成方式可以在查看无限水单元时看到"
+			tasks: [
+				{
+					id: "24349846B199E89A"
+					item: {
+						Count: 1b
+						id: "expatternprovider:infinity_cell"
+						tag: {
+							record: {
+								"#c": "ae2:f"
+								id: "minecraft:water"
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4A1432D1C4F9B0C0"
+					item: {
+						Count: 1b
+						id: "expatternprovider:infinity_cell"
+						tag: {
+							record: {
+								"#c": "ae2:i"
+								id: "minecraft:cobblestone"
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "无限单元"
+			x: -16.5d
+			y: -14.5d
+		}
+		{
+			dependencies: ["72AE4DAEFF6C2290"]
+			description: ["      本包提供了产量非常可观的各种产矿手段，根本没有倍矿的必要。而且倍矿需要的机器、提供其它消耗品的机器也有它的速率上限，堆多了当然也会卡。"]
+			hide_dependent_lines: true
+			id: "6DD491599FACA692"
+			subtitle: "一般建议不倍矿"
+			tasks: [{
+				id: "5C78BCE161D0A5B9"
+				title: "矿物处理设备"
+				type: "checkmark"
+			}]
+			x: -23.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["6DD491599FACA692"]
+			description: ["      相当于一个拥有9个槽的熔炉。前期用普通插件能达到9/s的烧炼速率，后期有了高级插件则能90/s。"]
+			id: "59AA7E24B85F78B0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "52BFD2A44D20CD77"
+					table_id: 7767539114598853755L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "406B275E21FFCCCD"
+					table_id: 7767539114598853755L
+					type: "choice"
+				}
+			]
+			subtitle: "CTI唯一指定熔炉"
+			tasks: [{
+				id: "72A3485E5D85474B"
+				item: "mekanism:ultimate_smelting_factory"
+				type: "item"
+			}]
+			x: -20.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["6DD491599FACA692"]
+			description: [
+				"      在合适催化剂和高级插件的加持下，感应炉的倍矿效率能超过mek五倍矿。在加了高级插件的情况下它也不是特别慢。"
+				""
+				"      同时热力的机器也是最不卡的机器"
+			]
+			id: "07D0393696B502AA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "70EC2997E2F32461"
+				table_id: 2171644119722362148L
+				type: "random"
+			}]
+			subtitle: "如果你真的实在是太想倍矿，那就用感应炉吧"
+			tasks: [{
+				id: "5448155B9D2B7591"
+				item: "thermal:machine_smelter"
+				type: "item"
+			}]
+			x: -18.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["6DD491599FACA692"]
+			description: [
+				"      鼓风机是你最容易获取的极高速熔炼设备。它适合在对各种乱七八糟的杂散材料进行&6大量的集中熔炼&r。"
+				""
+				"      用于样板自动化、紧凑型产线等情况或者进行小批量烧炼时更推荐热力/mek，鼓风机会更麻烦。"
+				""
+				"      注：经过测试，当处理相当于一个普通位面产出的矿物时，熔炼工厂的性能消耗和4倍速鼓风机的性能差别几乎可以忽略，这意味着将鼓风机作为熔岩筛矿产线的矿物处理是可行的"
+				"&c（但是相当不建议萌新这样做，因为涉及大量掉落物的自动化一旦哪里做错了就是炸服）"
+			]
+			id: "6CE5C056EB8987D6"
+			subtitle: "直接说结论：开局神器，但是中后期还是换成别的更好"
+			tasks: [{
+				id: "3058D866288A3E1E"
+				item: "create:encased_fan"
+				type: "item"
+			}]
+			x: -16.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["08D6AC08C3D4DC78"]
+			description: [
+				"      赛特斯石英和福鲁伊克斯石英是AE2的两种大量消耗品。在本包中可以通过水晶生长液、陨铁面板和母岩催生的方法自动化赛特斯石英。"
+				""
+				"      注：纸箱可以搬运无暇母岩，金星地表有硫酸池，天镜在击败烈阳巨灵后才能进入夜晚。"
+				"{@pagebreak}"
+				"      奇点是本包中有大量自动化需求的一种基本材料，在本章中你需要用它合成中子，而在下一章你则需要用它挖矿。"
+				""
+				"      我们都知道通过向物质聚合器灌入大量水就能获得奇点。但是由于物质聚合器对常规物流传输手段有限速，怎么灌，是个问题。"
+				""
+				"      AE设备（存储总线、输出总线）能识别到物质聚合器的内在存储从而达到更高效率。通过在物质聚合器上贴一个存储总线然后用扩展ME接口或ME-IO端口使水不停输入物质聚合器即可。"
+				"{image:kubejs:textures/ftbq_images/singularity3.png width:170 height:80 align:1}"
+				"      用ME-IO端口+无限水元件是个比较简单的方式，要增加产速就增加IO端口的数量。"
+				""
+				"      在用量需求高的时候，你也可以通过堆巨量扩展ME接口来供水："
+				"{image:kubejs:textures/ftbq_images/singularity2.png width:200 height:200 align:1}"
+				"      在这个例子中，扩展ME接口通过无线连接器与左侧的网络相连，然后进入网络中的物质聚合器。"
+				""
+				"      一个较为邪门的方法是下单式合成奇点。在AE2任务里有提到过，样板供应器按样板发送数据是传输速率最高的物流手段（当然，也会比较卡）。通过样板发送的方式向物质聚合器灌入巨量的水可以在一瞬间合成66个奇点。"
+				"{image:kubejs:textures/ftbq_images/singularity.png width:141 height:85 align:1}"
+				"      此等好事为何最后才说？因为这个方法不稳定，在部分Java版本无法运行。如果你的电脑上这个方法很幸运地能用，就用吧。"
+			]
+			icon: "ae2:singularity"
+			id: "184D6FF5B68230FC"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "25FF2376AF7D33B5"
+					table_id: 8776799107351546644L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "58A4BDEBEB3ADE67"
+					table_id: 8776799107351546644L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2CCA2083D61ED417"
+					table_id: 1725200357724293558L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4E6760D9F6B0DF9F"
+					table_id: 1725200357724293558L
+					type: "random"
+				}
+			]
+			subtitle: "中期该开AE了吧"
+			tasks: [
+				{
+					id: "573E4BEF672A4E03"
+					item: "thermal:machine_crystallizer"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "5C2118B783EFD121"
+					item: "cti:meteorium_plane"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "7077157E32A98633"
+					item: "ae2:quartz_growth_accelerator"
+					optional_task: true
+					type: "item"
+				}
+				{
+					count: 256L
+					id: "226105E3F181A872"
+					item: "ae2:certus_quartz_crystal"
+					type: "item"
+				}
+				{
+					count: 256L
+					id: "7704789B6A295066"
+					item: "ae2:singularity"
+					type: "item"
+				}
+			]
+			title: "AE2资源获取"
+			x: -20.5d
+			y: -13.5d
+		}
+		{
+			dependencies: ["25FE4D8080589D7A"]
+			description: [
+				"工厂机器的配方全部魔改了，合成出来的都是&d终极工厂&r"
+				""
+				"请查询各个机器对应的终极工厂的配方！"
+				"&b（注：是精英合成的那个）"
+				"部分机器（&e压射工厂、提纯工厂等&r）是由别的机器升级而来的，采用普通工作台配方，请注意甄别！"
+				""
+				"&a        下一页&r给出了8速度插件下各个机器的处理速度。16速下定间隔合成的机器（如熔炼工厂）速度为8插件下的10倍（每8插件速度X10）。"
+				"{@pagebreak}"
+				"&a间隔20t："
+				"所有工厂类机器"
+				"化学结晶机"
+				""
+				"&a间隔10t："
+				"化学溶解室"
+				"化学氧化机"
+				""
+				"&a下面的机器每tick处理一次，最大速率为每t处理256次配方（12插件为4096）："
+				"回旋式气液转换机"
+				"化学灌注机"
+				"电解分离机"
+				"清洗机"
+				"同位素离心机"
+				""
+				"&a热力蒸馏塔："
+				"60*层数mB/t，最大1080"
+				""
+				"&a特殊机器"
+				"      太阳能中子活化器速率与群系温度和高度有关，通常在50~90mB/t之间，具体请查看百科。"
+				"&b（在湿冷群系速率增加，于&d电离冻土星&b的异常区域可以达到250+mB/t的超高速度）"
+				""
+				"      加压反应室、反质子核合成的速率随配方而变化，没有固定值。"
+				""
+				"      超临界移相器的反物质产出最大速率固定为2mB/t。"
+			]
+			icon: "mekanism:ultimate_smelting_factory"
+			id: "6227AB13DA23BC53"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "717EDF6715A20307"
+				table_id: 7767539114598853755L
+				type: "random"
+			}]
+			shape: "diamond"
+			size: 1.5d
+			subtitle: "“你把mek机器的配方删了那我玩啥？？！”"
+			tasks: [{
+				id: "18832391468A3D8B"
+				type: "checkmark"
+			}]
+			title: "关于mek的机器"
+			x: -3.0d
+			y: -31.0d
+		}
+		{
+			dependencies: ["247D0332EDFCB7EE"]
+			description: [
+				"      感应炉可以用铁和煤粉直接烧制碳。虽然在低增产时会损失一部分铁，但是至少速度快。"
+				""
+				"      或者也可以搭配热解炉用焦煤炼钢。"
+			]
+			id: "6C232D625076387D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "585B10C537F3043F"
+					table_id: 2171644119722362148L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "67FF67690066D6A3"
+					table_id: 9158922771852269074L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4BA0CF561D74899C"
+					table_id: 8608731797032356187L
+					type: "random"
+				}
+			]
+			subtitle: "不一定是最好的方式，但一定比沉浸快"
+			tasks: [{
+				count: 64L
+				id: "4D0A8C7CC8820545"
+				item: "thermal:steel_ingot"
+				type: "item"
+			}]
+			title: "量产钢"
+			x: -31.0d
+			y: -31.5d
+		}
+		{
+			dependencies: ["08D6AC08C3D4DC78"]
+			description: [
+				"      由于彩钢、活化彩钢的大量需求，珍珠的量产是必不可少的。你当然可以前往末地刷小黑，但是科技里实际上也有自动化方法。"
+				""
+				"      末影络合物是珍珠的最简单来源，它可以被矿物钻井采掘到。它可以与雪球合成3个珍珠或者在熔岩炉被熔成4个珍珠。"
+				""
+				"      末影传送锚点倒转法则是可以无限量量产珍珠的自动化手段，只需要消耗钻石和铅烧制末影锭就能产出无限的珍珠。&e（注：用感应炉烧末影锭一次可以烧4锭；奇点可以用扩展输入总线+存储总线令物质聚合器从水槽抽水来自动化）"
+			]
+			icon: "minecraft:ender_pearl"
+			id: "090EB4864068A79D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "54223236CB516EC6"
+					table_id: 2171644119722362148L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2A20A2473FC34477"
+					table_id: 9158922771852269074L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "26A46B8FCFB4A1F7"
+					table_id: 8350761140120052524L
+					type: "random"
+				}
+			]
+			subtitle: "合成末影要巨量珍珠"
+			tasks: [
+				{
+					id: "2B12925ED85FD3F3"
+					item: "kubejs:crystal_ender"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "4645678A1ED21AFA"
+					item: "cyclic:eye_teleport"
+					optional_task: true
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "141EDAD09155B446"
+					item: "minecraft:ender_pearl"
+					type: "item"
+				}
+			]
+			title: "珍珠的量产"
+			x: -18.5d
+			y: -13.5d
+		}
+		{
+			dependencies: ["25FE4D8080589D7A"]
+			hide_text_until_complete: false
+			id: "54F52C7BE9CAF99E"
+			subtitle: "这里虽然没有全部机器，但是有最实用的机器"
+			tasks: [{
+				id: "1634D1F9C491C80A"
+				type: "checkmark"
+			}]
+			title: "实用机器推荐"
+			x: 0.0d
+			y: -30.0d
+		}
+		{
+			dependencies: ["25FE4D8080589D7A"]
+			id: "77E8E024842CBF2C"
+			tasks: [{
+				id: "3AE099592E4E2643"
+				title: "实用物品介绍"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -32.0d
+		}
+		{
+			dependencies: ["54F52C7BE9CAF99E"]
+			description: [
+				"      冶金灌注机会是新人遇到的一个自动化容易出错的机器。借此机器的任务页面，我来简单介绍一下mek的机器GUI和配置。"
+				""
+				"      要打开侧面配置选项卡，我们先要点击左侧红色框标出的那个按钮，接下来就会看到下面这个界面。"
+				"{image:kubejs:textures/ftbq_images/4afca183aaed815c2339fde141c0d4a9.png width:129 height:75 align:1}"
+				"      1.左侧绿框标出的按钮为类型选择按钮，mek的机器各种类型（物品、流体、各种化学品）都有相互独立的配置。"
+				""
+				"      2.终间蓝框标出的按钮为侧面配置按钮，它用来配置侧面是用于输入/输出还是什么都不干。&a按钮模式的颜色对应了机器处理界面槽位的颜色。"
+				"{image:kubejs:textures/ftbq_images/mek_config.png width:160 height:95 align:1}"
+				""
+				"      3.右上角绿色框标出的按钮为切换自动弹出模式，打开后mek会每隔一段时间尝试从输出面弹出产物。"
+				""
+				"      当不在GUI中时，用对应模式的配置器shift+右键可以配置面"
+				""
+				"{image:kubejs:textures/ftbq_images/3052b3a3e143ae4a946f27e03300fac9.png width:160 height:105 align:1}"
+			]
+			id: "427A94D73E48F48E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "05D9669C7F9105B7"
+					table_id: 1015335001374513013L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "105B9B25F680FBE1"
+					table_id: 995320823191003503L
+					type: "choice"
+				}
+			]
+			shape: "gear"
+			subtitle: "制作合金的必备机器"
+			tasks: [{
+				id: "638CC11E053951A9"
+				item: "mekanism:ultimate_infusing_factory"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -30.5d
+		}
+		{
+			dependencies: ["77E8E024842CBF2C"]
+			description: [
+				"      除了有几个缺点："
+				"      1.机械管道的传输速率会被&d物质聚合器&r限速，&e用这个造奇点不如扩展输入总线。"
+				""
+				"      2.高级的通用线缆在退出游戏后会&c丢失其中存储的能量&r，不要拿它当电池用。"
+			]
+			id: "0EDFCF13C57F3B1A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "58937E5CA83FB3A8"
+					table_id: 995320823191003503L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "11DD945828DF732F"
+					table_id: 7096874023676802204L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "58282426F1789263"
+					table_id: 7767539114598853755L
+					type: "random"
+				}
+			]
+			subtitle: "没别的，就是数值"
+			tasks: [
+				{
+					id: "7B672161C9EC9D15"
+					item: "mekaevolution:infinite_mechanical_pipe"
+					type: "item"
+				}
+				{
+					id: "596BD79BB263282F"
+					item: "mekaevolution:infinite_universal_cable"
+					type: "item"
+				}
+			]
+			title: "最高级的管道！"
+			x: 3.5d
+			y: -32.5d
+		}
+		{
+			dependencies: ["54F52C7BE9CAF99E"]
+			id: "57323710CB2C9E9D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "52059EEE836752BB"
+					table_id: 1015335001374513013L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4FFDE9A1AB18C817"
+					table_id: 995320823191003503L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			subtitle: "制作生物燃料的必备机器，也用于粉碎AE2的水晶"
+			tasks: [{
+				id: "3F7872877689F1D0"
+				item: "mekanism:ultimate_crushing_factory"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -29.5d
+		}
+		{
+			dependencies: ["247D0332EDFCB7EE"]
+			description: [
+				"      朱砂：熔岩筛矿批发的材料，既便宜又有较高的增产倍率。"
+				""
+				"      烈焰粉：增产方面可能不突出，但是0.25倍能耗意味着它&e能将可增产配方的处理速度加速到4倍速。"
+				""
+				"      解离水晶：又降能耗又有着最高的增产倍率。当然，它比较贵。"
+			]
+			id: "39AAE16312B851AA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3956D1DFE2CBBBD9"
+				table_id: 2171644119722362148L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "7A3F7FB95326AB7B"
+					item: "thermal:cinnabar"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "69A0E988FC3821B3"
+					item: "kubejs:disintegrate_crystal"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "238BA370F8A182A1"
+					item: "minecraft:blaze_powder"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "65F09F9CDEF32BD8"
+					type: "checkmark"
+				}
+			]
+			title: "感应炉催化剂推荐"
+			x: -32.5d
+			y: -34.5d
+		}
+		{
+			dependencies: ["0C78DFDD892A97E6"]
+			id: "139B653D3014ED97"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6C00EFB2E19F1D86"
+				table_id: 2171644119722362148L
+				type: "random"
+			}]
+			subtitle: "与感应炉催化剂不同，磨粉机的催化剂更需要降能耗"
+			tasks: [
+				{
+					id: "646AD074EE8471CD"
+					item: "kubejs:disintegrate_crystal"
+					type: "item"
+				}
+				{
+					id: "65F21A88ACB93424"
+					item: "minecraft:flint"
+					type: "item"
+				}
+				{
+					id: "2DED88D9BF15135D"
+					item: "kubejs:dust_petrotheum"
+					type: "item"
+				}
+				{
+					id: "2830DA7B425F3DF1"
+					item: "thermal:basalz_powder"
+					type: "item"
+				}
+			]
+			title: "磨粉机催化剂推荐"
+			x: -33.0d
+			y: -28.5d
+		}
+		{
+			dependencies: ["77E8E024842CBF2C"]
+			description: ["      非常好用的储罐，shift+滚轮可以切换模式。不仅有很高的容量，在桶模式下还能迅速装填/倒出流体"]
+			id: "2DF84810A5372341"
+			subtitle: "超级加强的桶！"
+			tasks: [{
+				id: "7A452561F2488EAB"
+				item: "mekanism:ultimate_fluid_tank"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -31.5d
+		}
+		{
+			dependencies: ["030A29846DD2FA1D"]
+			description: [
+				"      贮液器相当于一个更大的桶，极限情况下可以装4480000mB的流体。在更改了模式后能给身上的装备充流体（比如射线炮和离子刀）。"
+				""
+				"      药水注射器能自动给玩家补充buff，搭配炼金放大器/炼金延长器升级后可以强化/延长药水效果。"
+			]
+			id: "2190AED03FC83CFA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "73D3678AB2499B94"
+				table_id: 2171644119722362148L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "08971A3AD4927085"
+					item: {
+						Count: 1b
+						id: "thermal:fluid_reservoir"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "77684CE0332656A0"
+					item: {
+						Count: 1b
+						id: "thermal:potion_infuser"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "贮液器和药水注射器"
+			x: -26.5d
+			y: -30.5d
+		}
+		{
+			description: ["      用于给热力的小工具充能、注液、增减插件。GUI中的按钮可以切换模式。"]
+			id: "030A29846DD2FA1D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "40D1E0DCD8FCD6B6"
+				table_id: 2171644119722362148L
+				type: "random"
+			}]
+			subtitle: "此工匠非彼工匠"
+			tasks: [{
+				id: "2B0A73616933CCB6"
+				item: "thermal:tinker_bench"
+				type: "item"
+			}]
+			x: -26.5d
+			y: -31.5d
+		}
+		{
+			dependencies: ["677E0153B78D31D6"]
+			description: ["      通入燃气即可发电。计算公式挺复杂的所以下面直接把燃料的产能和消耗都列举出来了。"]
+			id: "36A7DEEAE1E81C65"
+			tasks: [{
+				id: "39247EB468C85A5C"
+				item: "mekanismgenerators:gas_burning_generator"
+				type: "item"
+			}]
+			x: -35.5d
+			y: -14.0d
+		}
+		{
+			dependencies: ["36A7DEEAE1E81C65"]
+			description: [
+				"      在发酵机处发酵生物燃料即可得到甲烷。生物燃料可以用粉碎机粉碎西瓜获取，西瓜则通过有机灌注种植。"
+				""
+				"      气态的甲烷产能69.8kFE/t，速率8.53。"
+			]
+			id: "1272CC78C2A79B70"
+			subtitle: "瓜聚变，你怎么变成我不认识的模样了"
+			tasks: [{
+				id: "2533295968E9665E"
+				item: "kubejs:methane_bucket"
+				type: "item"
+			}]
+			x: -33.5d
+			y: -14.5d
+		}
+		{
+			dependencies: ["5CA53B44C567755D"]
+			description: [
+				"      能量产出是第二章的一个重要问题。在本章中你会开始需要用到FE，并且随着进度耗电量会从10FE数量级飙升到1MFE数量级。选择一个好的发电设备会非常重要！"
+				""
+				"      这里对第二章发电手段进行一个简要的推荐。不在推荐上的发电手段并不是不能用，只是不推荐。"
+			]
+			hide_dependent_lines: true
+			icon: "mekaevolution:infinite_energy_cube"
+			id: "0F6F5D32CE4FC8A5"
+			shape: "gear"
+			size: 2.0d
+			subtitle: "注：不会包含x发电链接"
+			tasks: [{
+				id: "5CF69BA66A64D6DC"
+				type: "checkmark"
+			}]
+			title: "发电方式推荐"
+			x: -42.0d
+			y: -16.0d
+		}
+		{
+			dependencies: ["0F6F5D32CE4FC8A5"]
+			description: [
+				"     powah提供了一系列可魔改的发电设备，所以它构成了CTI的主要能量来源，主要推荐的发电机有3种。"
+				""
+				"     而其它的powah发电机则由于自身特质未能完成光荣的进化。"
+			]
+			hide_dependent_lines: true
+			icon: "powah:book"
+			id: "7A1DA58547A11662"
+			shape: "hexagon"
+			size: 1.5d
+			subtitle: "powah的设备是本包的一大重点"
+			tasks: [{
+				id: "58CF27CFD5AC2F30"
+				type: "checkmark"
+			}]
+			title: "Powah!"
+			x: -39.0d
+			y: -16.0d
+		}
+		{
+			dependencies: ["7A1DA58547A11662"]
+			description: [
+				"      &m&8为了给来自低版本的玩家一点亲切感&r太阳能板被改成了究极套娃的形式。不过它们的发电量很高，并且在炼狱星有极高的系数加成。"
+				""
+				"      如果你享受下单合成的美好时光，那么太阳能板绝对适合你。"
+			]
+			icon: "powah:solar_panel_starter"
+			id: "75A35C08B6E0D2D9"
+			subtitle: "我玩的不是SSP？"
+			tasks: [
+				{
+					id: "1F3A11EB54540340"
+					item: "powah:solar_panel_starter"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "24A75EB79078CA9D"
+					type: "checkmark"
+				}
+			]
+			title: "太阳能板"
+			x: -31.5d
+			y: -16.0d
+		}
+		{
+			dependencies: ["7A1DA58547A11662"]
+			description: [
+				"      热力发电机使用起来难度仅次于太阳能，下方放置热源然后供水就好了。"
+				""
+				"      热源对热力发电机的产能贡献极大，一个优质的热源足以让热力发电机成为最佳产能手段。"
+			]
+			icon: "powah:thermo_generator_starter"
+			id: "3577DC25239DBFEF"
+			subtitle: "比反应堆套娃，但是在加热方块的加持下发电量极高"
+			tasks: [
+				{
+					id: "6E4F705CFC35A04F"
+					item: "powah:thermo_generator_starter"
+					type: "item"
+				}
+				{
+					id: "0A0E5530D4918B09"
+					type: "checkmark"
+				}
+			]
+			x: -34.5d
+			y: -16.0d
+		}
+		{
+			dependencies: ["7A1DA58547A11662"]
+			description: [
+				"       反应堆有一个套娃配方和一个不套娃配方，这使得它虽然是多方快但是合成难度不太高。"
+				""
+				"       同时反应堆虽然要消耗资源，但是资源消耗速率并不快，所以可以作为一个不错的过渡期发电手段。"
+			]
+			icon: "powah:reactor_starter"
+			id: "79E46E9EBCA2FD5C"
+			subtitle: "中规中矩，但是不弱"
+			tasks: [
+				{
+					id: "37B7B83C7928DB8A"
+					item: "powah:reactor_starter"
+					type: "item"
+				}
+				{
+					id: "021C3632BDF90297"
+					type: "checkmark"
+				}
+			]
+			x: -33.0d
+			y: -16.0d
+		}
+		{
+			dependencies: ["0F6F5D32CE4FC8A5"]
+			description: [""]
+			hide_dependent_lines: true
+			icon: {
+				Count: 1b
+				id: "mekanism:configurator"
+				tag: {
+					mekData: {
+						EnergyContainers: [{
+							Container: 0b
+							stored: "60000"
+						}]
+					}
+				}
+			}
+			id: "677E0153B78D31D6"
+			shape: "hexagon"
+			size: 1.5d
+			subtitle: "这个阶段mek仅推荐燃气发电"
+			tasks: [{
+				id: "085668A68C95FA46"
+				type: "checkmark"
+			}]
+			x: -39.0d
+			y: -14.0d
+		}
+		{
+			dependencies: ["36A7DEEAE1E81C65"]
+			description: [
+				"       天镜获取"
+				""
+				"       氧化为浓化碳后产能79.7kFE/t，速率1.52"
+			]
+			id: "260BD05E0F8D77C6"
+			subtitle: "神能科技"
+			tasks: [{
+				id: "78D9246C9BCEEDEF"
+				item: "aether:ambrosium_shard"
+				type: "item"
+			}]
+			x: -30.5d
+			y: -14.0d
+		}
+		{
+			dependencies: ["36A7DEEAE1E81C65"]
+			description: [
+				"      在发酵机处发酵水果或者通过冲压机压生物燃料获取。"
+				""
+				"      气态的乙醇产能28kFE/t，速率4.27。"
+			]
+			id: "2438BA620D76B991"
+			subtitle: "酒精能灌醉发电机吗"
+			tasks: [{
+				id: "4D9ACE9B29B875C5"
+				item: "immersiveengineering:ethanol_bucket"
+				type: "item"
+			}]
+			x: -33.5d
+			y: -13.5d
+		}
+		{
+			dependencies: ["36A7DEEAE1E81C65"]
+			description: [
+				"      分馏裂化石脑油或者炼油厂获取。"
+				""
+				"      气态的乙烯产能36.5kFE/t，速率6.4。"
+				""
+				"      &m&8因为不够环保所以发电不如甲烷"
+			]
+			id: "14DA1939FBF507DD"
+			subtitle: "现在是石油化工获取"
+			tasks: [{
+				id: "7653C5EB8A677C54"
+				item: "mekanism:ethene_bucket"
+				type: "item"
+			}]
+			x: -32.5d
+			y: -13.5d
+		}
+		{
+			dependencies: ["36A7DEEAE1E81C65"]
+			description: [
+				"      获取方式：精炼原油，电解分离（电解分离耗电和产电是平衡的，也就是说总发电为0）"
+				""
+				"      产能20.48kFE/t，速率256"
+			]
+			id: "619FC8E50A243915"
+			subtitle: "极不推荐"
+			tasks: [{
+				id: "325B2429660F1A61"
+				item: "mekanism:hydrogen_bucket"
+				type: "item"
+			}]
+			x: -32.5d
+			y: -14.5d
+		}
+		{
+			dependencies: ["0F6F5D32CE4FC8A5"]
+			description: [
+				"      众所周知热力能源炉的产能都很低。但是同样众所周知，CTI里有十分数值的插件。加了高级插件的能源炉能否逆天改命？"
+				""
+				"{image:kubejs:textures/ftbq_images/dynamo.png width:222 height:104 align:1}"
+				"      答案是能，但是有代价。"
+				""
+				"      活化彩钢组件+3个高级能源炉燃烧室就能让压缩能源炉达到&e338kFE/t&r的超高发电。如果你愿意凹恶念燃烧室组件，则能让一台能源炉就产出&e800+kFE/t&r的超高产能。但是相应的，热力能源炉依赖于高级的组件，而组件的价格就构成它的缺点。"
+				""
+				"      由于沉浸的石化能生产大量廉价燃料（柴油），所以压缩能源炉最为推荐。"
+				"&b(热力能源炉产能大部分情况下与燃料无关)"
+				"&a（仅在燃料燃烧时间降到1t时，燃料能量才影响发电性能）"
+				"&b(热力能源炉烧的熔岩更便宜，但是热力能源炉产能略低。)"
+			]
+			icon: "thermal:dynamo_compression"
+			id: "0BC84DEC67C802A6"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "15F61CB500AB18A4"
+					table_id: 8350761140120052524L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "253F3211D521F743"
+					table_id: 2171644119722362148L
+					type: "choice"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			subtitle: "不再弱小"
+			tasks: [
+				{
+					id: "38345C91C895282B"
+					item: "thermal:dynamo_compression"
+					type: "item"
+				}
+				{
+					id: "47A90FA45940B92B"
+					item: "cti:advanced_dyano_augment"
+					type: "item"
+				}
+			]
+			x: -39.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["08D6AC08C3D4DC78"]
+			description: [
+				"       气动刷怪率和电动刷怪机可以用于大量定向刷怪。气动刷怪笼的效率很高，较为推荐。"
+				""
+				"       谷物锭做的工具攻击时产生动物，能用于生产各种肉类。"
+				""
+				"       霍恩工具能用来催熟并繁殖生物，可以用模块化路由器自动化。"
+			]
+			icon: "pneumaticcraft:pressurized_spawner"
+			id: "37C4D6121D37389F"
+			subtitle: "“我从哪里来”"
+			tasks: [
+				{
+					id: "57C1B15CFCF0B301"
+					item: "pneumaticcraft:pressurized_spawner"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "4BE02BCB3607A0E2"
+					item: "industrialforegoing:mob_duplicator"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "431F31D30A96221A"
+					item: "tinkerscalibration:grain_ingot"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "1847BDBFAAFCDB99"
+					item: "tinkers_reforged:hornium_ingot"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "76E88458E98A63C1"
+					type: "checkmark"
+				}
+			]
+			title: "生物资源"
+			x: -16.5d
+			y: -13.5d
+		}
+		{
+			dependencies: ["0F6F5D32CE4FC8A5"]
+			description: [
+				"      创造能量元件能在月球地牢被发现，但是前往那里要小心高等级的月球怪物。"
+				""
+				"      创造能源元件的能量不能被大量转换为FE，所以它只能给你的ME网络供能。"
+			]
+			icon: "ae2:creative_energy_cell"
+			id: "58BB8DF7E1EBB3CD"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "51802F5973BEBB6C"
+					table_id: 8776799107351546644L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1996F372B943D51E"
+					table_id: 8776799107351546644L
+					type: "choice"
+				}
+			]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "如何给AE供能？"
+			tasks: [{
+				id: "214BD520E84D8B48"
+				item: "ae2:creative_energy_cell"
+				type: "item"
+			}]
+			x: -33.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["1C2213CEFC8B86D5"]
+			description: [
+				"      沉浸工程是本章的开端。你需要运用原始的化工设备利用石油化工获取塑料，通过有机工艺合成酚醛树脂，通过发酵工艺获取甲烷，最终正式进入Mek阶段。"
+				""
+				"      解锁Mek后，部分生产机器可以被小巧且快速的高级化工设备所替代。此后便是自动化合成中子素的艰险路途。"
+				""
+				" &e     沉浸工艺的指导书有着完整的汉化并且功能齐全。本小节会随流程标识出你需要的设备，剩下的请在书和JEI中寻找答案。"
+			]
+			icon: "immersiveengineering:manual"
+			id: "5E292304206A23F4"
+			rewards: [{
+				id: "23E9C72F58779CE1"
+				item: "immersiveengineering:manual"
+				type: "item"
+			}]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "玩家：我讨厌这个模组！整合包作者：加大药量"
+			tasks: [{
+				id: "2BE39F595AEF3D5C"
+				type: "checkmark"
+			}]
+			title: "沉浸工程[IE]"
+			x: -42.0d
+			y: -22.5d
+		}
+		{
+			dependencies: ["5E292304206A23F4"]
+			description: ["      除了拿个桶满世界捞石油外，石油可以通过&e井架+抽油机&r或&e流体提取井&r来大量获取。"]
+			id: "3449CE1117E3A8EF"
+			rewards: [{
+				count: 8
+				id: "3DFF7DD8D4D5CD16"
+				item: "immersivepetroleum:crudeoil_bucket"
+				type: "item"
+			}]
+			subtitle: "America: Where?"
+			tasks: [{
+				id: "0EF18401A5433356"
+				item: "immersivepetroleum:crudeoil_bucket"
+				type: "item"
+			}]
+			title: "石油化工"
+			x: -37.0d
+			y: -24.5d
+		}
+		{
+			dependencies: ["3697B37E48CDEE1B"]
+			description: [
+				"      沉浸工程提供了大量多方快机器，虽然这些机器不如热力、mek等模组的单方块机器有用，但是沉浸构成了本章流程的一个重要部分。"
+				""
+				" &a     第二章主线的开端就是沉浸，建议在发展热力获取充足的钢后发展。"
+				""
+				"      对于沉浸这种多方快机器，辨识各种自动化接口是很重要的。本章除了介绍部分常用机器的作用外还会指出它们的交互接口。"
+				""
+				"      注：除非特殊注明，沉浸的设备均&a有主动输出&r功能而&a没有主动输入&r功能。"
+			]
+			hide_dependent_lines: true
+			icon: "immersiveengineering:heavy_engineering"
+			id: "33583C9BB8340D79"
+			shape: "gear"
+			size: 2.0d
+			subtitle: "推主线需要的模组"
+			tasks: [{
+				id: "1BD2EC590B326894"
+				type: "checkmark"
+			}]
+			title: "沉浸工程"
+			x: -42.0d
+			y: -35.0d
+		}
+		{
+			dependencies: [
+				"2A0D7038D0E3CA85"
+				"27027E1647C2270E"
+			]
+			id: "60C366FCE76795D1"
+			min_required_dependencies: 1
+			rewards: [
+				{
+					count: 4
+					id: "0C2851FE9DAD06B2"
+					item: "immersivepetroleum:naphtha_bucket"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "60519AE82F47227C"
+					table_id: 7767539114598853755L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				id: "6A9E94F9CBAC241D"
+				item: "immersivepetroleum:naphtha_bucket"
+				type: "item"
+			}]
+			x: -31.0d
+			y: -24.5d
+		}
+		{
+			dependencies: [
+				"64DE8F9725BBE679"
+				"2B7FE92B7B891A3A"
+			]
+			dependency_requirement: "one_completed"
+			id: "25C9535AE4E2DF25"
+			min_required_dependencies: 1
+			rewards: [
+				{
+					count: 4
+					id: "2F469F2D26182E82"
+					item: "mekanism:ethene_bucket"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1D45159A9A4E8C82"
+					table_id: 7767539114598853755L
+					type: "choice"
+				}
+			]
+			subtitle: "待会合成聚乙烯还要用"
+			tasks: [{
+				id: "3AB0381AEFDDDA87"
+				item: "mekanism:ethene_bucket"
+				type: "item"
+			}]
+			x: -24.0d
+			y: -23.5d
+		}
+		{
+			dependencies: [
+				"64DE8F9725BBE679"
+				"0AA847A8EF408DBB"
+			]
+			dependency_requirement: "one_completed"
+			description: [
+				"      把熔融塑料倒在地上/装桶然后导热框架冷却/用急速冷冻机冷却均能获得塑料。"
+				""
+				"      一旦获得了第一块塑料后就可以用工业先锋更简单地制造塑料（但是相应的速度非常慢，你需要堆很多才能更得上后面的需求）"
+			]
+			id: "1F430AEBE7FF30CD"
+			min_required_dependencies: 1
+			rewards: [
+				{
+					id: "1C02B2C922E52B68"
+					item: "pneumaticcraft:plastic"
+					random_bonus: 15
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4EDDE3E2FB4FCEBB"
+					table_id: 7767539114598853755L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				id: "687AE185F43D19E3"
+				item: "pneumaticcraft:plastic"
+				type: "item"
+			}]
+			x: -24.0d
+			y: -24.5d
+		}
+		{
+			dependencies: ["60C366FCE76795D1"]
+			icon: "immersivepetroleum:hydrotreater"
+			id: "64DE8F9725BBE679"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "41A08F851F0F3578"
+					table_id: 7947331869298061682L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1D790CD22C149F36"
+					table_id: 7767539114598853755L
+					type: "choice"
+				}
+			]
+			subtitle: "用高压精炼装置获取裂化石脑油，然后分馏"
+			tasks: [
+				{
+					advancement: "immersivepetroleum:main/mb_hydrotreater"
+					criterion: ""
+					id: "6BC9084DE243717C"
+					type: "advancement"
+				}
+				{
+					advancement: "immersivepetroleum:main/mb_distillationtower"
+					criterion: ""
+					id: "62F5B9FA127C0265"
+					type: "advancement"
+				}
+			]
+			title: "处理裂化石脑油"
+			x: -27.5d
+			y: -23.5d
+		}
+		{
+			dependencies: ["60C366FCE76795D1"]
+			id: "0AA847A8EF408DBB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "52E4A7924931D9EA"
+					table_id: 1355798249144543854L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2ECDCC6A3EC6EBB6"
+					table_id: 7767539114598853755L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				id: "64B4FCA3639FDAC7"
+				item: "pneumaticcraft:thermopneumatic_processing_plant"
+				type: "item"
+			}]
+			x: -27.5d
+			y: -24.5d
+		}
+		{
+			dependencies: ["7846705881E63359"]
+			description: [
+				"      Mek化工设备需要用到钢制机壳，一般的工厂设备不需要。"
+				""
+				"      后续还会用于合成别的机壳，做好自动化准备！"
+			]
+			id: "46DB6A0A30AE40B8"
+			subtitle: "不再是基础喽"
+			tasks: [{
+				id: "512A08F91FCA710E"
+				item: "mekanism:steel_casing"
+				type: "item"
+			}]
+			x: -31.0d
+			y: -35.5d
+		}
+		{
+			dependencies: ["5E292304206A23F4"]
+			description: ["      工业发酵机是一种物品处理设备，它能将部分含糖物质发酵为&e乙醇&r，或者将生物燃料发酵为&e甲烷和基片&r。"]
+			id: "6C96604846E61C38"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "298FF3A6B4ACF9A1"
+				table_id: 7947331869298061682L
+				type: "random"
+			}]
+			subtitle: "生物工程！"
+			tasks: [{
+				advancement: "immersiveengineering:multiblocks/mb_fermenter"
+				criterion: ""
+				id: "2D9D216411C7E383"
+				title: "工业发酵机"
+				type: "advancement"
+			}]
+			x: -37.0d
+			y: -22.5d
+		}
+		{
+			dependencies: ["6C96604846E61C38"]
+			id: "0BAB72B87AD83B1F"
+			rewards: [
+				{
+					count: 32
+					id: "6D5EB8F615499C7F"
+					item: "minecraft:melon"
+					random_bonus: 32
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "226FA8E34CD1CF95"
+					table_id: 7767539114598853755L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				id: "2F0B963E234C22BC"
+				item: "immersiveengineering:ethanol_bucket"
+				type: "item"
+			}]
+			x: -31.0d
+			y: -22.5d
+		}
+		{
+			dependencies: ["6C96604846E61C38"]
+			id: "401A4DFB283A944B"
+			rewards: [{
+				count: 32
+				id: "1381F327ABBE4BD9"
+				item: "mekanism:substrate"
+				random_bonus: 32
+				type: "item"
+			}]
+			subtitle: "记住这个，以后要考"
+			tasks: [{
+				id: "76BB3E660C13CD4A"
+				item: "kubejs:methane_bucket"
+				type: "item"
+			}]
+			x: -34.0d
+			y: -21.5d
+		}
+		{
+			dependencies: ["0BAB72B87AD83B1F"]
+			description: [
+				"      炼油厂能够将一些基础原料处理成各种二级原料。此外也参与一些早期匠魂燃料的合成。"
+				""
+				"      其催化剂（物品）是不消耗的。"
+			]
+			icon: "immersiveengineering:refinery"
+			id: "2B7FE92B7B891A3A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "46CF0F818DFAA4CA"
+					table_id: 7947331869298061682L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "407E0886679EF638"
+					table_id: 7767539114598853755L
+					type: "choice"
+				}
+			]
+			subtitle: "反应机理，请"
+			tasks: [{
+				advancement: "immersiveengineering:multiblocks/mb_refinery"
+				criterion: ""
+				id: "232A891A3E92EF6F"
+				optional_task: true
+				title: "化学加工"
+				type: "advancement"
+			}]
+			title: "乙醇大蜕变"
+			x: -27.5d
+			y: -22.5d
+		}
+		{
+			dependencies: ["5E292304206A23F4"]
+			id: "19A6605F574EE067"
+			rewards: [{
+				count: 8
+				id: "6E9CA40F5A9EC781"
+				item: "immersiveengineering:creosote_bucket"
+				type: "item"
+			}]
+			subtitle: "可以用热解炉合成，焦炉太慢了"
+			tasks: [{
+				id: "62FE440EABC966B9"
+				item: "immersiveengineering:creosote_bucket"
+				type: "item"
+			}]
+			x: -37.0d
+			y: -20.5d
+		}
+		{
+			dependencies: [
+				"2B7FE92B7B891A3A"
+				"19A6605F574EE067"
+			]
+			id: "1024EF3C749C62AE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "48BBFCE1145A952E"
+					table_id: 7947331869298061682L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2D972B110EB04A9A"
+					table_id: 7767539114598853755L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				id: "48F2BD513D0FD6C4"
+				item: "immersiveengineering:acetaldehyde_bucket"
+				type: "item"
+			}]
+			x: -31.0d
+			y: -20.5d
+		}
+		{
+			dependencies: ["19A6605F574EE067"]
+			id: "0DC33D3ECBA66C48"
+			rewards: [
+				{
+					count: 4
+					id: "2A0BDA1CCFF84D12"
+					item: "immersiveengineering:phenolic_resin_bucket"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3328C0DC5D8644CB"
+					table_id: 7767539114598853755L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				id: "1CF87AE5AE00D230"
+				item: "immersiveengineering:phenolic_resin_bucket"
+				type: "item"
+			}]
+			x: -27.5d
+			y: -20.5d
+		}
+		{
+			dependencies: ["0DC33D3ECBA66C48"]
+			id: "028F935278E3DF52"
+			rewards: [
+				{
+					id: "634035AD77CF9025"
+					item: "immersiveengineering:plate_duroplast"
+					random_bonus: 15
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "445087A7ADFEFDC6"
+					table_id: 7767539114598853755L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				id: "5FECC4E50847A50D"
+				item: "immersiveengineering:plate_duroplast"
+				type: "item"
+			}]
+			x: -24.0d
+			y: -21.5d
+		}
+		{
+			dependencies: ["0DC33D3ECBA66C48"]
+			description: [
+				"      用原子合金合成冶金灌注机，然后就能搓电路板了。"
+				""
+				"      它也是一种材料，同时也用于合成开拓者工具的挖掘核心部件。"
+			]
+			icon: "mekanism:alloy_atomic"
+			id: "7E7602DEEA4166B1"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "65DFD3098D5963A6"
+					table_id: 995320823191003503L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "630414C27B737013"
+					table_id: 7767539114598853755L
+					type: "choice"
+				}
+			]
+			subtitle: "Mek 现已解锁"
+			tasks: [
+				{
+					id: "41F279892D4C4FD7"
+					item: "mekanism:alloy_atomic"
+					type: "item"
+				}
+				{
+					id: "075C4C7CDEA27BFB"
+					item: "mekanism:ultimate_infusing_factory"
+					type: "item"
+				}
+			]
+			x: -24.0d
+			y: -20.5d
+		}
+		{
+			dependencies: [
+				"7E7602DEEA4166B1"
+				"1F430AEBE7FF30CD"
+				"028F935278E3DF52"
+				"25C9535AE4E2DF25"
+				"7B99D1E3638BBAA4"
+				"62C05BDE79BD5822"
+			]
+			dependency_requirement: "one_started"
+			description: ["      又或者，&e其实还有别的方法到达这里？"]
+			id: "4CDB2DA2F4A83D47"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "171ADAE143C6446B"
+					table_id: 7947331869298061682L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0657463F1159E47D"
+					table_id: 7767539114598853755L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0F81FE294D2DC680"
+					table_id: 7767539114598853755L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2A7ACF63FDC637DB"
+					table_id: 995320823191003503L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1380F85CD42E63EF"
+					table_id: 7096874023676802204L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3C844A77CCD9F1A5"
+					table_id: 1015335001374513013L
+					type: "choice"
+				}
+			]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "经过了九九八十一难（真的吗），你终于解锁mek了"
+			tasks: [
+				{
+					id: "7CF350BBBBEA4EB5"
+					item: "mekanism:rotary_condensentrator"
+					type: "item"
+				}
+				{
+					id: "6403F00E340B0F1A"
+					item: "mekanism:pressurized_reaction_chamber"
+					type: "item"
+				}
+			]
+			title: "先进化工！"
+			x: -16.0d
+			y: -22.5d
+		}
+		{
+			dependencies: ["4CDB2DA2F4A83D47"]
+			description: ["      合成出化学灌注机后才能用mek路径合成这个"]
+			id: "63193AB2670E3F60"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4788CD465289A3D7"
+					table_id: 1015335001374513013L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2C1FFB4E9CBA1BB1"
+					table_id: 7096874023676802204L
+					type: "random"
+				}
+			]
+			subtitle: "别说话，继续吃沉浸"
+			tasks: [{
+				id: "5EE8A968A47F1A54"
+				item: "kubejs:radical_initiator_bucket"
+				type: "item"
+			}]
+			x: -12.5d
+			y: -23.5d
+		}
+		{
+			dependencies: ["3449CE1117E3A8EF"]
+			description: ["      另外它也能用来生产别的，比如苯、乙烯、乙炔。"]
+			id: "27027E1647C2270E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "647879D7F446E1DD"
+				table_id: 7947331869298061682L
+				type: "random"
+			}]
+			subtitle: "速度快但是体积大"
+			tasks: [{
+				advancement: "immersivepetroleum:main/mb_distillationtower"
+				criterion: ""
+				id: "3F62DBFDEAFC8E99"
+				type: "advancement"
+			}]
+			title: "分馏塔"
+			x: -34.0d
+			y: -24.5d
+		}
+		{
+			dependencies: ["3449CE1117E3A8EF"]
+			id: "2A0D7038D0E3CA85"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1883949AD7BCE86E"
+				table_id: 1355798249144543854L
+				type: "random"
+			}]
+			subtitle: "速度略慢但是体积小"
+			tasks: [
+				{
+					id: "3BF45D913AD28878"
+					item: "pneumaticcraft:refinery_output"
+					type: "item"
+				}
+				{
+					id: "7290D5AD3474D344"
+					item: "pneumaticcraft:refinery"
+					type: "item"
+				}
+			]
+			x: -34.0d
+			y: -23.5d
+		}
+		{
+			id: "7B99D1E3638BBAA4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3FD2A595BAFCFD39"
+				table_id: 1355798249144543854L
+				type: "choice"
+			}]
+			subtitle: "完成PnC进度"
+			tasks: [
+				{
+					id: "6B7E2BCBA630C9B1"
+					item: "pneumaticcraft:printed_circuit_board"
+					type: "item"
+				}
+				{
+					id: "4A3549E1571485A2"
+					item: "kubejs:compressed_hardlead"
+					type: "item"
+				}
+			]
+			title: "电路板和压缩硬铅"
+			x: -16.0d
+			y: -24.5d
+		}
+		{
+			id: "62C05BDE79BD5822"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1B0970B5DD1663DE"
+					table_id: 8608731797032356187L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "16250C26B3AD0732"
+					table_id: 2171644119722362148L
+					type: "random"
+				}
+			]
+			subtitle: "完成热力进度"
+			tasks: [{
+				id: "73CBF2F6C0DE6537"
+				item: "mekanism:steel_casing"
+				type: "item"
+			}]
+			x: -16.0d
+			y: -20.5d
+		}
+		{
+			dependencies: ["63193AB2670E3F60"]
+			description: [
+				"      合成聚乙烯时会消耗巨量能量，你只能插入最多2个速度升级，否则机器缓存会不足以进行合成。"
+				""
+				"      后面有高级的能量插件后便可全速合成。"
+			]
+			id: "1273F559855B70AA"
+			rewards: [
+				{
+					id: "7CEFA7018FCBDF3F"
+					item: "mekanism:hdpe_sheet"
+					random_bonus: 7
+					type: "item"
+				}
+				{
+					id: "7BCB6EAE6A9FB059"
+					item: "mekanism:hdpe_pellet"
+					random_bonus: 63
+					type: "item"
+				}
+			]
+			subtitle: "链式聚合！"
+			tasks: [{
+				id: "6200AD69201C8F76"
+				item: "mekanism:hdpe_sheet"
+				type: "item"
+			}]
+			x: -11.0d
+			y: -23.5d
+		}
+		{
+			dependencies: ["1273F559855B70AA"]
+			description: [
+				"      注：化学溶解机、化学压射室、提纯仓的化学品消耗是&e随机浮动的&r，请不要用样板式自动化来自动化这些机器。"
+				""
+				"      注2：上述机器的化学品消耗随插件变化明显，如果插了巨量速度升级而没插&e气体升级&r，你会度过一段很惨的时光。"
+			]
+			id: "52384A09CCA55AFE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "61B59F16C9B638A0"
+					table_id: 7096874023676802204L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3B05F36D400AB535"
+					table_id: 995320823191003503L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "748B34687ED328E6"
+					table_id: 1015335001374513013L
+					type: "random"
+				}
+			]
+			subtitle: "做出了这些设备，部分沉浸工程的设备就能退役了"
+			tasks: [
+				{
+					id: "4E20B01C05BD5AEB"
+					item: "mekanism:chemical_oxidizer"
+					type: "item"
+				}
+				{
+					id: "725AD63260FB954F"
+					item: "mekanism:chemical_infuser"
+					type: "item"
+				}
+				{
+					id: "590526A477F9EA4C"
+					item: "mekanism:chemical_dissolution_chamber"
+					type: "item"
+				}
+				{
+					id: "00B7A7D150AAC56C"
+					item: "mekanism:chemical_crystallizer"
+					type: "item"
+				}
+			]
+			title: "更多化工设备"
+			x: -9.5d
+			y: -23.5d
+		}
+		{
+			dependencies: [
+				"4CDB2DA2F4A83D47"
+				"52384A09CCA55AFE"
+			]
+			description: ["另外&e金星&r上存在着大量天然硫酸。"]
+			id: "65B61F791DA5D49B"
+			min_required_dependencies: 1
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "14E49F2DC016DA1D"
+					table_id: 995320823191003503L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "03FD75EA11064DF8"
+					table_id: 7096874023676802204L
+					type: "random"
+				}
+			]
+			subtitle: "将硫氧化成二氧化硫，然后在化学灌注机里氧化成三氧化硫然后再加上水蒸气，就是硫酸了。"
+			tasks: [{
+				id: "50FDA6B7A7C9619A"
+				item: "mekanism:sulfuric_acid_bucket"
+				type: "item"
+			}]
+			x: -12.5d
+			y: -21.5d
+		}
+		{
+			dependencies: [
+				"65B61F791DA5D49B"
+				"3156EAEF6BF5C924"
+			]
+			description: [
+				"      用液态甲烷和硫酸在加压反应室里与高定向热解石墨反应就得到了石墨烯。"
+				""
+				"      什么？你问我可燃冰哪里来？它在&b天王星&r上，你需要先合成出碳板或气动套装才能去那里。"
+			]
+			id: "3B5105F0BAB15E17"
+			rewards: [{
+				id: "1333E4A7DB75A994"
+				item: "kubejs:graphene"
+				random_bonus: 3
+				type: "item"
+			}]
+			subtitle: "石墨烯为什么会需要硫酸？"
+			tasks: [{
+				id: "2A42382BA4DC03BB"
+				item: "kubejs:graphene"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -21.5d
+		}
+		{
+			dependencies: [
+				"3B5105F0BAB15E17"
+				"52384A09CCA55AFE"
+			]
+			description: ["可以用于合成压强抵抗装置，此后你便可以前往木星"]
+			id: "4008AC5BFBA33376"
+			rewards: [{
+				id: "19B74C46E081A9C1"
+				item: "kubejs:carbon_plate"
+				random_bonus: 3
+				type: "item"
+			}]
+			subtitle: "也是一种不错的匠魂材料"
+			tasks: [{
+				id: "356DDD2C81684BF0"
+				item: "kubejs:carbon_plate"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -22.5d
+		}
+		{
+			dependencies: ["52384A09CCA55AFE"]
+			description: [
+				"      在解锁了高级化工设备后，你只需要利用单方块设备就能简单合成出工程塑胶板。"
+				""
+				"&e合成路线："
+				""
+				"煤->杂酚油->苯酚"
+				""
+				"生物燃料->乙醇->乙醛"
+				""
+				"乙醛+苯酚->酚醛树脂->工程塑胶板"
+			]
+			id: "498347CAE5C01D4F"
+			rewards: [
+				{
+					count: 64
+					id: "5088EAF4E611D4EC"
+					item: "immersiveengineering:plate_duroplast"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "1EEE42B587AA66C0"
+					item: "mekanism:alloy_atomic"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "287425E548A7710F"
+					table_id: 7096874023676802204L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0FB7513089DC6ED5"
+					table_id: 995320823191003503L
+					type: "choice"
+				}
+			]
+			subtitle: "合一组看看实力"
+			tasks: [{
+				count: 64L
+				id: "0B48FF347ED7B92B"
+				item: "immersiveengineering:plate_duroplast"
+				type: "item"
+			}]
+			title: "高效化工合成"
+			x: -9.5d
+			y: -24.5d
+		}
+		{
+			dependencies: [
+				"62CA6256D75A1A02"
+				"12318B6C5074B989"
+				"4008AC5BFBA33376"
+			]
+			id: "068CCE16E513CF6B"
+			tasks: [{
+				id: "552CD4B342442632"
+				item: "kubejs:pure_matter_bucket"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -22.5d
+		}
+		{
+			description: [
+				"     热力的三种粉可以通过倒转外星石（除了暴雪粉倒转不了）和生物自动化获取。"
+				""
+				"      推荐后者，因为&e气动刷怪笼&r有足够高的刷怪速率，通过模块化路由器用幸运拉满的宽刃镰处死能有很高的产量，再给磨粉机上个增产，就差不多了。"
+			]
+			id: "62CA6256D75A1A02"
+			rewards: [{
+				id: "2442684AFA5D7425"
+				item: "etshtinker:activated_chroma_plate"
+				random_bonus: 15
+				type: "item"
+			}]
+			subtitle: "没有你想象的这么恐怖"
+			tasks: [{
+				id: "6439F88A70875E94"
+				item: "kubejs:compressed_activated_chroma_plate"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -24.5d
+		}
+		{
+			description: ["      熔岩筛矿（即答）"]
+			id: "12318B6C5074B989"
+			rewards: [{
+				id: "2A7B904A193B0247"
+				item: "minecraft:netherite_ingot"
+				random_bonus: 15
+				type: "item"
+			}]
+			subtitle: "那我问你，你下界合金哪来的"
+			tasks: [{
+				id: "1A9FB39C43518A18"
+				item: "thermal:netherite_gear"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -20.5d
+		}
+		{
+			dependencies: ["74F0B1A65B29BB4D"]
+			description: [
+				"      中子素锭的获取意味着你的科技水平已经进阶到了核子层面。事不宜迟，赶紧发展核电吧！"
+				""
+				"      哦对了，你还需要探索&e木星&r以获取&d超致密      "
+			]
+			id: "5C3C5CC64E6C5F72"
+			rewards: [{
+				id: "7F49B57C4342AF27"
+				item: "avaritia:neutron"
+				type: "item"
+			}]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "物质超压缩！"
+			tasks: [{
+				id: "35B8A4B8C7322489"
+				item: "avaritia:neutron_ingot"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -22.5d
+		}
+		{
+			dependencies: ["068CCE16E513CF6B"]
+			description: ["      如何冷却不稳定中子锭请看PnC小节。奇点如何获取请看资源获取小节"]
+			id: "74F0B1A65B29BB4D"
+			rewards: [{
+				id: "60C44AFD3F99E6FA"
+				item: "kubejs:activated_matter_dust"
+				random_bonus: 3
+				type: "item"
+			}]
+			tasks: [{
+				id: "64A3F3A2D4848B53"
+				item: "kubejs:overchargedultradense"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -22.5d
+		}
+		{
+			description: ["      探索了外星之后，甲烷可以通过电解凛冰燃料获取。"]
+			id: "3156EAEF6BF5C924"
+			subtitle: "是用在这里的！"
+			tasks: [{
+				id: "48B9B7A517A17472"
+				item: "kubejs:methane_bucket"
+				type: "item"
+			}]
+			x: -10.0d
+			y: -20.5d
+		}
+		{
+			dependencies: ["4494E9BDD6F2EF5A"]
+			description: [
+				"      是分馏裂化润滑油、裂化石脑油等的唯一途径，是苯、乙炔的唯一获取手段。"
+				""
+				"      成型点位："
+				"{image:kubejs:textures/ftbq_images/ie/fraction.png width:96 height:85 align:1 fit:true}"
+				""
+				"      自动化标识："
+				"{image:kubejs:textures/ftbq_images/ie/fraction2.png width:100 height:65 align:1 fit:true}"
+				"{image:kubejs:textures/ftbq_images/ie/fraction3.png width:100 height:65 align:1 fit:true}"
+				""
+				"      特殊注明：物品会直接输出到与输出口相连的容器里，如果输出容器&c无可用空间&r则会&c输出掉落物&r。"
+			]
+			id: "6EA2CECB44317E65"
+			subtitle: "用于分馏各种石化原料，生产有用流体"
+			tasks: [{
+				advancement: "immersivepetroleum:main/mb_distillationtower"
+				criterion: ""
+				id: "14CDFDDC82110DEA"
+				type: "advancement"
+			}]
+			title: "分馏塔"
+			x: -39.5d
+			y: -31.5d
+		}
+		{
+			dependencies: ["4494E9BDD6F2EF5A"]
+			description: [
+				"      沉浸的重要加工设备，在进入mek前很多化工原料需要用它获取。"
+				"      此外也参与加热的熔岩和过热熔岩这两种匠魂燃料的合成。"
+				""
+				"      成型点位："
+				"{image:kubejs:textures/ftbq_images/ie/refiner.png width:100 height:65 align:1 fit:true}"
+				""
+				"      自动化标识："
+				"{image:kubejs:textures/ftbq_images/ie/refiner4.png width:100 height:65 align:1 fit:true}"
+				""
+				"      特殊注明："
+				"      1.炼油厂的物品输入（也就是催化剂）是不消耗的，放一个就行。"
+				""
+				"      2.流体输入的储罐顺序不影响合成。不需要严格按JEI的顺序输入流体。"
+				""
+				"      3.使用流体容器与炼油厂的储罐结构交互可以取出/放入流体。"
+				"{image:kubejs:textures/ftbq_images/ie/refiner2.png width:100 height:58 align:1 fit:true}"
+				"{image:kubejs:textures/ftbq_images/ie/refiner3.png width:100 height:58 align:1 fit:true}"
+			]
+			id: "34C6EAF659484FBE"
+			subtitle: "用于把乙醇氧化为乙醛、合成酚醛树脂等"
+			tasks: [{
+				advancement: "immersiveengineering:multiblocks/mb_refinery"
+				criterion: ""
+				id: "39AFB08395D0C815"
+				type: "advancement"
+			}]
+			title: "炼油厂"
+			x: -40.5d
+			y: -31.5d
+		}
+		{
+			dependencies: ["4494E9BDD6F2EF5A"]
+			description: [
+				"      成型点位："
+				"{image:kubejs:textures/ftbq_images/ie/pressure.png width:70 height:60 align:1 fit:true}"
+				""
+				"      自动化标识："
+				"{image:kubejs:textures/ftbq_images/ie/pressure2.png width:66 height:72 align:1 fit:true}"
+				""
+				"      特殊注明："
+				"      1.物品会直接输出到与输出口相连的容器里，如果输出容器&c无可用空间&r则会&c输出掉落物&r。"
+				""
+				"      2.输入高压精炼装置的流体无法被取出。若想要清除里面的流体，&c需要破坏结构然后让其重新成型。"
+			]
+			id: "6E8F13D0DC1CD0CD"
+			subtitle: "用于合成裂化石脑油、塑料和柴油"
+			tasks: [{
+				advancement: "immersivepetroleum:main/mb_hydrotreater"
+				criterion: ""
+				id: "7271553D266A50AE"
+				type: "advancement"
+			}]
+			title: "高压精炼装置"
+			x: -38.5d
+			y: -31.5d
+		}
+		{
+			dependencies: ["686C953424729DD9"]
+			description: [
+				"      成型位点："
+				"{image:kubejs:textures/ftbq_images/ie/mixer.png width:78 height:64 align:1 fit:true}"
+				""
+				"      自动化标识："
+				"{image:kubejs:textures/ftbq_images/ie/mixer2.png width:80 height:76 align:1 fit:true}"
+				"背面标记为橙色的流体接口则为输出（图中未出现）"
+			]
+			id: "6C12D088343017BD"
+			subtitle: "用于合成液态混凝土和制造灌注合金需要的添加剂"
+			tasks: [{
+				advancement: "immersiveengineering:multiblocks/mb_mixer"
+				criterion: ""
+				id: "59DDD71428AAEBA1"
+				type: "advancement"
+			}]
+			title: "混合机"
+			x: -40.0d
+			y: -30.0d
+		}
+		{
+			dependencies: ["66E73F03430FDA42"]
+			description: [
+				"      成型点位："
+				"{image:kubejs:textures/ftbq_images/ie/miner.png width:100 height:100 align:1 fit:true}"
+				"      自动化标识："
+				"{image:kubejs:textures/ftbq_images/ie/miner2.png width:100 height:100 align:1 fit:true}"
+				"     特殊注明：物品会直接输出到与输出口相连的容器里，如果输出容器&c无可用空间&r则会&c输出掉落物&r。"
+			]
+			id: "223364E5F1C9C2A2"
+			subtitle: "不错的一个采矿设备"
+			tasks: [{
+				advancement: "immersiveengineering:multiblocks/mb_excavator"
+				criterion: ""
+				id: "296459E58E69526B"
+				type: "advancement"
+			}]
+			title: "斗轮式挖掘机"
+			x: -40.0d
+			y: -33.0d
+		}
+		{
+			dependencies: ["66E73F03430FDA42"]
+			description: [
+				"      在GUI中放入流体管道并通入液态混凝土（1阶段）和水（二阶段）后会开始钻探原油。一旦成功钻探会在短时间内产生大量原油，&e此时如果输出口相连容器是满的，&c这些原油会直接喷出而被浪费&r。井喷结束后方可放上抽油机抽走剩下的油。"
+				"      "
+				"      成型点位："
+				"{image:kubejs:textures/ftbq_images/ie/brown.png width:156 height:111 align:1 fit:true}"
+				"      自动化标识："
+				"{image:kubejs:textures/ftbq_images/ie/brown2.png width:47 height:32 align:1 fit:true}"
+				"      特殊注明：井架没有内部缓存，产出的原油会直接进入输出端的流体容器。&c如果输出端已满/无缓存，则产生的原油会被浪费！"
+			]
+			id: "50976E8D7F4F1AD0"
+			subtitle: "原油开采设备"
+			tasks: [{
+				advancement: "immersivepetroleum:main/mb_derrick"
+				criterion: ""
+				id: "4B708CC63D8DD342"
+				type: "advancement"
+			}]
+			title: "井架"
+			x: -38.0d
+			y: -33.0d
+		}
+		{
+			dependencies: ["66E73F03430FDA42"]
+			description: [
+				"      需要建造在井架钻探出的孔上。"
+				""
+				"      成型位点："
+				"{image:kubejs:textures/ftbq_images/ie/pumpjack.png width:100 height:100 align:1 fit:true}"
+				""
+				"      自动化标识："
+				"{image:kubejs:textures/ftbq_images/ie/pumpjack2.png width:73 height:44 align:1 fit:true}"
+				""
+				"      特殊注明：输出端需要有缓存。"
+			]
+			id: "55ED9511D38148CB"
+			subtitle: "用于缓缓抽走井架开采完后剩下的油"
+			tasks: [{
+				advancement: "immersivepetroleum:main/mb_pumpjack"
+				criterion: ""
+				id: "1D7CE90D4F445F25"
+				type: "advancement"
+			}]
+			title: "抽油机"
+			x: -37.0d
+			y: -33.0d
+		}
+		{
+			dependencies: ["4494E9BDD6F2EF5A"]
+			description: [
+				"      用于制造石油焦或者焦油混合物，前者能增加熔岩筛矿的效率，后者能分馏出乙炔。"
+				"      "
+				"      成型位点："
+				"{image:kubejs:textures/ftbq_images/ie/coke_tower.png width:100 height:55 align:1 fit:true}"
+				""
+				"      自动化标识："
+				"{image:kubejs:textures/ftbq_images/ie/coke_tower2.png width:150 height:85 align:1 fit:true}"
+				""
+				"      特殊注明：焦炭塔的物品产出是直接以掉落物形式掉出，请用掉落物收集设备收集物品产物。"
+			]
+			id: "71CC359621525CA7"
+			subtitle: "虽然叫这个名但是一般不用来制造焦炭"
+			tasks: [{
+				advancement: "immersivepetroleum:main/mb_cokerunit"
+				criterion: ""
+				id: "10CA3CFE8EB0DE44"
+				type: "advancement"
+			}]
+			title: "焦炭塔"
+			x: -36.5d
+			y: -31.5d
+		}
+		{
+			dependencies: ["4494E9BDD6F2EF5A"]
+			description: [
+				"      成型位点："
+				"{image:kubejs:textures/ftbq_images/ie/ferment.png width:100 height:95 align:1 fit:true}"
+				""
+				"      自动化标识："
+				"{image:kubejs:textures/ftbq_images/ie/ferment2.png width:100 height:90 align:1 fit:true}"
+				"背面标记为蓝色的物品接口则是物品输入（图中未出现）"
+			]
+			id: "12726651A6727794"
+			subtitle: "用于生产乙醇和甲烷"
+			tasks: [{
+				advancement: "immersiveengineering:multiblocks/mb_fermenter"
+				criterion: ""
+				id: "7D04FBCB0469E607"
+				type: "advancement"
+			}]
+			title: "发酵机"
+			x: -37.5d
+			y: -31.5d
+		}
+		{
+			dependencies: ["66E73F03430FDA42"]
+			description: [
+				"      置于地上后用鹿弹右键以装药，空手右键进行探测并生成探测结果，再次右键取出空弹壳。"
+				""
+				"      若已发现原油则探测结果会显示油矿信息，未探测到原油则探测结果可以右键查看："
+				"{image:kubejs:textures/ftbq_images/ie/oil_result.png width:100 height:100 align:1}"
+				""
+				"      图中若出现白色斑块则表明有流体矿，鼠标移上去可以看位置。"
+				"{image:kubejs:textures/ftbq_images/ie/oil_result2.png width:49 height:27 align:1 fit:true}"
+				"      到位置后再次探测以获取油矿信息。"
+				"{image:kubejs:textures/ftbq_images/ie/oil_result3.png width:39 height:21 align:1 fit:true}"
+			]
+			id: "5970D30C7846D598"
+			subtitle: "原油探测"
+			tasks: [
+				{
+					id: "0ACA8611A4CBB855"
+					item: "immersiveengineering:buckshot"
+					type: "item"
+				}
+				{
+					id: "68220341BEDD182E"
+					item: "immersivepetroleum:seismic_survey"
+					type: "item"
+				}
+			]
+			title: "鹿弹与震波"
+			x: -39.0d
+			y: -33.0d
+		}
+		{
+			dependencies: ["686C953424729DD9"]
+			description: [
+				"      成型位点："
+				"{image:kubejs:textures/ftbq_images/ie/squeezer.png width:100 height:100 align:1 fit:true}"
+				""
+				"      自动化标识："
+				"{image:kubejs:textures/ftbq_images/ie/squeezer2.png width:100 height:85 align:1 fit:true}"
+				"{image:kubejs:textures/ftbq_images/ie/squeezer3.png width:72 height:66 align:1 fit:true}"
+			]
+			id: "10B2F427882F8BEF"
+			subtitle: "用于合成高定向热解石墨"
+			tasks: [{
+				advancement: "immersiveengineering:multiblocks/mb_squeezer"
+				criterion: ""
+				id: "37EF873EC681552A"
+				type: "advancement"
+			}]
+			title: "工业挤压机"
+			x: -38.0d
+			y: -30.0d
+		}
+		{
+			dependencies: ["686C953424729DD9"]
+			description: [
+				"      成型位点："
+				"{image:kubejs:textures/ftbq_images/ie/arc_furnace.png width:118 height:80 align:1 fit:true}"
+				"      自动化标识："
+				"{image:kubejs:textures/ftbq_images/ie/arc_furnace2.png width:55 height:72 align:1 fit:true}"
+				"{image:kubejs:textures/ftbq_images/ie/arc_furnace3.png width:68 height:78 align:1 fit:true}"
+				""
+				"注：&6石墨电极&r可以和&l&b永恒锭&r合成为&0不可破坏形式&r的。"
+			]
+			id: "3CEC153185E6372E"
+			subtitle: "有多种用途，可以用来烧制以太、耐钢、辉煌合金，熔炼超致密和质子"
+			tasks: [{
+				advancement: "immersiveengineering:multiblocks/mb_arcfurnace"
+				criterion: ""
+				id: "78A58507AA4D5B6A"
+				type: "advancement"
+			}]
+			title: "电弧炉"
+			x: -39.0d
+			y: -30.0d
+		}
+		{
+			dependencies: ["686C953424729DD9"]
+			description: [
+				"       能用于自动合成石墨电极，虽然很慢但是好歹能自动化。"
+				"       需要放入蓝图并选择要制作的物品（类似于普通的工程师工作台）"
+				""
+				"      成型位点："
+				"{image:kubejs:textures/ftbq_images/ie/auto_craft.png width:72 height:53 align:1 fit:true}"
+				"   "
+				"      自动化标识："
+				"{image:kubejs:textures/ftbq_images/ie/auto_craft2.png width:76 height:57 align:1 fit:true}"
+				""
+				"       特殊注明：自动工程师工作台的物品产出是直接以掉落物形式掉出，请用掉落物收集设备收集物品产物。"
+			]
+			id: "33160411F9251A96"
+			subtitle: "自动版的工程师工作台，但是效率不行"
+			tasks: [{
+				icon: "immersiveengineering:auto_workbench"
+				id: "2E0646D09A303C7B"
+				observe_type: 0
+				timer: 0L
+				title: "观察 自动化工程师工作台"
+				to_observe: "immersiveengineering:auto_workbench"
+				type: "observation"
+			}]
+			title: "自动化工程师工作台"
+			x: -37.0d
+			y: -30.0d
+		}
+		{
+			dependencies: ["33583C9BB8340D79"]
+			hide_dependent_lines: true
+			id: "4494E9BDD6F2EF5A"
+			tasks: [{
+				id: "7B095485BD171516"
+				type: "checkmark"
+			}]
+			title: "化工设备"
+			x: -42.0d
+			y: -31.5d
+		}
+		{
+			dependencies: ["33583C9BB8340D79"]
+			hide_dependent_lines: true
+			id: "66E73F03430FDA42"
+			tasks: [{
+				id: "0C8EF24C4D02A8DB"
+				type: "checkmark"
+			}]
+			title: "资源设备"
+			x: -42.0d
+			y: -33.0d
+		}
+		{
+			dependencies: ["33583C9BB8340D79"]
+			hide_dependent_lines: true
+			id: "686C953424729DD9"
+			tasks: [{
+				id: "718C127D581DDDC3"
+				type: "checkmark"
+			}]
+			title: "制造设备"
+			x: -42.0d
+			y: -30.0d
+		}
+		{
+			dependencies: ["3B5105F0BAB15E17"]
+			description: ["      当然进攻侧也很强，但是千万不能打空，否则的话......"]
+			id: "29B40C97AB67DAE0"
+			rewards: [{
+				id: "407ECD9FA811D598"
+				item: "kubejs:tungsten_steel_ingot"
+				random_bonus: 3
+				type: "item"
+			}]
+			subtitle: "中期的较强护甲材料之一"
+			tasks: [{
+				id: "4B5989E389F0B961"
+				item: "kubejs:tungsten_steel_ingot"
+				type: "item"
+			}]
+			x: -9.0d
+			y: -20.5d
+		}
+		{
+			dependencies: ["762B937EFF8ECC88"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: "minecraft:diamond"
+			id: "5CA53B44C567755D"
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "59D703D1E1702DF8"
+				type: "checkmark"
+			}]
+			title: "资源获取建议"
+			x: -46.0d
+			y: -14.0d
+		}
+	]
+	subtitle: [
+		"最难章节？最好玩章节！"
+		"-by EtSH_C2H6S"
+	]
+	title: "第二章 —— 进阶科技！"
+}

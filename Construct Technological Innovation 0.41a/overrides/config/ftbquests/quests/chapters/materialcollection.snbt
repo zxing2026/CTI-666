@@ -1,0 +1,6807 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "materialcollection"
+	group: "273277F565C25044"
+	icon: "solidarytinker:starfall_ingot"
+	id: "484AEF2D1D4D577C"
+	images: [
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "etshtinker:block/fluid/annihilating_plasma/still"
+			rotation: 0.0d
+			width: 0.02040816326530612d
+			x: -11.0d
+			y: 2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "etshtinker:block/fluid/annihilating_plasma/still"
+			rotation: 0.0d
+			width: 0.02040816326530612d
+			x: -9.5d
+			y: 1.0d
+		}
+		{
+			alpha: 200
+			click: "#5D85941008B7CEC2"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 1.0d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 1.0d
+		}
+		{
+			alpha: 200
+			click: "#55D5F8A1AFA9CDA3"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tinkers_reforged:block/fluid/blazium/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: 1.0d
+		}
+		{
+			alpha: 200
+			click: "#3310465C862EB98A"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tinkersinnovation:fluid/molten_active_soul/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			alpha: 200
+			click: "#796302ED3F96737A"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "etshtinker:block/fluid/molten_knsu/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			alpha: 200
+			click: "#3E287C1750C28BE1"
+			color: 16504319
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "mekanism:liquid/liquid"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			alpha: 200
+			click: "#000CBD40B0A1580C"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "immersiveengineering:block/fluid/ethanol_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			alpha: 200
+			click: "#467A21E7496C8687"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "immersivepetroleum:block/fluid/ethylene_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			alpha: 200
+			click: "#46623E907635051E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "etshtinker:block/fluid/overchargedneutronium/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			alpha: 200
+			click: "#1F245003D4EC2465"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "solidarytinker:fluid/super_dt/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 1.0d
+		}
+		{
+			alpha: 200
+			click: "#7DC32D877CDEFB84"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "etshtinker:block/fluid/annihilating_plasma/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 1.0d
+		}
+		{
+			alpha: 200
+			click: "#6078F808D1FE949F"
+			color: 9194692
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "mekanism:liquid/liquid"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -5.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -5.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -4.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -4.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -7.0d
+			y: -5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -6.0d
+			y: -5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -5.0d
+			y: -5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -6.0d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -4.0d
+			y: -12.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -5.0d
+			y: -12.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -11.0d
+			y: -5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -10.0d
+			y: -5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -7.0d
+			y: -4.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -12.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -12.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -7.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -7.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -6.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -7.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -7.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -5.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -5.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -5.0d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -4.0d
+			y: -5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -10.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -12.0d
+			y: -7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -9.0d
+			y: -5.0d
+		}
+		{
+			alpha: 200
+			click: "#5D85941008B7CEC2"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -10.0d
+		}
+		{
+			alpha: 200
+			click: "#5D85941008B7CEC2"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -9.0d
+		}
+		{
+			alpha: 200
+			click: "#5D85941008B7CEC2"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -9.0d
+		}
+		{
+			alpha: 200
+			click: "#5D85941008B7CEC2"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			alpha: 200
+			click: "#5D85941008B7CEC2"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -2.5d
+		}
+		{
+			alpha: 200
+			click: "#5D85941008B7CEC2"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -7.5d
+		}
+		{
+			alpha: 200
+			click: "#5D85941008B7CEC2"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -5.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -8.0d
+			y: -7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -9.0d
+			y: -7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -4.0d
+			y: -9.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -4.0d
+			y: -10.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -5.0d
+			y: -10.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -5.0d
+			y: -9.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -8.0d
+			y: -5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -7.0d
+			y: -2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -10.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -11.0d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -6.0d
+			y: -10.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -7.0d
+			y: -10.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -7.0d
+			y: -9.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -10.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -9.0d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -5.0d
+			y: -7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -6.0d
+			y: -7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -10.0d
+			y: -7.5d
+		}
+		{
+			alpha: 200
+			click: "#5D85941008B7CEC2"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.1d
+			x: 7.0d
+			y: -11.5d
+		}
+		{
+			alpha: 200
+			click: "#55D5F8A1AFA9CDA3"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tinkers_reforged:block/fluid/blazium/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -11.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -3.5d
+			y: 4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.1d
+			x: 4.0d
+			y: -11.5d
+		}
+		{
+			alpha: 200
+			click: "#3310465C862EB98A"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tinkersinnovation:fluid/molten_active_soul/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -11.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			rotation: 0.0d
+			width: 1.1d
+			x: -6.0d
+			y: -2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.1d
+			x: -7.0d
+			y: -7.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.1d
+			x: -11.0d
+			y: -7.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.1d
+			x: -4.0d
+			y: -7.5d
+		}
+		{
+			alpha: 200
+			click: "#5D85941008B7CEC2"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -7.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.1d
+			x: -4.0d
+			y: -11.5d
+		}
+		{
+			alpha: 200
+			click: "#55D5F8A1AFA9CDA3"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tinkers_reforged:block/fluid/blazium/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -11.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: 4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.1d
+			x: -12.0d
+			y: -12.5d
+		}
+		{
+			alpha: 200
+			click: "#55D5F8A1AFA9CDA3"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tinkers_reforged:block/fluid/blazium/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -12.5d
+		}
+		{
+			alpha: 200
+			click: "#796302ED3F96737A"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "etshtinker:block/fluid/molten_knsu/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -11.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.1d
+			x: -10.0d
+			y: -11.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.1d
+			x: -11.0d
+			y: -12.5d
+		}
+		{
+			alpha: 200
+			click: "#55D5F8A1AFA9CDA3"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tinkers_reforged:block/fluid/blazium/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -12.5d
+		}
+		{
+			alpha: 200
+			click: "#000CBD40B0A1580C"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "immersiveengineering:block/fluid/ethanol_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -11.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 10.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 9.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 3.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 3.5d
+		}
+		{
+			alpha: 200
+			click: "#000CBD40B0A1580C"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "immersiveengineering:block/fluid/ethanol_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -12.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.1d
+			x: -12.0d
+			y: -11.5d
+		}
+		{
+			alpha: 200
+			click: "#1F245003D4EC2465"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "solidarytinker:fluid/super_dt/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -11.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.1d
+			x: -13.0d
+			y: -12.5d
+		}
+		{
+			alpha: 200
+			click: "#46623E907635051E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "etshtinker:block/fluid/overchargedneutronium/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: -12.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.1d
+			x: -13.0d
+			y: -11.5d
+		}
+		{
+			alpha: 200
+			click: "#7DC32D877CDEFB84"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "etshtinker:block/fluid/annihilating_plasma/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: -11.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.1d
+			x: -8.0d
+			y: -9.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -9.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.1d
+			x: 5.0d
+			y: -11.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.1d
+			x: 6.0d
+			y: -11.5d
+		}
+		{
+			alpha: 200
+			click: "#5D85941008B7CEC2"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -11.5d
+		}
+		{
+			alpha: 200
+			click: "#5D85941008B7CEC2"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -11.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/controller/foundry_unformed"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -11.5d
+		}
+		{
+			alpha: 200
+			click: "#46623E907635051E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "etshtinker:block/fluid/overchargedneutronium/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -11.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -12.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -12.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -12.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -12.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -12.5d
+		}
+		{
+			alpha: 200
+			click: "#1F245003D4EC2465"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "solidarytinker:fluid/super_dt/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -12.5d
+		}
+		{
+			alpha: 200
+			click: "#1F245003D4EC2465"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "solidarytinker:fluid/super_dt/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -12.5d
+		}
+		{
+			alpha: 200
+			click: "#467A21E7496C8687"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "immersivepetroleum:block/fluid/ethylene_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -12.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -12.5d
+		}
+		{
+			alpha: 200
+			click: "#5D85941008B7CEC2"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -12.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -7.5d
+		}
+		{
+			alpha: 200
+			click: "#796302ED3F96737A"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "etshtinker:block/fluid/molten_knsu/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -6.5d
+		}
+		{
+			alpha: 200
+			click: "#796302ED3F96737A"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "etshtinker:block/fluid/molten_knsu/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -7.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -6.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -6.5d
+		}
+		{
+			alpha: 200
+			click: "#3E287C1750C28BE1"
+			color: 16504319
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "mekanism:liquid/liquid"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: -7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: -7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.5d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.5d
+			x: 16.5d
+			y: -7.0d
+		}
+		{
+			alpha: 200
+			click: "#46623E907635051E"
+			corner: false
+			dev: false
+			height: 1.5d
+			hover: [ ]
+			image: "etshtinker:block/fluid/overchargedneutronium/still"
+			rotation: 0.0d
+			width: 1.5d
+			x: 16.5d
+			y: -7.0d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -7.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -7.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -5.0d
+		}
+		{
+			alpha: 200
+			click: "#5D85941008B7CEC2"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -4.0d
+		}
+		{
+			alpha: 200
+			click: "#5D85941008B7CEC2"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -5.0d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -4.0d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -5.0d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -5.0d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -4.0d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: -5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: -4.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -5.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -5.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -5.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.1d
+			x: -11.0d
+			y: -11.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.1d
+			x: -10.0d
+			y: -12.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -5.0d
+		}
+		{
+			alpha: 200
+			click: "#3310465C862EB98A"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tinkersinnovation:fluid/molten_active_soul/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -5.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: -5.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: -4.0d
+		}
+		{
+			alpha: 200
+			click: "#3310465C862EB98A"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tinkersinnovation:fluid/molten_active_soul/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -4.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -7.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: -7.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: -7.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: -6.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -6.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -6.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -10.0d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -10.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -9.0d
+		}
+		{
+			alpha: 200
+			click: "#5D85941008B7CEC2"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -9.0d
+		}
+		{
+			alpha: 200
+			click: "#796302ED3F96737A"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "etshtinker:block/fluid/molten_knsu/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -11.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.1d
+			x: -8.0d
+			y: -11.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -2.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -1.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -2.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -2.5d
+		}
+		{
+			alpha: 200
+			click: "#5D85941008B7CEC2"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -2.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -2.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -2.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: -2.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: -2.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: -2.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -1.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -1.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -1.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -1.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -1.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: -1.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: -1.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -0.5d
+		}
+		{
+			alpha: 200
+			click: "#5D85941008B7CEC2"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -0.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -0.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -0.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -0.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: -0.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: -0.5d
+		}
+		{
+			alpha: 200
+			click: "#5D85941008B7CEC2"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: -2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: -0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: -1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: -0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: -2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: -2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: -1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 9.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 4.5d
+		}
+		{
+			alpha: 200
+			click: "#5D85941008B7CEC2"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 4.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 3.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 4.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 6.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 7.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 8.0d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 7.5d
+		}
+		{
+			alpha: 200
+			click: "#5D85941008B7CEC2"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.5d
+			y: 6.0d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 10.5d
+		}
+		{
+			alpha: 200
+			click: "#3E287C1750C28BE1"
+			color: 16504319
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "mekanism:liquid/liquid"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 9.5d
+		}
+		{
+			alpha: 200
+			click: "#3310465C862EB98A"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tinkersinnovation:fluid/molten_active_soul/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 10.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 7.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 8.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.5d
+			y: 6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 10.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 10.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 9.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 10.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 9.5d
+		}
+		{
+			alpha: 200
+			click: "#5D85941008B7CEC2"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 6.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 6.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 3.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 3.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: 3.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: 3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 3.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 7.0d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: 6.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 6.5d
+		}
+		{
+			alpha: 200
+			click: "#5D85941008B7CEC2"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: 7.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 7.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: 6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: 7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 6.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 9.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 9.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 10.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 9.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 10.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 14.0d
+		}
+		{
+			alpha: 200
+			click: "#5D85941008B7CEC2"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 14.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 14.0d
+		}
+		{
+			alpha: 200
+			click: "#5D85941008B7CEC2"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 14.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 14.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 14.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 15.0d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 15.0d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 15.0d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 15.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 14.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 14.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 14.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 14.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 15.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 15.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 15.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 15.0d
+		}
+		{
+			alpha: 200
+			click: "#46623E907635051E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "etshtinker:block/fluid/overchargedneutronium/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -14.0d
+		}
+		{
+			alpha: 200
+			click: "#1F245003D4EC2465"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "solidarytinker:fluid/super_dt/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -15.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -15.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -14.0d
+		}
+		{
+			alpha: 200
+			click: "#467A21E7496C8687"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "immersivepetroleum:block/fluid/ethylene_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -19.5d
+		}
+		{
+			alpha: 200
+			click: "#46623E907635051E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "etshtinker:block/fluid/overchargedneutronium/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -18.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -18.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -19.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dependency: "21C201628285F7E7"
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.1d
+			x: -15.0d
+			y: -12.5d
+		}
+		{
+			alpha: 200
+			click: "#7DC32D877CDEFB84"
+			corner: false
+			dependency: "21C201628285F7E7"
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "etshtinker:block/fluid/annihilating_plasma/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: -12.5d
+		}
+		{
+			alpha: 200
+			click: "#5F6C1D6D1E0C1A5E"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:fluid/molten/blaze/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: -7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: -7.5d
+		}
+		{
+			alpha: 200
+			click: "#411CFC07BBBB3532"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "pneumaticcraft:block/fluid/oil_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -12.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -12.5d
+		}
+		{
+			click: ""
+			corner: false
+			dependency: "21C201628285F7E7"
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.1d
+			x: -15.0d
+			y: -11.5d
+		}
+		{
+			alpha: 200
+			click: "#7DC32D877CDEFB84"
+			corner: false
+			dependency: "21C201628285F7E7"
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "etshtinker:block/fluid/annihilating_plasma/still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: -11.5d
+		}
+		{
+			alpha: 200
+			click: "#000CBD40B0A1580C"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "immersiveengineering:block/fluid/ethanol_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -11.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "tconstruct:block/foundry/tank/fuel_gauge"
+			order: 100
+			rotation: 0.0d
+			width: 1.1d
+			x: -9.0d
+			y: -11.5d
+		}
+		{
+			alpha: 128
+			click: ""
+			color: 16748688
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.5d
+			y: -0.5d
+		}
+		{
+			alpha: 128
+			click: ""
+			color: 16764048
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.5d
+			y: 0.5d
+		}
+		{
+			alpha: 128
+			click: ""
+			color: 9502608
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.5d
+			y: 2.5d
+		}
+		{
+			alpha: 128
+			click: ""
+			color: 16777104
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.5d
+			y: 1.5d
+		}
+		{
+			alpha: 128
+			click: ""
+			color: 9502719
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.5d
+			y: 3.5d
+		}
+		{
+			alpha: 128
+			click: ""
+			color: 9480959
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.5d
+			y: 4.5d
+		}
+		{
+			alpha: 128
+			click: ""
+			color: 13406463
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "#FFFFFF"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.5d
+			y: 5.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "immersiveengineering:block/metal/sheetmetal_iron"
+			rotation: 0.0d
+			width: 1.0d
+			x: 20.0d
+			y: 4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "immersiveengineering:block/metal_decoration/aluminum_scaffolding_open"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 20.0d
+			y: 5.5d
+		}
+		{
+			click: ""
+			color: 16711680
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cofh_core:textures/gui/elements/input_underlay_slot.png"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: 21.5d
+			y: 5.5d
+		}
+		{
+			click: ""
+			color: 255
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cofh_core:textures/gui/elements/input_underlay_slot.png"
+			order: 1
+			rotation: 180.0d
+			width: 1.0d
+			x: 21.5d
+			y: 4.5d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"4E2E8FD2E14768AB"
+				"78B4A71456E6F628"
+				"2BFBCB65050992C9"
+				"572701AD0E5F1CED"
+				"353123362D883447"
+				"2305F9A14EF63FF7"
+				"3191F11310D257A2"
+				"79472CCC42A6BF7E"
+				"182DCDD696E95F2B"
+				"3A26C7BA40EEA5B9"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: {
+				Count: 1b
+				id: "thermal:energy_cell"
+				tag: {
+					BlockEntityTag: {
+						Energy: 0
+						EnergyMax: 1000000
+						EnergyRecv: 1000
+						EnergySend: 1000
+					}
+				}
+			}
+			id: "51A8396100B7A725"
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "498CFBC90F883383"
+				table_id: 3754723266356838928L
+				team_reward: true
+				title: "完全之热力"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "2DEC3413C7BE57DF"
+					type: "checkmark"
+				}
+				{
+					id: "03605BE97D3FF1C7"
+					points: false
+					type: "xp"
+					value: 10L
+				}
+			]
+			title: "&e全收集-1-热力&e"
+			x: -1.0d
+			y: -9.5d
+		}
+		{
+			dependencies: [
+				"78B4A71456E6F628"
+				"572701AD0E5F1CED"
+				"2BFBCB65050992C9"
+				"353123362D883447"
+				"3191F11310D257A2"
+				"5F394BFF8BB71492"
+				"79472CCC42A6BF7E"
+				"2305F9A14EF63FF7"
+				"182DCDD696E95F2B"
+				"3A26C7BA40EEA5B9"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: "thermal:machine_frame"
+			id: "4E2E8FD2E14768AB"
+			min_required_dependencies: 5
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "596B3DDB88F41C39"
+				table_id: 5881851578526429980L
+				team_reward: true
+				title: "半身之热力"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "76BDD2FC6B91F29B"
+					type: "checkmark"
+				}
+				{
+					id: "4C4BACA5A1713FA4"
+					points: false
+					type: "xp"
+					value: 1L
+				}
+			]
+			title: "&6半身-1-热力&6"
+			x: -9.0d
+			y: -9.5d
+		}
+		{
+			dependencies: [
+				"0951E03C57E6DC81"
+				"3BA23EE6819EC5E8"
+				"67893B811B931DE1"
+				"2FB151DABEA45D78"
+				"59F795A8F3203821"
+				"271418A7D8DD30B7"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: "botania:pure_daisy"
+			id: "55FDFC0301C8A6A8"
+			min_required_dependencies: 3
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "03CA7ACBE19B0BD0"
+				table_id: 7342765408820746544L
+				team_reward: true
+				title: "半身之植魔"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "4B21EFDA67231FAC"
+					type: "checkmark"
+				}
+				{
+					id: "18D8A65220F43487"
+					points: false
+					type: "xp"
+					value: 1L
+				}
+			]
+			title: "&6半身-1-植魔&6"
+			x: 9.0d
+			y: -9.5d
+		}
+		{
+			dependencies: [
+				"3BA23EE6819EC5E8"
+				"0951E03C57E6DC81"
+				"67893B811B931DE1"
+				"2FB151DABEA45D78"
+				"59F795A8F3203821"
+				"271418A7D8DD30B7"
+				"55FDFC0301C8A6A8"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: "botania:fabulous_pool"
+			id: "6B36D42146A3B9E1"
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "2CB9879395E0B544"
+				table_id: 3733891062111334823L
+				team_reward: true
+				title: "完全之植魔"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "0B282DD13769C4F1"
+					type: "checkmark"
+				}
+				{
+					id: "3FEDA1E5EDAC9EB2"
+					points: false
+					type: "xp"
+					value: 10L
+				}
+			]
+			title: "&e全收集-1-植魔&e"
+			x: 1.0d
+			y: -9.5d
+		}
+		{
+			dependencies: [
+				"091FB2D99705B4DE"
+				"592019CCAED3F8EB"
+				"25FEBAB0010DC1E2"
+				"72A7DE5979B18D37"
+				"47CC04080F6DB1C8"
+				"360BCEFF31DC4AB5"
+				"748921FE794DA514"
+				"451D2851C81E5476"
+				"0B3A6E7191F3FEB9"
+				"2DD849E9B364A0B1"
+				"756C3CB9B1DC11EF"
+				"5C3BDDD10AED8748"
+				"645B9B5E961FE11E"
+				"69572E1EFAA481FA"
+				"690FDAC9F324B4E7"
+				"29DCCBC08FFAE3FC"
+				"27F2356C8C023F83"
+				"4D991FC26C651238"
+				"0873338ECD2C6684"
+				"59DB845FDC5E75D9"
+				"7144384731D93CC6"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: "tconstruct:materials_and_you"
+			id: "5E785524F2F93E5D"
+			min_required_dependencies: 11
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "2DF2B190B617F850"
+				table_id: 101534532747522653L
+				team_reward: true
+				title: "半身之匠3"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "59A77FD22A5BC2CB"
+					type: "checkmark"
+				}
+				{
+					id: "281ED57F31BBD51B"
+					points: false
+					type: "xp"
+					value: 2L
+				}
+			]
+			title: "&6半身-2-匠3&6"
+			x: -15.0d
+			y: -7.0d
+		}
+		{
+			dependencies: [
+				"5E785524F2F93E5D"
+				"592019CCAED3F8EB"
+				"091FB2D99705B4DE"
+				"25FEBAB0010DC1E2"
+				"72A7DE5979B18D37"
+				"47CC04080F6DB1C8"
+				"360BCEFF31DC4AB5"
+				"748921FE794DA514"
+				"451D2851C81E5476"
+				"0B3A6E7191F3FEB9"
+				"27F2356C8C023F83"
+				"2DD849E9B364A0B1"
+				"756C3CB9B1DC11EF"
+				"59DB845FDC5E75D9"
+				"7144384731D93CC6"
+				"0873338ECD2C6684"
+				"29DCCBC08FFAE3FC"
+				"4D991FC26C651238"
+				"690FDAC9F324B4E7"
+				"69572E1EFAA481FA"
+				"645B9B5E961FE11E"
+				"5C3BDDD10AED8748"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: {
+				Count: 1b
+				id: "tconstruct:tinkers_anvil"
+				tag: {
+					texture: "tconstruct:manyullyn_block"
+				}
+			}
+			id: "19B36B3E29350532"
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "3CB54FFEDA3DD708"
+				table_id: 7316524956581145751L
+				team_reward: true
+				title: "完全之匠3"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "682B357354F3D9B0"
+					type: "checkmark"
+				}
+				{
+					id: "1C5260D7AECD122F"
+					points: false
+					type: "xp"
+					value: 20L
+				}
+			]
+			title: "&e全收集-2-匠3&e"
+			x: -1.0d
+			y: -7.0d
+		}
+		{
+			dependencies: [
+				"3B8C689E152A12E1"
+				"12CAA5D55BB2D048"
+				"57507C3FF833F4C0"
+				"4657D07FF62D0455"
+				"0141A5217570206A"
+				"4CFD14AC7943C16F"
+				"495FA9D5EB65310D"
+				"04764FA03E41B005"
+				"738B9ED82D41FF4D"
+				"6BC48069F028ED83"
+				"7C2EF45AA7B7AB84"
+				"5DFD25C29F7EB318"
+				"40F2ABB90F50D86F"
+				"6936B4C318C219FC"
+				"718E9C4761358F12"
+				"7B481D3F82A52BF7"
+				"5563818414AD5208"
+				"0BD99963D8FDE661"
+				"08D9CA3050B1F6C5"
+				"5819F9F91F4DB5D6"
+				"457122B44BF711D3"
+				"756F5F826BAA02BA"
+				"6370CE06179B0EFF"
+				"1B690BDAB0C89EE2"
+				"4805D03B80ECE77B"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: "tinkers_ingenuity:dragon_soul_crystal"
+			id: "5AEF73E6DFE81FB5"
+			min_required_dependencies: 12
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				icon: "tinkers_ingenuity:dragon_soul_crystal"
+				id: "13DE8943EA32C77D"
+				table_id: 8867757553592085336L
+				team_reward: true
+				title: "半身之工心"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "462EC821BBB1A9C5"
+					type: "checkmark"
+				}
+				{
+					id: "20F65F2BDCE1F4BD"
+					points: false
+					type: "xp"
+					value: 2L
+				}
+			]
+			title: "&6半身-2-工心&6"
+			x: 18.0d
+			y: -7.0d
+		}
+		{
+			dependencies: [
+				"3B8C689E152A12E1"
+				"12CAA5D55BB2D048"
+				"57507C3FF833F4C0"
+				"4657D07FF62D0455"
+				"0141A5217570206A"
+				"4CFD14AC7943C16F"
+				"495FA9D5EB65310D"
+				"04764FA03E41B005"
+				"738B9ED82D41FF4D"
+				"6BC48069F028ED83"
+				"7C2EF45AA7B7AB84"
+				"5DFD25C29F7EB318"
+				"1B690BDAB0C89EE2"
+				"40F2ABB90F50D86F"
+				"6936B4C318C219FC"
+				"718E9C4761358F12"
+				"5563818414AD5208"
+				"7B481D3F82A52BF7"
+				"0BD99963D8FDE661"
+				"08D9CA3050B1F6C5"
+				"5819F9F91F4DB5D6"
+				"457122B44BF711D3"
+				"756F5F826BAA02BA"
+				"6370CE06179B0EFF"
+				"5AEF73E6DFE81FB5"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: "tinkers_ingenuity:ender_residual_interest"
+			id: "447FE97C6C675CC6"
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "79E4517BC06766CA"
+				table_id: 4604593201078627722L
+				team_reward: true
+				title: "完全之工心"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "32BA156785639DD8"
+					type: "checkmark"
+				}
+				{
+					id: "4D80D0B9B13EE6E8"
+					points: false
+					type: "xp"
+					value: 20L
+				}
+			]
+			title: "&e全收集-2-工心&e"
+			x: 1.0d
+			y: -7.0d
+		}
+		{
+			dependencies: [
+				"62B9148AF3BD9ACF"
+				"6EEAF246B63CD739"
+				"3CFC7B33EF5714AD"
+				"495C1F0255AEE02C"
+				"5CA0F7576283FFD4"
+				"23A6B1B7FD714873"
+				"5DF76C4BC79211B8"
+				"2222D407AC6C12D7"
+				"151B0616E3659DA0"
+				"2C705B5AC9F05FDD"
+				"72ADDBE0AA8EA0BF"
+				"385506585F25468B"
+				"46DE06B5CA7FB49D"
+				"73F21359CB67F917"
+				"115D75B2F0D35188"
+				"5545732312DC0065"
+				"26448C4F623961AD"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: "tinkers_thinking:drying_rack"
+			id: "6EB6CB07C6542B6C"
+			min_required_dependencies: 8
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "71B6D395E1393370"
+				table_id: 8452260151042088185L
+				team_reward: true
+				title: "半身之匠运"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "04AFD550C563A460"
+					type: "checkmark"
+				}
+				{
+					id: "7007B0E379BFFCFE"
+					points: false
+					type: "xp"
+					value: 3L
+				}
+			]
+			title: "&6半身-3-匠运&6"
+			x: -13.0d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"62B9148AF3BD9ACF"
+				"6EEAF246B63CD739"
+				"3CFC7B33EF5714AD"
+				"495C1F0255AEE02C"
+				"5CA0F7576283FFD4"
+				"23A6B1B7FD714873"
+				"2222D407AC6C12D7"
+				"5DF76C4BC79211B8"
+				"151B0616E3659DA0"
+				"2C705B5AC9F05FDD"
+				"72ADDBE0AA8EA0BF"
+				"385506585F25468B"
+				"46DE06B5CA7FB49D"
+				"73F21359CB67F917"
+				"115D75B2F0D35188"
+				"5545732312DC0065"
+				"26448C4F623961AD"
+				"6EB6CB07C6542B6C"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: "tinkers_thinking:chromatic_crystal"
+			id: "2E6DA8F67D1611F0"
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "3047359F1F9C55C3"
+				table_id: 3684977042729580529L
+				team_reward: true
+				title: "完全之匠运"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "4989DFA24409350F"
+					type: "checkmark"
+				}
+				{
+					id: "7C57CEC930D367EB"
+					points: false
+					type: "xp"
+					value: 30L
+				}
+			]
+			title: "&e全收集-3-匠运&e"
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			description: [
+				"本包加入了匠魂燃料的JEI适配，你可以在JEI上查看燃料的各种属性。"
+				""
+				"斟酌燃料的优劣也是匠魂的一环哦~"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: "avaritia:star_fuel"
+			id: "2F78BE5802D15996"
+			rewards: [{
+				id: "4C7224C7D0C29164"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "3967775A84A3E4C7"
+				stat: "minecraft:mob_kills"
+				type: "stat"
+				value: 1
+			}]
+			title: "冶炼炉燃料"
+			x: -9.0d
+			y: 1.5d
+		}
+		{
+			hide: true
+			hide_dependency_lines: true
+			id: "19657FDEC69D0FA2"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "2CA4F9FCD4424EFD"
+				type: "checkmark"
+			}]
+			title: "&4王之书-中阙&4"
+			x: 10.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"3FDF09035908610B"
+				"758F6ADDB335C300"
+				"32A7EA0B88EB909C"
+				"2B948B086B6C7BA9"
+				"600DBF6A9C2BA0FD"
+				"18FFA7963C46A3B5"
+				"710AE2080781AA44"
+				"4B981C31B29A2B52"
+				"1FE22B632FD681B6"
+				"36A820E7EE59D3AC"
+				"09CBC5849963882C"
+				"2D42EB6BD558A2FC"
+				"7AE2897F1C5FB2FF"
+				"473F9574DAFD8384"
+				"1E25A109A2FF8DC0"
+				"45120B5F86C5F317"
+				"2A65EED09BA24CBE"
+				"6181692AC2EA6FFC"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: "tinkers_reforged:aluminum_brass_platform"
+			id: "2A4CC905B9CFF05F"
+			min_required_dependencies: 9
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "1B4B9F8EE87C0391"
+				table_id: 8215233445660712479L
+				team_reward: true
+				title: "半身之匠运"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "4624597CF7636742"
+					type: "checkmark"
+				}
+				{
+					id: "7AFA5B9A3632FF06"
+					points: false
+					type: "xp"
+					value: 3L
+				}
+			]
+			title: "&6半身-3-再锻&6"
+			x: 13.0d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"09CBC5849963882C"
+				"1FE22B632FD681B6"
+				"4B981C31B29A2B52"
+				"710AE2080781AA44"
+				"758F6ADDB335C300"
+				"2A65EED09BA24CBE"
+				"2D42EB6BD558A2FC"
+				"600DBF6A9C2BA0FD"
+				"473F9574DAFD8384"
+				"1E25A109A2FF8DC0"
+				"2B948B086B6C7BA9"
+				"36A820E7EE59D3AC"
+				"18FFA7963C46A3B5"
+				"32A7EA0B88EB909C"
+				"6181692AC2EA6FFC"
+				"7AE2897F1C5FB2FF"
+				"45120B5F86C5F317"
+				"3FDF09035908610B"
+				"2A4CC905B9CFF05F"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: "tinkers_reforged:reforging_guide"
+			id: "594A2CFD45102DAC"
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "78349F6CE9B67749"
+				table_id: 7449177654911575191L
+				team_reward: true
+				title: "完全之再锻"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "5794CD32C56B4357"
+					type: "checkmark"
+				}
+				{
+					id: "4192C8D01E60B638"
+					points: false
+					type: "xp"
+					value: 30L
+				}
+			]
+			title: "&e全收集-3-再锻&e"
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"1D5F51163C4091C8"
+				"08959093F73893BC"
+				"5241281E9E113403"
+				"211F3A1732331BB6"
+				"330D50F6463841CD"
+				"03FC874B17FCF3C5"
+				"4061206316E96964"
+				"59418B846DFB41AE"
+				"3015B5F66834BF87"
+				"04835D33909C63B8"
+				"1548E15BAA71AA39"
+				"49B0DFBDA0CB0CE5"
+				"1E9955BB19B6133D"
+				"02CC8DC2C73E8F1B"
+				"0C07A44C6FB3B70B"
+				"4D27E68516D65541"
+				"044FFBAF92FFD9AA"
+				"2E386E7F61474777"
+				"62E36C70B1F14E5A"
+				"398E4DA502B5BDA6"
+				"31B5C81BAC35F7A1"
+				"5B85F098F4766E10"
+				"2F60C90C4A4DBC9F"
+				"2F7DF5EA50C09329"
+				"3A283C8EB984099C"
+				"1C15D91AF33C2DCD"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: "minecraft:bedrock"
+			id: "1390D0CB17016956"
+			min_required_dependencies: 13
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				icon: "minecraft:bedrock"
+				id: "3379F036694151B1"
+				table_id: 7106252229642301604L
+				team_reward: true
+				title: "半身之原生"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "19963CC806098762"
+					type: "checkmark"
+				}
+				{
+					id: "5779DFC5F070CF67"
+					points: false
+					type: "xp"
+					value: 4L
+				}
+			]
+			title: "&6半身-4-原生&6"
+			x: -13.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"1D5F51163C4091C8"
+				"08959093F73893BC"
+				"1390D0CB17016956"
+				"211F3A1732331BB6"
+				"5241281E9E113403"
+				"03FC874B17FCF3C5"
+				"330D50F6463841CD"
+				"4061206316E96964"
+				"3015B5F66834BF87"
+				"59418B846DFB41AE"
+				"04835D33909C63B8"
+				"1548E15BAA71AA39"
+				"49B0DFBDA0CB0CE5"
+				"1E9955BB19B6133D"
+				"02CC8DC2C73E8F1B"
+				"0C07A44C6FB3B70B"
+				"044FFBAF92FFD9AA"
+				"4D27E68516D65541"
+				"2E386E7F61474777"
+				"398E4DA502B5BDA6"
+				"62E36C70B1F14E5A"
+				"31B5C81BAC35F7A1"
+				"5B85F098F4766E10"
+				"1C15D91AF33C2DCD"
+				"3A283C8EB984099C"
+				"2F7DF5EA50C09329"
+				"2F60C90C4A4DBC9F"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: "minecraft:clock"
+			id: "2D36ADFCF74581BA"
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				icon: "minecraft:clock"
+				id: "2DB1D4D405A3209B"
+				table_id: 8623615762343809718L
+				team_reward: true
+				title: "完全之原生"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "7009BEB9F79BDF2A"
+					type: "checkmark"
+				}
+				{
+					id: "774A14DAA04E2CAB"
+					points: false
+					type: "xp"
+					value: 40L
+				}
+			]
+			title: "&e全收集-4-原生&e"
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"18A40639922E8AF3"
+				"4520CBF7D6EF86F9"
+				"348320FE169B032E"
+				"6C1A120B23FB2A61"
+				"3B20B8237FC77E48"
+				"53394EA06ACC5ADB"
+				"7E6047ABCCD7024C"
+				"4647ADC76AE270F3"
+				"5E6D22BD3375DCB2"
+				"5555196F8A086A6A"
+				"7030C654EFA698DE"
+				"6DDEEDF50DDB43ED"
+				"4B608B03A701CABC"
+				"57FC3D410C036FE0"
+				"1BE8D74A476E2793"
+				"26C47C932709EC3B"
+				"383F90A1DB2ADC1E"
+				"1B2ADA04ACD823DC"
+				"3EFEC2D8FA1ECD53"
+				"194B8C023BEAE0CF"
+				"3A3924E973BADDC6"
+				"571775796A0EC48E"
+				"5BB222BBC353B5F4"
+				"6187F4E9DDAC316C"
+				"2C9096F55C734AF9"
+				"51F99A464453161C"
+				"7404008318E1E996"
+				"10F890DFA56B147D"
+				"72F9F0B5C4068EF8"
+				"29986A80BD824BAC"
+				"181288F054BFD1AA"
+				"39DBC5333DB12F63"
+				"0409893931AD6AA0"
+				"4BB99506C4BAA6BA"
+				"783D90D1A676A11A"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: "tinkerscalibration:queens_slime_reinforcement"
+			id: "43B0FC3A2E954971"
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "6328649E69359AC8"
+				table_id: 688548911469463123L
+				team_reward: true
+				title: "完全之校准"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "3B97D538A0747127"
+					type: "checkmark"
+				}
+				{
+					id: "1E68B967FA2D2625"
+					points: false
+					type: "xp"
+					value: 40L
+				}
+			]
+			title: "&e全收集-4-校准&e"
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"18A40639922E8AF3"
+				"4520CBF7D6EF86F9"
+				"348320FE169B032E"
+				"6C1A120B23FB2A61"
+				"3B20B8237FC77E48"
+				"53394EA06ACC5ADB"
+				"7E6047ABCCD7024C"
+				"4647ADC76AE270F3"
+				"5E6D22BD3375DCB2"
+				"5555196F8A086A6A"
+				"7030C654EFA698DE"
+				"6DDEEDF50DDB43ED"
+				"4B608B03A701CABC"
+				"57FC3D410C036FE0"
+				"1BE8D74A476E2793"
+				"26C47C932709EC3B"
+				"383F90A1DB2ADC1E"
+				"1B2ADA04ACD823DC"
+				"3EFEC2D8FA1ECD53"
+				"194B8C023BEAE0CF"
+				"3A3924E973BADDC6"
+				"571775796A0EC48E"
+				"5BB222BBC353B5F4"
+				"6187F4E9DDAC316C"
+				"2C9096F55C734AF9"
+				"51F99A464453161C"
+				"7404008318E1E996"
+				"10F890DFA56B147D"
+				"72F9F0B5C4068EF8"
+				"29986A80BD824BAC"
+				"181288F054BFD1AA"
+				"39DBC5333DB12F63"
+				"0409893931AD6AA0"
+				"4BB99506C4BAA6BA"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: "tinkerscalibration:hymon_arrow"
+			id: "783D90D1A676A11A"
+			min_required_dependencies: 17
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "1D1F5410D0FD9C45"
+				table_id: 1332676982124867357L
+				team_reward: true
+				title: "半身之校准"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "5844F4EFB3953BC0"
+					type: "checkmark"
+				}
+				{
+					id: "6AF9D65AC04CB0E6"
+					points: false
+					type: "xp"
+					value: 4L
+				}
+			]
+			title: "&6半身-4-校准&6"
+			x: 16.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"037FDD2A76ACA9E8"
+				"763E159C60649675"
+				"191D5E76346DFC63"
+				"6D73F887D2FDD12F"
+				"2CAB9A7BC491BE49"
+				"5FCD37AE18EC7AC7"
+				"43EF93C8E68D4E01"
+			]
+			hide: true
+			hide_dependency_lines: true
+			id: "37EAABA47321F8AE"
+			tasks: [{
+				id: "719BB039AB987E6B"
+				title: "&4王之书-下阙&4"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"1367F11B24494615"
+				"698544BED517CA6C"
+				"299B4E94FF0156C3"
+				"5C30E6FF207E0F7E"
+				"520BC67B7E61A061"
+				"31382437DABB0424"
+				"2E3A1C45D052D839"
+				"0585199F0587A906"
+				"78ECB2B323BC797E"
+				"23B90F2625D2E5B3"
+				"3BD9A8E2A83D5998"
+				"2F07A0FE8C552012"
+				"3F2C4E3D7F04246A"
+				"321D3BE2A5AAD9C5"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: "tinkersinnovation:polychrome_mix"
+			id: "2CAB9A7BC491BE49"
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "05F9C1B9968AFB41"
+				table_id: 7631348699973242851L
+				team_reward: true
+				title: "完全之创新"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "6F542EF32A80D13D"
+					type: "checkmark"
+				}
+				{
+					id: "0B93C4C5CB25309B"
+					points: false
+					type: "xp"
+					value: 40L
+				}
+			]
+			title: "&e全收集-5-创新&e"
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"3144E0BE595CAC54"
+				"10CA3DA551E70D2B"
+				"33C0C10D361ED3C0"
+				"77F30F3E1A25D43C"
+				"39D1182813DB49F5"
+				"1B3E18D99461B22E"
+				"2DFDA65576702174"
+				"1C23D1D83B6F70AB"
+				"36F7F6E14E16A68D"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: "create:wrench"
+			id: "191D5E76346DFC63"
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "08C6433092D7841C"
+				table_id: 1150128420161500986L
+				team_reward: true
+				title: "完全之机戈等循"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "1D880C8A3859EB97"
+					type: "checkmark"
+				}
+				{
+					id: "7DF73AAFCD05DC9B"
+					points: false
+					type: "xp"
+					value: 40L
+				}
+			]
+			title: "&e全收集-5-机动-戈伯-等价-循环&e"
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"48615018EB37EC2E"
+				"651365BBD428BC61"
+				"4398D152D02FB5D7"
+				"1FD7BFDF702797BA"
+				"4303B650691AF91E"
+				"1D3E4C93902ED92F"
+				"5BF6873594B6E85A"
+				"3E1F46F616185E0B"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: "l2hostility:greed_of_nidhoggur"
+			id: "5FCD37AE18EC7AC7"
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "31062DADA8D0FBDE"
+				table_id: 2287215250968625681L
+				team_reward: true
+				title: "完全之莱特兰"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "633B25EFD759A563"
+					type: "checkmark"
+				}
+				{
+					id: "5049CE258C18D18E"
+					points: false
+					type: "xp"
+					value: 30L
+				}
+			]
+			title: "&e全收集-6-莱特兰&e"
+			x: -0.5d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"4DCE621FE6424DF1"
+				"6964169BB9B3397F"
+				"6253F66C3229CD82"
+				"071B247A3BD31B26"
+				"2FCA612F13152695"
+				"02EFE7901AC5CB92"
+				"2361BBB336B1EC28"
+				"033EDBD3811752A6"
+				"5DAF1953E3820807"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: "ad_astra:nasa_workbench"
+			id: "037FDD2A76ACA9E8"
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "54FBA5E0F9E52F74"
+				table_id: 379892952930492940L
+				team_reward: true
+				title: "完全之双a杂水灾"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "088123C0DB67B6DF"
+					type: "checkmark"
+				}
+				{
+					id: "36FEE754574E62DE"
+					points: false
+					type: "xp"
+					value: 30L
+				}
+			]
+			title: "&e全收集-6-ad-ae-杂物-水产-灾变&e"
+			x: 0.5d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"540CE4F473EEA492"
+				"0D52E46EB1F2A238"
+				"49E7873F16C2C113"
+				"0C5CF719E212C96D"
+				"7C489CB222B93FD8"
+				"1729424641A6B0E2"
+				"58FD98EAB9716D3B"
+				"49043EDA33A9E908"
+				"301F328BA3D27513"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: {
+				Count: 1b
+				id: "iceandfire:bestiary"
+				tag: {
+					Pages: [I;0]
+				}
+			}
+			id: "43EF93C8E68D4E01"
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "76F27B9D09298370"
+				table_id: 5641351369609959399L
+				team_reward: true
+				title: "完全之冰火"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "47820BF240885D52"
+					type: "checkmark"
+				}
+				{
+					id: "57926D169BAAC9B3"
+					points: false
+					type: "xp"
+					value: 20L
+				}
+			]
+			title: "&e全收集-7-冰火&e"
+			x: -0.5d
+			y: 10.0d
+		}
+		{
+			dependencies: [
+				"315F23882931AD66"
+				"6DE694478127C5F7"
+				"1F49D25D19FFEFDA"
+				"02D838F91EDAC2D9"
+				"0CAD081EECFF923F"
+				"368C9D01CE4C91D4"
+				"236B9AE4B64C8AE4"
+				"0BF4F2D94589A7AC"
+				"10E164F203336C2D"
+				"4872F3A2DDCCD2A9"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: {
+				Count: 1b
+				id: "mekanism:atomic_disassembler"
+				tag: {
+					mekData: {
+						EnergyContainers: [{
+							Container: 0b
+							stored: "1000000"
+						}]
+					}
+				}
+			}
+			id: "6D73F887D2FDD12F"
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "4D5A2C3DA16B25F7"
+				table_id: 7312508979502754664L
+				team_reward: true
+				title: "完全之通神海"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "1C005F221E463CEF"
+					type: "checkmark"
+				}
+				{
+					id: "51465AD4EB5E0521"
+					points: false
+					type: "xp"
+					value: 20L
+				}
+			]
+			title: "&e全收集-7-mek-神遗-海灵&e"
+			x: 0.5d
+			y: 10.0d
+		}
+		{
+			dependencies: [
+				"4FF12107BAC40452"
+				"4EB516A34E4B050F"
+				"4972D4AB575596B8"
+				"43C8E5C04BF84D25"
+				"75DCA2DC1C1F2D29"
+				"72860C5C5ADCB4E1"
+				"019126A6083CC0B7"
+				"618BCBB409EC151E"
+				"40AEBAAFB46A9300"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: "thermal:sapphire_ore"
+			id: "763E159C60649675"
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "6341849FC8F1720B"
+				table_id: 2504344758778097393L
+				team_reward: true
+				title: "全通用"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "3A100D6C82152719"
+					type: "checkmark"
+				}
+				{
+					id: "2917A97766C1D052"
+					points: false
+					type: "xp"
+					value: 10L
+				}
+			]
+			title: "&e全收集-8-通用&e"
+			x: 0.0d
+			y: 11.0d
+		}
+		{
+			dependencies: [
+				"540CE4F473EEA492"
+				"0D52E46EB1F2A238"
+				"49E7873F16C2C113"
+				"0C5CF719E212C96D"
+				"7C489CB222B93FD8"
+				"1729424641A6B0E2"
+				"58FD98EAB9716D3B"
+				"49043EDA33A9E908"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: "iceandfire:dragon_stick"
+			id: "301F328BA3D27513"
+			min_required_dependencies: 4
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "092FA390923184B6"
+				table_id: 6416425686114034814L
+				team_reward: true
+				title: "半身之冰火"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "3C342F3AC388E48E"
+					type: "checkmark"
+				}
+				{
+					id: "592EB58922AC5242"
+					points: false
+					type: "xp"
+					value: 2L
+				}
+			]
+			title: "&6半身-7-冰火&6"
+			x: -9.5d
+			y: 10.0d
+		}
+		{
+			dependencies: [
+				"48615018EB37EC2E"
+				"651365BBD428BC61"
+				"4398D152D02FB5D7"
+				"1FD7BFDF702797BA"
+				"4303B650691AF91E"
+				"1D3E4C93902ED92F"
+				"5BF6873594B6E85A"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: "l2hostility:hostility_orb"
+			id: "3E1F46F616185E0B"
+			min_required_dependencies: 3
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "02E1A755768AB2F3"
+				table_id: 4993962472387378975L
+				team_reward: true
+				title: "半身之莱特兰"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "45F2C365D6E4BB51"
+					type: "checkmark"
+				}
+				{
+					id: "364916449BBD3C89"
+					points: false
+					type: "xp"
+					value: 3L
+				}
+			]
+			title: "&6半身-6-莱特兰&6"
+			x: -9.5d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"4DCE621FE6424DF1"
+				"6964169BB9B3397F"
+				"6253F66C3229CD82"
+				"071B247A3BD31B26"
+				"2FCA612F13152695"
+				"02EFE7901AC5CB92"
+				"2361BBB336B1EC28"
+				"033EDBD3811752A6"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: "cataclysm:flame_eye"
+			id: "5DAF1953E3820807"
+			min_required_dependencies: 5
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "3A8168E23B22E98E"
+				table_id: 6152993474880170606L
+				team_reward: true
+				title: "半身之双a杂水灾"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "2A8CBF4E4F3B02F2"
+					type: "checkmark"
+				}
+				{
+					id: "5C24A852C2EB6352"
+					points: false
+					type: "xp"
+					value: 3L
+				}
+			]
+			title: "&6半身-6-ad-ae-杂物-水产-灾变&6"
+			x: 13.0d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"315F23882931AD66"
+				"6DE694478127C5F7"
+				"1F49D25D19FFEFDA"
+				"02D838F91EDAC2D9"
+				"0CAD081EECFF923F"
+				"368C9D01CE4C91D4"
+				"236B9AE4B64C8AE4"
+				"0BF4F2D94589A7AC"
+				"10E164F203336C2D"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: {
+				Count: 1b
+				id: "aquamirae:dagger_of_greed"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "4872F3A2DDCCD2A9"
+			min_required_dependencies: 4
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "044F4C8183399A88"
+				table_id: 7152965386075869635L
+				team_reward: true
+				title: "半身之通神海"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "2246C8649901B759"
+					type: "checkmark"
+				}
+				{
+					id: "4E0728DCB7B237FD"
+					points: false
+					type: "xp"
+					value: 2L
+				}
+			]
+			title: "&6半身-7-mek-神遗-海灵&6"
+			x: 12.5d
+			y: 10.0d
+		}
+		{
+			dependencies: [
+				"3144E0BE595CAC54"
+				"10CA3DA551E70D2B"
+				"33C0C10D361ED3C0"
+				"77F30F3E1A25D43C"
+				"39D1182813DB49F5"
+				"1B3E18D99461B22E"
+				"2DFDA65576702174"
+				"1C23D1D83B6F70AB"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: {
+				Count: 1b
+				id: "cyclic:soulstone"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "36F7F6E14E16A68D"
+			min_required_dependencies: 4
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "42387D988C3372F5"
+				table_id: 892475583142677620L
+				team_reward: true
+				title: "半身之机戈等循"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "79AF169CE264E2A0"
+					type: "checkmark"
+				}
+				{
+					id: "1FCF40083015AD03"
+					points: false
+					type: "xp"
+					value: 4L
+				}
+			]
+			title: "&6半身-5-机动-戈伯-等价-循环&6"
+			x: 13.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"1367F11B24494615"
+				"698544BED517CA6C"
+				"299B4E94FF0156C3"
+				"5C30E6FF207E0F7E"
+				"520BC67B7E61A061"
+				"31382437DABB0424"
+				"2E3A1C45D052D839"
+				"0585199F0587A906"
+				"78ECB2B323BC797E"
+				"23B90F2625D2E5B3"
+				"3BD9A8E2A83D5998"
+				"2F07A0FE8C552012"
+				"3F2C4E3D7F04246A"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: "tinkersinnovation:teleport_core"
+			id: "321D3BE2A5AAD9C5"
+			min_required_dependencies: 6
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "4246518B17A0108C"
+				table_id: 4486682724805658089L
+				team_reward: true
+				title: "半身之创新"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "6B8E8CCAF1330D8E"
+					type: "checkmark"
+				}
+				{
+					id: "6537F4782D2D907B"
+					points: false
+					type: "xp"
+					value: 4L
+				}
+			]
+			title: "&6半身-5-创新&6"
+			x: -10.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"4FF12107BAC40452"
+				"4EB516A34E4B050F"
+				"4972D4AB575596B8"
+				"43C8E5C04BF84D25"
+				"75DCA2DC1C1F2D29"
+				"72860C5C5ADCB4E1"
+				"019126A6083CC0B7"
+				"618BCBB409EC151E"
+			]
+			hide: true
+			hide_dependency_lines: true
+			icon: "thermal:ruby_ore"
+			id: "40AEBAAFB46A9300"
+			min_required_dependencies: 4
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "3EA7BB72EEB344CB"
+				table_id: 1912554229910742985L
+				team_reward: true
+				title: "半通用"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "6DD6109EACF7254C"
+					type: "checkmark"
+				}
+				{
+					id: "542557AFA4BACE89"
+					points: false
+					type: "xp"
+					value: 1L
+				}
+			]
+			title: "&6半身-8-通用&6"
+			x: 0.0d
+			y: 16.0d
+		}
+		{
+			dependencies: [
+				"66312A1EAB064889"
+				"3B12C53C1B2723E8"
+				"21C201628285F7E7"
+				"011504FACBDF6BB3"
+				"71EC7F3CE1B23E05"
+				"3DAFA0457C9ADFD8"
+				"48D076FBEE3F88DC"
+				"37BA0CE632397E6C"
+				"757E8E8E62D8BF84"
+				"0F964E1B6A577C14"
+				"5A177612636832FF"
+				"17AEE4B63D7AD491"
+				"4D93CC06CCE72F46"
+				"1A1603B3CC1550C7"
+				"12EF16CC54DB2A80"
+				"0103238D0D08C7DF"
+				"32C861C0EA6590F4"
+				"0E4DA1DE1F52E2DB"
+				"76964B4F3619FDDA"
+				"10CCD93E1341CC53"
+				"64BBC9C57632354A"
+			]
+			hide: true
+			hide_dependency_lines: true
+			id: "2D47F772E9C2C63A"
+			tasks: [{
+				id: "025BCACA5A603466"
+				type: "checkmark"
+			}]
+			title: "&e全集中-0-乙硫醇&e"
+			x: -1.0d
+			y: -12.0d
+		}
+		{
+			dependencies: [
+				"2CE2E4DBF4A92FB0"
+				"0B6809AD9AE42F00"
+				"7EFA38D13D8B0742"
+				"10EB1900D7BFB547"
+				"0614299A9C274E7A"
+				"5B50FE932D386CFE"
+				"201AA91675EAEAA0"
+				"1C79A5059F1163A1"
+				"137ABF0F05A262BB"
+				"1ED4391AB6EBD029"
+				"2A3CC0141EC352E4"
+				"2C6313FC903934A1"
+			]
+			hide: true
+			hide_dependency_lines: true
+			id: "397DB72C9E6585BC"
+			tasks: [{
+				id: "689B4C663825A51D"
+				type: "checkmark"
+			}]
+			title: "&e全集中-0-联合&e"
+			x: 1.0d
+			y: -12.0d
+		}
+		{
+			dependencies: [
+				"298F305F144D66A9"
+				"5765FF5BD46D77E6"
+				"50CBF05FC26D95F2"
+				"761D1E5FE8037EAD"
+				"12476FEB77EFC36F"
+				"18CF936ECC095BF4"
+				"358D09D7A23914A8"
+			]
+			hide: true
+			hide_dependency_lines: true
+			id: "2E7E4B5A79507FCA"
+			tasks: [{
+				id: "7882D605AD9A30B8"
+				type: "checkmark"
+			}]
+			title: "&3全开发-?-因缘际会&3"
+			x: -1.0d
+			y: -14.5d
+		}
+		{
+			dependencies: [
+				"3AE49D2B0849ACD4"
+				"401C9CB8D385ABFA"
+				"47899E59F8254F60"
+			]
+			hide: true
+			hide_dependency_lines: true
+			id: "79DE41D0F622C3C3"
+			tasks: [{
+				id: "35D1776A5833969B"
+				type: "checkmark"
+			}]
+			title: "&5全监察-?-观者&5"
+			x: 1.0d
+			y: -14.5d
+		}
+		{
+			dependencies: [
+				"2CE2E4DBF4A92FB0"
+				"0B6809AD9AE42F00"
+				"7EFA38D13D8B0742"
+				"10EB1900D7BFB547"
+				"0614299A9C274E7A"
+				"5B50FE932D386CFE"
+				"201AA91675EAEAA0"
+				"1C79A5059F1163A1"
+				"137ABF0F05A262BB"
+				"1ED4391AB6EBD029"
+				"2A3CC0141EC352E4"
+				"3EB93BC831309720"
+				"35A2B96AE3FA31D7"
+			]
+			hide: true
+			hide_dependency_lines: true
+			id: "2C6313FC903934A1"
+			min_required_dependencies: 5
+			tasks: [{
+				id: "2F7F29E798CE81C0"
+				type: "checkmark"
+			}]
+			title: "&e专精-0-工匠联合&e"
+			x: 11.0d
+			y: -12.0d
+		}
+		{
+			dependencies: [
+				"66312A1EAB064889"
+				"3B12C53C1B2723E8"
+				"21C201628285F7E7"
+				"011504FACBDF6BB3"
+				"71EC7F3CE1B23E05"
+				"3DAFA0457C9ADFD8"
+				"48D076FBEE3F88DC"
+				"37BA0CE632397E6C"
+				"757E8E8E62D8BF84"
+				"0F964E1B6A577C14"
+				"5A177612636832FF"
+				"17AEE4B63D7AD491"
+				"4D93CC06CCE72F46"
+				"1A1603B3CC1550C7"
+				"12EF16CC54DB2A80"
+				"0103238D0D08C7DF"
+				"32C861C0EA6590F4"
+				"0E4DA1DE1F52E2DB"
+				"76964B4F3619FDDA"
+				"64BBC9C57632354A"
+				"6D5FB9186D1E29CE"
+				"6004848464E03180"
+			]
+			hide: true
+			hide_dependency_lines: true
+			id: "10CCD93E1341CC53"
+			min_required_dependencies: 11
+			tasks: [{
+				id: "672432D829578D99"
+				type: "checkmark"
+			}]
+			title: "&e专注-0-乙硫醇&e"
+			x: -14.0d
+			y: -12.0d
+		}
+		{
+			dependencies: [
+				"3AE49D2B0849ACD4"
+				"401C9CB8D385ABFA"
+				"08F38624C4F3E33D"
+				"5CB8FD73752F2797"
+				"73EFB2B647D86632"
+				"36D4850E0779C557"
+			]
+			hide: true
+			hide_dependency_lines: true
+			id: "47899E59F8254F60"
+			min_required_dependencies: 3
+			tasks: [{
+				id: "63812EF2BB8F77E2"
+				type: "checkmark"
+			}]
+			title: "&5时者-?-观者&5"
+			x: 10.0d
+			y: -14.5d
+		}
+		{
+			dependencies: [
+				"298F305F144D66A9"
+				"5765FF5BD46D77E6"
+				"50CBF05FC26D95F2"
+				"761D1E5FE8037EAD"
+				"12476FEB77EFC36F"
+				"358D09D7A23914A8"
+				"6A271283C0468D69"
+				"551007C0C57D2FE1"
+			]
+			hide: true
+			hide_dependency_lines: true
+			id: "18CF936ECC095BF4"
+			min_required_dependencies: 5
+			tasks: [{
+				id: "24C9489534935081"
+				type: "checkmark"
+			}]
+			title: "&3全力全开-?-因缘际会&3"
+			x: -13.0d
+			y: -14.5d
+		}
+		{
+			dependencies: [
+				"447FE97C6C675CC6"
+				"2D36ADFCF74581BA"
+				"6B36D42146A3B9E1"
+				"19B36B3E29350532"
+				"594A2CFD45102DAC"
+				"51A8396100B7A725"
+				"2E6DA8F67D1611F0"
+				"43B0FC3A2E954971"
+			]
+			hide: true
+			hide_dependency_lines: true
+			id: "1DAE39531EA8F235"
+			shape: "hexagon"
+			tasks: [{
+				id: "453C83934451655F"
+				type: "checkmark"
+			}]
+			title: "&4王之书-上阙&4"
+			x: 0.0d
+			y: -0.75d
+		}
+		{
+			dependencies: [
+				"5C6DF2837F509BDB"
+				"2535AAE682ACB858"
+				"397DB72C9E6585BC"
+				"2D47F772E9C2C63A"
+				"202E920E9A96D62B"
+				"2E7E4B5A79507FCA"
+				"79DE41D0F622C3C3"
+			]
+			hide: true
+			hide_dependency_lines: true
+			id: "34FC839ADFFB213A"
+			tasks: [{
+				id: "10DF689C841B537A"
+				type: "checkmark"
+			}]
+			title: "&4王之书-规格外&4"
+			x: 0.0d
+			y: -15.5d
+		}
+		{
+			dependencies: [
+				"1DAE39531EA8F235"
+				"37EAABA47321F8AE"
+				"19657FDEC69D0FA2"
+				"34FC839ADFFB213A"
+			]
+			description: [""]
+			hide: true
+			hide_dependency_lines: true
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			icon: "citadel:fancy_item"
+			id: "483392A96FE749D4"
+			shape: "diamond"
+			size: 8.0d
+			subtitle: "&l&o&4你成功了，但匠魂的故事还没有结束&l&o&4"
+			tasks: [{
+				id: "1FA2FAF613C8E587"
+				type: "checkmark"
+			}]
+			title: "&k&0&l&o来自叙事层之外的力量&o&l&0&k"
+			x: 0.0d
+			y: -26.5d
+		}
+		{
+			id: "6BE4A4DC4D790C92"
+			subtitle: "增加了工具的面板"
+			tasks: [{
+				id: "1A2A9E3D710C4A99"
+				type: "checkmark"
+			}]
+			title: "面板材料"
+			x: 18.5d
+			y: 1.5d
+		}
+		{
+			id: "4119F51574FECC74"
+			subtitle: "增加了耐久度或者减少了耐久消耗"
+			tasks: [{
+				id: "1DE04D2F44A63D71"
+				type: "checkmark"
+			}]
+			title: "耐久材料"
+			x: 18.5d
+			y: 5.5d
+		}
+		{
+			id: "550D98AFC860CA2D"
+			subtitle: "直接增幅了攻击伤害或减少受到伤害"
+			tasks: [{
+				id: "2799BC175CC7B560"
+				type: "checkmark"
+			}]
+			title: "基础材料"
+			x: 18.5d
+			y: 0.5d
+		}
+		{
+			id: "37246D05A2E56366"
+			subtitle: "具有独特的攻击面或者对部分L2词条特攻"
+			tasks: [{
+				id: "5110AC3CB279E564"
+				type: "checkmark"
+			}]
+			title: "高机制材料"
+			x: 18.5d
+			y: -0.5d
+		}
+		{
+			id: "32DFC2CF39FBD933"
+			subtitle: "在多个方面上都比较优秀，很难简单描述"
+			tasks: [{
+				id: "1E1DB67259740045"
+				type: "checkmark"
+			}]
+			title: "多功能材料"
+			x: 18.5d
+			y: 2.5d
+		}
+		{
+			id: "4F6896D48818405D"
+			subtitle: "提供回血、吸血、免死或者生命上限"
+			tasks: [{
+				id: "4D115E25CCE83CD0"
+				type: "checkmark"
+			}]
+			title: "续航材料"
+			x: 18.5d
+			y: 3.5d
+		}
+		{
+			id: "0112CD87EC9C4B57"
+			subtitle: "提供正面效果、属性加成、饱食度"
+			tasks: [{
+				id: "161A549D207AE986"
+				type: "checkmark"
+			}]
+			title: "探索材料"
+			x: 18.5d
+			y: 4.5d
+		}
+		{
+			id: "2247B41C254F911E"
+			tasks: [{
+				id: "48B78BA13C063E60"
+				type: "checkmark"
+			}]
+			title: "防御性材料"
+			x: 20.0d
+			y: 5.5d
+		}
+		{
+			id: "20A7761C54B2E45A"
+			tasks: [{
+				id: "5C1F936AE306CB56"
+				type: "checkmark"
+			}]
+			title: "进攻性材料"
+			x: 20.0d
+			y: 4.5d
+		}
+		{
+			id: "6ABCDAB93C31DE39"
+			subtitle: "提供对效果的免疫或者清除"
+			tasks: [{
+				id: "25EE1003AB748648"
+				type: "checkmark"
+			}]
+			title: "免疫性材料"
+			x: 21.5d
+			y: 5.5d
+		}
+		{
+			id: "67D1851EB94D61A5"
+			tasks: [{
+				id: "04BBFF696B72EF9E"
+				type: "checkmark"
+			}]
+			title: "创造模式飞行材料"
+			x: 21.5d
+			y: 4.5d
+		}
+		{
+			description: [
+				"这是cti0.35d版本及以前的全材料收集及简评任务，随着版本的更新这个任务被废弃了。"
+				""
+				"但因为这个任务陪伴了大家很久，编辑人员实在舍不得删掉，故隐藏在此作为纪念。"
+			]
+			id: "4854534B835FC054"
+			size: 8.0d
+			tasks: [{
+				id: "31257CF89405CF9C"
+				title: "这是什么"
+				type: "checkmark"
+			}]
+			x: -20.0d
+			y: -4.0d
+		}
+	]
+	subtitle: [
+		"王之书-永恒追求的工匠之魂"
+		"-by 团队协作"
+	]
+	title: "材料全收集"
+}
